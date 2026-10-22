@@ -9,8 +9,8 @@
 
 Dette repository indeholder **udelukkende færdigbehandlede, statiske datalister** i universelle dataformater (`.csv`, `.json`, `.txt`).
 
-> **Kilderepository & bygge-scripts:** [OpenData](https://git.p20.dev/christian/OpenData.git)  
-> **Seneste synkronisering:** `2026-10-22 18:20:21 UTC`  
+> **Type:** Færdigbehandlede åbne datasæt (read-only distribution)  
+> **Seneste synkronisering:** `2026-10-22 18:29:48 UTC`  
 > **Samlet antal lister:** `186` filer (46.2 MB)
 
 ### 📂 Mappestruktur & Filformater
@@ -77,15 +77,13 @@ Top 50-lister over nyfødtes navne i Danmark fra 1985 frem til seneste opgørels
 ### 🔄 Integritet & Opdatering
 
 Alle filers SHA-256 hash og størrelse registreres i [`dataset_manifest.json`](dataset_manifest.json).
-Ved enhver synkronisering fra kilderepositoriet verificeres filernes integritet og versionshistorik automatisk.
+Ved enhver synkronisering verificeres filernes integritet og versionshistorik automatisk.
 
 ### 📜 Licenser & Kildeangivelse
 
 - **COR (cor_ordlister, cor_ekstra):** Creative Commons CC0 1.0 Universal (Det Centrale Ordregister / Dansk Sprognævn).
 - **Danmarks Statistik (dst_alkohol_tobak, dst_navne):** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.da) (Danmarks Statistik).
 - **Danske Åbne Datakilder:** [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/).
-
-For transformerscripts, rådata-downloaders og pipeline-koder henvises til [OpenData](https://git.p20.dev/christian/OpenData.git).
 
 ---
 
@@ -94,8 +92,8 @@ For transformerscripts, rådata-downloaders og pipeline-koder henvises til [Open
 
 This repository contains **exclusively static, processed data lists** in open universal formats (`.csv`, `.json`, `.txt`).
 
-> **Source repository & pipelines:** [OpenData](https://git.p20.dev/christian/OpenData.git)  
-> **Last synchronized:** `2026-10-22 18:20:21 UTC`  
+> **Type:** Processed static open datasets (distribution release)  
+> **Last synchronized:** `2026-10-22 18:29:48 UTC`  
 > **Total datasets:** `186` files (46.2 MB)
 
 ### 📂 Directory Structure & Formats
@@ -160,5 +158,3 @@ Each release computes SHA-256 checksums stored in [`dataset_manifest.json`](data
 - **COR (cor_ordlister, cor_ekstra):** Creative Commons CC0 1.0 Universal (Det Centrale Ordregister / Danish Language Council).
 - **Statistics Denmark (dst_alkohol_tobak, dst_navne):** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) (Danmarks Statistik).
 - **Danish Open Data Catalog:** [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/).
-
-For raw data downloaders, build scripts, and MCP server integrations, visit [OpenData](https://git.p20.dev/christian/OpenData.git).
