@@ -10,7 +10,7 @@
 Dette repository indeholder **udelukkende færdigbehandlede, statiske datalister** i universelle dataformater (`.csv`, `.json`, `.txt`).
 
 > **Type:** Færdigbehandlede åbne datasæt (read-only distribution)  
-> **Seneste synkronisering:** `2026-10-22 18:29:48 UTC`  
+> **Seneste synkronisering:** `2026-10-22 18:48:45 UTC`  
 > **Samlet antal lister:** `186` filer (46.2 MB)
 
 ### 📂 Mappestruktur & Filformater
@@ -93,7 +93,7 @@ Ved enhver synkronisering verificeres filernes integritet og versionshistorik au
 This repository contains **exclusively static, processed data lists** in open universal formats (`.csv`, `.json`, `.txt`).
 
 > **Type:** Processed static open datasets (distribution release)  
-> **Last synchronized:** `2026-10-22 18:29:48 UTC`  
+> **Last synchronized:** `2026-10-22 18:48:45 UTC`  
 > **Total datasets:** `186` files (46.2 MB)
 
 ### 📂 Directory Structure & Formats
