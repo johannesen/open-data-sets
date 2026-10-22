@@ -1,0 +1,11 @@
+ordklasse_kode,beskrivelse,antal_grundformer,antal_boejede_former
+sb,substantiver_navneord,42493,309229
+adj,adjektiver_tillaegsord,10646,25697
+vb,verber_udsnagnsord,7018,56461
+adv,adverbier_biord,784,820
+udråbsord,udraabsord_interjektioner,129,141
+talord,talord_numeralier,113,222
+præp,praepositioner_forholdsord,93,93
+konj,konjunktioner_bindeord,60,64
+pron,pronominer_stedord,36,89
+lydord,lydord_onomatopoietika,34,35

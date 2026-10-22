@@ -1,0 +1,1496 @@
+{
+  "generated_at": "2026-10-22T18:06:26.001109+00:00",
+  "source_repo": "https://git.p20.dev/christian/OpenData.git",
+  "datasets_repo": "https://git.p20.dev/christian/OpenDataSets.git",
+  "total_files": 186,
+  "files": [
+    {
+      "name": "ordklasse_kamaeleoner.csv",
+      "format": "csv",
+      "rel_source": "cor_ekstra/grammatik/ordklasse_kamaeleoner.csv",
+      "rel_target": "cor_ekstra/grammatik/csv/ordklasse_kamaeleoner.csv",
+      "sha256": "0ce720ea6d65bb2a3b62452e08fb2f54309aced227f6437c2c78eb6ad86ca9bc",
+      "bytes": 26486
+    },
+    {
+      "name": "ordklasse_kamaeleoner.json",
+      "format": "json",
+      "rel_source": "cor_ekstra/grammatik/ordklasse_kamaeleoner.json",
+      "rel_target": "cor_ekstra/grammatik/json/ordklasse_kamaeleoner.json",
+      "sha256": "279d7ea06e90a2e3d7b79302fe0ebe8ce84cf262fd8be8c8e835371d26f60d5d",
+      "bytes": 134716
+    },
+    {
+      "name": "plurale_tantum_kun_flertal.csv",
+      "format": "csv",
+      "rel_source": "cor_ekstra/grammatik/plurale_tantum_kun_flertal.csv",
+      "rel_target": "cor_ekstra/grammatik/csv/plurale_tantum_kun_flertal.csv",
+      "sha256": "ab69b48b021b4e12122666f505804756b250be9004c8e0f9eb0f62cb854b61e0",
+      "bytes": 3151
+    },
+    {
+      "name": "plurale_tantum_kun_flertal.json",
+      "format": "json",
+      "rel_source": "cor_ekstra/grammatik/plurale_tantum_kun_flertal.json",
+      "rel_target": "cor_ekstra/grammatik/json/plurale_tantum_kun_flertal.json",
+      "sha256": "e39724b66e776f27da1e3d8950d12efc86545445760d86eccb605bfc0f746544",
+      "bytes": 4447
+    },
+    {
+      "name": "plurale_tantum_kun_flertal.txt",
+      "format": "txt",
+      "rel_source": "cor_ekstra/grammatik/plurale_tantum_kun_flertal.txt",
+      "rel_target": "cor_ekstra/grammatik/txt/plurale_tantum_kun_flertal.txt",
+      "sha256": "47aae00ab84763ee957e0f00cb02d122a3f6173cd81719d6986d1e87986d1563",
+      "bytes": 3139
+    },
+    {
+      "name": "singulare_tantum_kun_ental.csv",
+      "format": "csv",
+      "rel_source": "cor_ekstra/grammatik/singulare_tantum_kun_ental.csv",
+      "rel_target": "cor_ekstra/grammatik/csv/singulare_tantum_kun_ental.csv",
+      "sha256": "b0e62964b0ed8528443150f638b93d25f3cc31b0fe5e1c0c17339be9154bdfbd",
+      "bytes": 75198
+    },
+    {
+      "name": "singulare_tantum_kun_ental.json",
+      "format": "json",
+      "rel_source": "cor_ekstra/grammatik/singulare_tantum_kun_ental.json",
+      "rel_target": "cor_ekstra/grammatik/json/singulare_tantum_kun_ental.json",
+      "sha256": "cf25ea247d17f8e70c319c459f5e5951088f758eb81333b3c24bed755c66664b",
+      "bytes": 108094
+    },
+    {
+      "name": "singulare_tantum_kun_ental.txt",
+      "format": "txt",
+      "rel_source": "cor_ekstra/grammatik/singulare_tantum_kun_ental.txt",
+      "rel_target": "cor_ekstra/grammatik/txt/singulare_tantum_kun_ental.txt",
+      "sha256": "39b0c136064697d957063ce35ca286da471744a54f089dfbe7db261601a39e53",
+      "bytes": 75186
+    },
+    {
+      "name": "substantiver_valgfrit_koen.csv",
+      "format": "csv",
+      "rel_source": "cor_ekstra/grammatik/substantiver_valgfrit_koen.csv",
+      "rel_target": "cor_ekstra/grammatik/csv/substantiver_valgfrit_koen.csv",
+      "sha256": "8753f1f15224895d42c9dd8a3afccf7ac36aa753db9c88c5e0a942e83541e379",
+      "bytes": 7554
+    },
+    {
+      "name": "substantiver_valgfrit_koen.json",
+      "format": "json",
+      "rel_source": "cor_ekstra/grammatik/substantiver_valgfrit_koen.json",
+      "rel_target": "cor_ekstra/grammatik/json/substantiver_valgfrit_koen.json",
+      "sha256": "72bb0bbeb7062b6b1209c1c27549ba7238fd6fabff285897301adda2d34fb2bf",
+      "bytes": 11780
+    },
+    {
+      "name": "substantiver_valgfrit_koen.txt",
+      "format": "txt",
+      "rel_source": "cor_ekstra/grammatik/substantiver_valgfrit_koen.txt",
+      "rel_target": "cor_ekstra/grammatik/txt/substantiver_valgfrit_koen.txt",
+      "sha256": "368cfd1f653cdd85684b76a115fd81aa571b63271e86075201a60e01d2a9ad6c",
+      "bytes": 7542
+    },
+    {
+      "name": "uregelmaessige_verber.csv",
+      "format": "csv",
+      "rel_source": "cor_ekstra/grammatik/uregelmaessige_verber.csv",
+      "rel_target": "cor_ekstra/grammatik/csv/uregelmaessige_verber.csv",
+      "sha256": "7adec266db0685e1007cec3af2bc255bd710d20fe3f3e93500686cf0be850afb",
+      "bytes": 30496
+    },
+    {
+      "name": "uregelmaessige_verber.json",
+      "format": "json",
+      "rel_source": "cor_ekstra/grammatik/uregelmaessige_verber.json",
+      "rel_target": "cor_ekstra/grammatik/json/uregelmaessige_verber.json",
+      "sha256": "52bfeee77ea9b4d648e1d717331202a5ff87863e4b2caf4bf759b548e2828abd",
+      "bytes": 113549
+    },
+    {
+      "name": "isogrammer_uden_gentagne_bogstaver.csv",
+      "format": "csv",
+      "rel_source": "cor_ekstra/kuriositeter/isogrammer_uden_gentagne_bogstaver.csv",
+      "rel_target": "cor_ekstra/kuriositeter/csv/isogrammer_uden_gentagne_bogstaver.csv",
+      "sha256": "9edb26e3b3409751d51b5a160269230999eef54d12e86a2ae95e9a4f8a9c4045",
+      "bytes": 31515
+    },
+    {
+      "name": "isogrammer_uden_gentagne_bogstaver.json",
+      "format": "json",
+      "rel_source": "cor_ekstra/kuriositeter/isogrammer_uden_gentagne_bogstaver.json",
+      "rel_target": "cor_ekstra/kuriositeter/json/isogrammer_uden_gentagne_bogstaver.json",
+      "sha256": "16cfa11631f0abd178df3cf75f525bd7ac025af4ada09dcb474f7dc553dd974e",
+      "bytes": 43794
+    },
+    {
+      "name": "isogrammer_uden_gentagne_bogstaver.txt",
+      "format": "txt",
+      "rel_source": "cor_ekstra/kuriositeter/isogrammer_uden_gentagne_bogstaver.txt",
+      "rel_target": "cor_ekstra/kuriositeter/txt/isogrammer_uden_gentagne_bogstaver.txt",
+      "sha256": "430e15c07c57d53953b0ebaf458f290f58cd0ed06e7d8285a3f8962b3427240b",
+      "bytes": 31506
+    },
+    {
+      "name": "konsonanter_5_plus_i_traek.csv",
+      "format": "csv",
+      "rel_source": "cor_ekstra/kuriositeter/konsonanter_5_plus_i_traek.csv",
+      "rel_target": "cor_ekstra/kuriositeter/csv/konsonanter_5_plus_i_traek.csv",
+      "sha256": "9d0c98e53f54f3175d85e6c6abdc0c7abebb042fc0896ff4c5d4c5340f93e793",
+      "bytes": 62207
+    },
+    {
+      "name": "konsonanter_5_plus_i_traek.json",
+      "format": "json",
+      "rel_source": "cor_ekstra/kuriositeter/konsonanter_5_plus_i_traek.json",
+      "rel_target": "cor_ekstra/kuriositeter/json/konsonanter_5_plus_i_traek.json",
+      "sha256": "a3d477a36ff6de47f5ffb2eb4f05bf53982afaa0651a7b7eb6fc7010de339683",
+      "bytes": 233110
+    },
+    {
+      "name": "paafolgende_dobbeltkonsonanter.csv",
+      "format": "csv",
+      "rel_source": "cor_ekstra/kuriositeter/paafolgende_dobbeltkonsonanter.csv",
+      "rel_target": "cor_ekstra/kuriositeter/csv/paafolgende_dobbeltkonsonanter.csv",
+      "sha256": "92b021f0936d15e23ede1be7e395001d6090cd4f917e0d919a4c61d942e96deb",
+      "bytes": 3511
+    },
+    {
+      "name": "paafolgende_dobbeltkonsonanter.json",
+      "format": "json",
+      "rel_source": "cor_ekstra/kuriositeter/paafolgende_dobbeltkonsonanter.json",
+      "rel_target": "cor_ekstra/kuriositeter/json/paafolgende_dobbeltkonsonanter.json",
+      "sha256": "f6e6d0fc926040a74ca0a61452542e2887231b48d266c6c9bc56abc4d5e5a4ff",
+      "bytes": 4729
+    },
+    {
+      "name": "paafolgende_dobbeltkonsonanter.txt",
+      "format": "txt",
+      "rel_source": "cor_ekstra/kuriositeter/paafolgende_dobbeltkonsonanter.txt",
+      "rel_target": "cor_ekstra/kuriositeter/txt/paafolgende_dobbeltkonsonanter.txt",
+      "sha256": "98afbd394182f12890db8851b3a7781cff5e28ebc42700ed633a9168bc6c61d3",
+      "bytes": 3506
+    },
+    {
+      "name": "q_uden_u.csv",
+      "format": "csv",
+      "rel_source": "cor_ekstra/kuriositeter/q_uden_u.csv",
+      "rel_target": "cor_ekstra/kuriositeter/csv/q_uden_u.csv",
+      "sha256": "7699f0a1d77a991ec395d1aefe0213aac8b6e27f18cbcc982a82b306912e84a2",
+      "bytes": 214
+    },
+    {
+      "name": "q_uden_u.json",
+      "format": "json",
+      "rel_source": "cor_ekstra/kuriositeter/q_uden_u.json",
+      "rel_target": "cor_ekstra/kuriositeter/json/q_uden_u.json",
+      "sha256": "be0ff7c066326fba5e5f581f67d75120a02237f2f54f9170663c27a3843e0c32",
+      "bytes": 322
+    },
+    {
+      "name": "q_uden_u.txt",
+      "format": "txt",
+      "rel_source": "cor_ekstra/kuriositeter/q_uden_u.txt",
+      "rel_target": "cor_ekstra/kuriositeter/txt/q_uden_u.txt",
+      "sha256": "661e2949ccfdd164b532fa3d0fc33253d80309201bc26342c13d697807bd23ac",
+      "bytes": 209
+    },
+    {
+      "name": "scrabble_svaere_korte_ord.csv",
+      "format": "csv",
+      "rel_source": "cor_ekstra/kuriositeter/scrabble_svaere_korte_ord.csv",
+      "rel_target": "cor_ekstra/kuriositeter/csv/scrabble_svaere_korte_ord.csv",
+      "sha256": "ac23c8989610023b69b051c2d5f5fec6256a3dc742707af355ec36560a067c4c",
+      "bytes": 883
+    },
+    {
+      "name": "scrabble_svaere_korte_ord.json",
+      "format": "json",
+      "rel_source": "cor_ekstra/kuriositeter/scrabble_svaere_korte_ord.json",
+      "rel_target": "cor_ekstra/kuriositeter/json/scrabble_svaere_korte_ord.json",
+      "sha256": "bed59a529e486fd18b23e2305d51fb01d2367662ee9cb59e9d2468bc3cc183df",
+      "bytes": 1686
+    },
+    {
+      "name": "scrabble_svaere_korte_ord.txt",
+      "format": "txt",
+      "rel_source": "cor_ekstra/kuriositeter/scrabble_svaere_korte_ord.txt",
+      "rel_target": "cor_ekstra/kuriositeter/txt/scrabble_svaere_korte_ord.txt",
+      "sha256": "9ac0687e635cd1535287a85aaa9d8518c45add33d55c47374ccfc2dc7d66ae8c",
+      "bytes": 878
+    },
+    {
+      "name": "semordnilaps_venderord.csv",
+      "format": "csv",
+      "rel_source": "cor_ekstra/kuriositeter/semordnilaps_venderord.csv",
+      "rel_target": "cor_ekstra/kuriositeter/csv/semordnilaps_venderord.csv",
+      "sha256": "13387f072024eb5cf8c651409d409215c850b4d27a4b3f7a1c4e37d00b49a417",
+      "bytes": 6210
+    },
+    {
+      "name": "semordnilaps_venderord.json",
+      "format": "json",
+      "rel_source": "cor_ekstra/kuriositeter/semordnilaps_venderord.json",
+      "rel_target": "cor_ekstra/kuriositeter/json/semordnilaps_venderord.json",
+      "sha256": "6a3531927921835c1b905148a4aab511c512dfc2fbc8d0b2bbc8b01c1074a662",
+      "bytes": 34452
+    },
+    {
+      "name": "tre_ens_bogstaver_i_traek.csv",
+      "format": "csv",
+      "rel_source": "cor_ekstra/kuriositeter/tre_ens_bogstaver_i_traek.csv",
+      "rel_target": "cor_ekstra/kuriositeter/csv/tre_ens_bogstaver_i_traek.csv",
+      "sha256": "18ec5946a02f5db0c417d6b86605a8e926e6914ef8ae3be5a03358d20d0fa1e4",
+      "bytes": 194
+    },
+    {
+      "name": "tre_ens_bogstaver_i_traek.json",
+      "format": "json",
+      "rel_source": "cor_ekstra/kuriositeter/tre_ens_bogstaver_i_traek.json",
+      "rel_target": "cor_ekstra/kuriositeter/json/tre_ens_bogstaver_i_traek.json",
+      "sha256": "c326aaa9bdd11c253b03665f247ec287f458466b0e3d558e682bb66e1603ba00",
+      "bytes": 262
+    },
+    {
+      "name": "tre_ens_bogstaver_i_traek.txt",
+      "format": "txt",
+      "rel_source": "cor_ekstra/kuriositeter/tre_ens_bogstaver_i_traek.txt",
+      "rel_target": "cor_ekstra/kuriositeter/txt/tre_ens_bogstaver_i_traek.txt",
+      "sha256": "57a1b982f3d1509075fe696571f273c02cffaa9489fb206723c8b612eb245534",
+      "bytes": 189
+    },
+    {
+      "name": "vokaler_3_plus_i_traek.csv",
+      "format": "csv",
+      "rel_source": "cor_ekstra/kuriositeter/vokaler_3_plus_i_traek.csv",
+      "rel_target": "cor_ekstra/kuriositeter/csv/vokaler_3_plus_i_traek.csv",
+      "sha256": "6831d0e97ac8348324be15b5e57583254ee29cda6dba03bc0bc811e75f145edc",
+      "bytes": 36370
+    },
+    {
+      "name": "vokaler_3_plus_i_traek.json",
+      "format": "json",
+      "rel_source": "cor_ekstra/kuriositeter/vokaler_3_plus_i_traek.json",
+      "rel_target": "cor_ekstra/kuriositeter/json/vokaler_3_plus_i_traek.json",
+      "sha256": "58c0871ef7677624656fe9bf835e185445514d9b1266665f7368c1ab150f6e75",
+      "bytes": 149003
+    },
+    {
+      "name": "adjektiver_tillaegsord_grundformer.csv",
+      "format": "csv",
+      "rel_source": "cor_ekstra/ordklasser/adjektiver_tillaegsord_grundformer.csv",
+      "rel_target": "cor_ekstra/ordklasser/csv/adjektiver_tillaegsord_grundformer.csv",
+      "sha256": "470167505160446a00781c37f8281bc1e916caae44f4e62f9af5e09eabd1f720",
+      "bytes": 125188
+    },
+    {
+      "name": "adjektiver_tillaegsord_grundformer.json",
+      "format": "json",
+      "rel_source": "cor_ekstra/ordklasser/adjektiver_tillaegsord_grundformer.json",
+      "rel_target": "cor_ekstra/ordklasser/json/adjektiver_tillaegsord_grundformer.json",
+      "sha256": "beb5f451ed54085460f9f428a68e1d129cef97b9650dc928884bfcd0d3eee17f",
+      "bytes": 178414
+    },
+    {
+      "name": "adjektiver_tillaegsord_grundformer.txt",
+      "format": "txt",
+      "rel_source": "cor_ekstra/ordklasser/adjektiver_tillaegsord_grundformer.txt",
+      "rel_target": "cor_ekstra/ordklasser/txt/adjektiver_tillaegsord_grundformer.txt",
+      "sha256": "edaf4cb491cb2a3942b0c5d3330897f25478be824124860694ea98d5754f6162",
+      "bytes": 125181
+    },
+    {
+      "name": "adverbier_biord_grundformer.csv",
+      "format": "csv",
+      "rel_source": "cor_ekstra/ordklasser/adverbier_biord_grundformer.csv",
+      "rel_target": "cor_ekstra/ordklasser/csv/adverbier_biord_grundformer.csv",
+      "sha256": "813dffa91aab87684ebdf5a10406a04cc7fa414b2e02df12e5b480bdc6a22e8d",
+      "bytes": 7379
+    },
+    {
+      "name": "adverbier_biord_grundformer.json",
+      "format": "json",
+      "rel_source": "cor_ekstra/ordklasser/adverbier_biord_grundformer.json",
+      "rel_target": "cor_ekstra/ordklasser/json/adverbier_biord_grundformer.json",
+      "sha256": "ace1c1213b4f1026dd6e1ba96a9d9f9256204f1efdd64485e48508e5a90f2ebb",
+      "bytes": 11295
+    },
+    {
+      "name": "adverbier_biord_grundformer.txt",
+      "format": "txt",
+      "rel_source": "cor_ekstra/ordklasser/adverbier_biord_grundformer.txt",
+      "rel_target": "cor_ekstra/ordklasser/txt/adverbier_biord_grundformer.txt",
+      "sha256": "25391df8f288572c31554333b18cb7c689139a80b886987c4fa8706a379377b9",
+      "bytes": 7372
+    },
+    {
+      "name": "konjunktioner_bindeord_grundformer.csv",
+      "format": "csv",
+      "rel_source": "cor_ekstra/ordklasser/konjunktioner_bindeord_grundformer.csv",
+      "rel_target": "cor_ekstra/ordklasser/csv/konjunktioner_bindeord_grundformer.csv",
+      "sha256": "9a2f1aad5a731002fe84a5d4710e04b03d25d5d06d0aad987c0f5ab0c21c8b73",
+      "bytes": 433
+    },
+    {
+      "name": "konjunktioner_bindeord_grundformer.json",
+      "format": "json",
+      "rel_source": "cor_ekstra/ordklasser/konjunktioner_bindeord_grundformer.json",
+      "rel_target": "cor_ekstra/ordklasser/json/konjunktioner_bindeord_grundformer.json",
+      "sha256": "668e91a4967504fff07d877bc0d3e3eaeb249d70e9cf383ed0774d9e0b73d704",
+      "bytes": 729
+    },
+    {
+      "name": "konjunktioner_bindeord_grundformer.txt",
+      "format": "txt",
+      "rel_source": "cor_ekstra/ordklasser/konjunktioner_bindeord_grundformer.txt",
+      "rel_target": "cor_ekstra/ordklasser/txt/konjunktioner_bindeord_grundformer.txt",
+      "sha256": "0623f3d34c5f75e50a764fc3da0c5b162fd8a8d44549e05c9a1f47ce6b3d1118",
+      "bytes": 426
+    },
+    {
+      "name": "lydord_onomatopoietika_grundformer.csv",
+      "format": "csv",
+      "rel_source": "cor_ekstra/ordklasser/lydord_onomatopoietika_grundformer.csv",
+      "rel_target": "cor_ekstra/ordklasser/csv/lydord_onomatopoietika_grundformer.csv",
+      "sha256": "9e9ff30a5c770314543fe06bfd5fd5ae63f80baad98ce6fb071f5b5138773885",
+      "bytes": 220
+    },
+    {
+      "name": "lydord_onomatopoietika_grundformer.json",
+      "format": "json",
+      "rel_source": "cor_ekstra/ordklasser/lydord_onomatopoietika_grundformer.json",
+      "rel_target": "cor_ekstra/ordklasser/json/lydord_onomatopoietika_grundformer.json",
+      "sha256": "9b7d3d1b21dab40584a99bd0aad204f12a31ea8cb1c4e4130891d80940b80a3f",
+      "bytes": 386
+    },
+    {
+      "name": "lydord_onomatopoietika_grundformer.txt",
+      "format": "txt",
+      "rel_source": "cor_ekstra/ordklasser/lydord_onomatopoietika_grundformer.txt",
+      "rel_target": "cor_ekstra/ordklasser/txt/lydord_onomatopoietika_grundformer.txt",
+      "sha256": "575cc2e628153373cff3c4afa3e4c1ce4277de4ab75cd9de84225a210d758be9",
+      "bytes": 213
+    },
+    {
+      "name": "ordklasse_statistik.csv",
+      "format": "csv",
+      "rel_source": "cor_ekstra/ordklasser/ordklasse_statistik.csv",
+      "rel_target": "cor_ekstra/ordklasser/csv/ordklasse_statistik.csv",
+      "sha256": "8bdfa321ab2e4c5beb62df81d368ca020494e6866a6ac2bdeb31af9e7a452c2f",
+      "bytes": 432
+    },
+    {
+      "name": "ordklasse_statistik.json",
+      "format": "json",
+      "rel_source": "cor_ekstra/ordklasser/ordklasse_statistik.json",
+      "rel_target": "cor_ekstra/ordklasser/json/ordklasse_statistik.json",
+      "sha256": "1eda3b763a7fc7365c9ee2b0121f91341f86577d39041e9ea9d0dcdf79a8f4f7",
+      "bytes": 1518
+    },
+    {
+      "name": "praepositioner_forholdsord_grundformer.csv",
+      "format": "csv",
+      "rel_source": "cor_ekstra/ordklasser/praepositioner_forholdsord_grundformer.csv",
+      "rel_target": "cor_ekstra/ordklasser/csv/praepositioner_forholdsord_grundformer.csv",
+      "sha256": "4c63d9f3be2a648b4bb0e68764d29a56a97ebb9cc03dba4eb5104efb417edf7c",
+      "bytes": 734
+    },
+    {
+      "name": "praepositioner_forholdsord_grundformer.json",
+      "format": "json",
+      "rel_source": "cor_ekstra/ordklasser/praepositioner_forholdsord_grundformer.json",
+      "rel_target": "cor_ekstra/ordklasser/json/praepositioner_forholdsord_grundformer.json",
+      "sha256": "eb592a7310ad304103425fc751675353b3b8dbd056c0edf00e2a9653f783c7de",
+      "bytes": 1195
+    },
+    {
+      "name": "praepositioner_forholdsord_grundformer.txt",
+      "format": "txt",
+      "rel_source": "cor_ekstra/ordklasser/praepositioner_forholdsord_grundformer.txt",
+      "rel_target": "cor_ekstra/ordklasser/txt/praepositioner_forholdsord_grundformer.txt",
+      "sha256": "52f4b76c5e87ed2a9a6888f000e2148f4080cf667fe940b61df5d3d4d5eec3aa",
+      "bytes": 727
+    },
+    {
+      "name": "pronominer_stedord_grundformer.csv",
+      "format": "csv",
+      "rel_source": "cor_ekstra/ordklasser/pronominer_stedord_grundformer.csv",
+      "rel_target": "cor_ekstra/ordklasser/csv/pronominer_stedord_grundformer.csv",
+      "sha256": "7ff39a8b3422d6e09a0a0c229904a4ab3e389d2e6eb96c50d6f79efc78c62d6c",
+      "bytes": 219
+    },
+    {
+      "name": "pronominer_stedord_grundformer.json",
+      "format": "json",
+      "rel_source": "cor_ekstra/ordklasser/pronominer_stedord_grundformer.json",
+      "rel_target": "cor_ekstra/ordklasser/json/pronominer_stedord_grundformer.json",
+      "sha256": "c9788949fb71c952f535879b81ff66f06460d7d837a52da7f3b482014e18e93c",
+      "bytes": 395
+    },
+    {
+      "name": "pronominer_stedord_grundformer.txt",
+      "format": "txt",
+      "rel_source": "cor_ekstra/ordklasser/pronominer_stedord_grundformer.txt",
+      "rel_target": "cor_ekstra/ordklasser/txt/pronominer_stedord_grundformer.txt",
+      "sha256": "668e6caeb424cf5f10e50d1ca864002c1e01aadcbeca59df84a87c1da644acae",
+      "bytes": 212
+    },
+    {
+      "name": "substantiver_navneord_grundformer.csv",
+      "format": "csv",
+      "rel_source": "cor_ekstra/ordklasser/substantiver_navneord_grundformer.csv",
+      "rel_target": "cor_ekstra/ordklasser/csv/substantiver_navneord_grundformer.csv",
+      "sha256": "2536fcfb6139f51ebdb793c5a2788fd0d09f8525051295d66f09be278748c572",
+      "bytes": 494549
+    },
+    {
+      "name": "substantiver_navneord_grundformer.json",
+      "format": "json",
+      "rel_source": "cor_ekstra/ordklasser/substantiver_navneord_grundformer.json",
+      "rel_target": "cor_ekstra/ordklasser/json/substantiver_navneord_grundformer.json",
+      "sha256": "20e11474ef88f2485b7bcf2940150902ee7a75417f7ce19e4aa4aa148449a97d",
+      "bytes": 707010
+    },
+    {
+      "name": "substantiver_navneord_grundformer.txt",
+      "format": "txt",
+      "rel_source": "cor_ekstra/ordklasser/substantiver_navneord_grundformer.txt",
+      "rel_target": "cor_ekstra/ordklasser/txt/substantiver_navneord_grundformer.txt",
+      "sha256": "bfe32ccbd165d2b1a02f9b8d8e531e3795732bd1a412721816a770c1fd08b2d6",
+      "bytes": 494542
+    },
+    {
+      "name": "talord_numeralier_grundformer.csv",
+      "format": "csv",
+      "rel_source": "cor_ekstra/ordklasser/talord_numeralier_grundformer.csv",
+      "rel_target": "cor_ekstra/ordklasser/csv/talord_numeralier_grundformer.csv",
+      "sha256": "4be39e7176381e3f5f81424745dd233863cfc6cee1996908a26777e4343e9a21",
+      "bytes": 1148
+    },
+    {
+      "name": "talord_numeralier_grundformer.json",
+      "format": "json",
+      "rel_source": "cor_ekstra/ordklasser/talord_numeralier_grundformer.json",
+      "rel_target": "cor_ekstra/ordklasser/json/talord_numeralier_grundformer.json",
+      "sha256": "22c03296d9534b12e61a81c592682c601f426067269a2685134a760d5c4cd851",
+      "bytes": 1709
+    },
+    {
+      "name": "talord_numeralier_grundformer.txt",
+      "format": "txt",
+      "rel_source": "cor_ekstra/ordklasser/talord_numeralier_grundformer.txt",
+      "rel_target": "cor_ekstra/ordklasser/txt/talord_numeralier_grundformer.txt",
+      "sha256": "ca3bdf2cf3f5c7f3cbf059ff8b7eb8b98d1dbf959205b52d169b00e199fc9d5a",
+      "bytes": 1141
+    },
+    {
+      "name": "udraabsord_interjektioner_grundformer.csv",
+      "format": "csv",
+      "rel_source": "cor_ekstra/ordklasser/udraabsord_interjektioner_grundformer.csv",
+      "rel_target": "cor_ekstra/ordklasser/csv/udraabsord_interjektioner_grundformer.csv",
+      "sha256": "763ff55e659b53ee35716aa43850811c6a3d3cc82291b290f9a35435aa33b82f",
+      "bytes": 859
+    },
+    {
+      "name": "udraabsord_interjektioner_grundformer.json",
+      "format": "json",
+      "rel_source": "cor_ekstra/ordklasser/udraabsord_interjektioner_grundformer.json",
+      "rel_target": "cor_ekstra/ordklasser/json/udraabsord_interjektioner_grundformer.json",
+      "sha256": "4f2bb11f01e0c488c70f46ed51ca98a1fe0b5e7e55a28dc54f20d24fed5d5a0d",
+      "bytes": 1500
+    },
+    {
+      "name": "udraabsord_interjektioner_grundformer.txt",
+      "format": "txt",
+      "rel_source": "cor_ekstra/ordklasser/udraabsord_interjektioner_grundformer.txt",
+      "rel_target": "cor_ekstra/ordklasser/txt/udraabsord_interjektioner_grundformer.txt",
+      "sha256": "ccaa6da7e0d1df4f84ae5d7637051f30818a128430b82364f23703ff85bd5a39",
+      "bytes": 852
+    },
+    {
+      "name": "verber_udsnagnsord_grundformer.csv",
+      "format": "csv",
+      "rel_source": "cor_ekstra/ordklasser/verber_udsnagnsord_grundformer.csv",
+      "rel_target": "cor_ekstra/ordklasser/csv/verber_udsnagnsord_grundformer.csv",
+      "sha256": "b5541bca0ece2ee62e68032c94c954b2f7198b7f87dd35f64472f5060a825f7c",
+      "bytes": 70354
+    },
+    {
+      "name": "verber_udsnagnsord_grundformer.json",
+      "format": "json",
+      "rel_source": "cor_ekstra/ordklasser/verber_udsnagnsord_grundformer.json",
+      "rel_target": "cor_ekstra/ordklasser/json/verber_udsnagnsord_grundformer.json",
+      "sha256": "7783395ceccea1f1eee3e71a6a2dd20a6348a0897625a588774d764918b089f6",
+      "bytes": 105440
+    },
+    {
+      "name": "verber_udsnagnsord_grundformer.txt",
+      "format": "txt",
+      "rel_source": "cor_ekstra/ordklasser/verber_udsnagnsord_grundformer.txt",
+      "rel_target": "cor_ekstra/ordklasser/txt/verber_udsnagnsord_grundformer.txt",
+      "sha256": "b4653daa27506f2c99640e10a9e9e248b047acf06ad13dff12d16b06f2a15390",
+      "bytes": 70347
+    },
+    {
+      "name": "typiske_stavefejl_og_rettelser.csv",
+      "format": "csv",
+      "rel_source": "cor_ekstra/stavefejl/typiske_stavefejl_og_rettelser.csv",
+      "rel_target": "cor_ekstra/stavefejl/csv/typiske_stavefejl_og_rettelser.csv",
+      "sha256": "e6ecd02ae5f7d2be25e2a9cf3c5cca6ff7cac32dc983fe7dd1cb3658497b554d",
+      "bytes": 341923
+    },
+    {
+      "name": "typiske_stavefejl_og_rettelser.json",
+      "format": "json",
+      "rel_source": "cor_ekstra/stavefejl/typiske_stavefejl_og_rettelser.json",
+      "rel_target": "cor_ekstra/stavefejl/json/typiske_stavefejl_og_rettelser.json",
+      "sha256": "fc720a2cbb6f9cbfc916336cbe12b32096aaa79144202e4aa1a8e2a18f32fef2",
+      "bytes": 1064649
+    },
+    {
+      "name": "grundformer_lemmaer.csv",
+      "format": "csv",
+      "rel_source": "cor_ordlister/grundformer/grundformer_lemmaer.csv",
+      "rel_target": "cor_ordlister/grundformer/csv/grundformer_lemmaer.csv",
+      "sha256": "48bf3d7dd5d7987bb60e1e999f50c29012499876d62703b1a78d6f22485c8c29",
+      "bytes": 904537
+    },
+    {
+      "name": "grundformer_lemmaer.json",
+      "format": "json",
+      "rel_source": "cor_ordlister/grundformer/grundformer_lemmaer.json",
+      "rel_target": "cor_ordlister/grundformer/json/grundformer_lemmaer.json",
+      "sha256": "7d08c9a7e983c5c5f1923c64e6283494a6a47e0246b179ffdc567b0c237ae069",
+      "bytes": 4825470
+    },
+    {
+      "name": "grundformer_lemmaer.txt",
+      "format": "txt",
+      "rel_source": "cor_ordlister/grundformer/grundformer_lemmaer.txt",
+      "rel_target": "cor_ordlister/grundformer/txt/grundformer_lemmaer.txt",
+      "sha256": "d811630029caf97abf0532121be7e630b4846fbf67698b9182c4e1d8a8328a1c",
+      "bytes": 699791
+    },
+    {
+      "name": "ord_01bogstaver.csv",
+      "format": "csv",
+      "rel_source": "cor_ordlister/laengder/ord_01bogstaver.csv",
+      "rel_target": "cor_ordlister/laengder/csv/ord_01bogstaver.csv",
+      "sha256": "19a504cfa856e90cf66585392ff814965d58f93cc041ea900ffd74c8d5b54caf",
+      "bytes": 95
+    },
+    {
+      "name": "ord_01bogstaver.json",
+      "format": "json",
+      "rel_source": "cor_ordlister/laengder/ord_01bogstaver.json",
+      "rel_target": "cor_ordlister/laengder/json/ord_01bogstaver.json",
+      "sha256": "95530c90b8e334727882c22bf4e1b1171b2f9f951ab26405de09eff03dc60136",
+      "bytes": 238
+    },
+    {
+      "name": "ord_01bogstaver.txt",
+      "format": "txt",
+      "rel_source": "cor_ordlister/laengder/ord_01bogstaver.txt",
+      "rel_target": "cor_ordlister/laengder/txt/ord_01bogstaver.txt",
+      "sha256": "b2b17f744490bad9666f851edf74447fd4d20ed58348b6578d05a81356fb66cb",
+      "bytes": 90
+    },
+    {
+      "name": "ord_02bogstaver.csv",
+      "format": "csv",
+      "rel_source": "cor_ordlister/laengder/ord_02bogstaver.csv",
+      "rel_target": "cor_ordlister/laengder/csv/ord_02bogstaver.csv",
+      "sha256": "14971e0144c09973166df5d8c406df01cb4bdb1c6ce93846ce8789f01afd30a7",
+      "bytes": 894
+    },
+    {
+      "name": "ord_02bogstaver.json",
+      "format": "json",
+      "rel_source": "cor_ordlister/laengder/ord_02bogstaver.json",
+      "rel_target": "cor_ordlister/laengder/json/ord_02bogstaver.json",
+      "sha256": "a99d83ce95a40e7d7ea625d54383df066de5524fe12a9fb4bf7c3b2359dafc11",
+      "bytes": 1947
+    },
+    {
+      "name": "ord_02bogstaver.txt",
+      "format": "txt",
+      "rel_source": "cor_ordlister/laengder/ord_02bogstaver.txt",
+      "rel_target": "cor_ordlister/laengder/txt/ord_02bogstaver.txt",
+      "sha256": "d88c0e31f0ec70e51bde8715d9ee554674ec9eaae4208bb1efd11c3983323efb",
+      "bytes": 889
+    },
+    {
+      "name": "ord_03bogstaver.csv",
+      "format": "csv",
+      "rel_source": "cor_ordlister/laengder/ord_03bogstaver.csv",
+      "rel_target": "cor_ordlister/laengder/csv/ord_03bogstaver.csv",
+      "sha256": "674b7f30ebddcae32b68e0bfc3979c20eff1cd813f95722466476ca01908e371",
+      "bytes": 6065
+    },
+    {
+      "name": "ord_03bogstaver.json",
+      "format": "json",
+      "rel_source": "cor_ordlister/laengder/ord_03bogstaver.json",
+      "rel_target": "cor_ordlister/laengder/json/ord_03bogstaver.json",
+      "sha256": "98f38c05d935713d280cd89cbd6e8c075e9a662e7fa1541b24145f3c10fe9ecf",
+      "bytes": 11858
+    },
+    {
+      "name": "ord_03bogstaver.txt",
+      "format": "txt",
+      "rel_source": "cor_ordlister/laengder/ord_03bogstaver.txt",
+      "rel_target": "cor_ordlister/laengder/txt/ord_03bogstaver.txt",
+      "sha256": "ade53117d0013d72303a02ecb2bd8a158f771feb7630de7652984d1e018c1f28",
+      "bytes": 6060
+    },
+    {
+      "name": "ord_04bogstaver.csv",
+      "format": "csv",
+      "rel_source": "cor_ordlister/laengder/ord_04bogstaver.csv",
+      "rel_target": "cor_ordlister/laengder/csv/ord_04bogstaver.csv",
+      "sha256": "cabe09d526a8e2f34c79d6d5923e0adeaa6a4f53cf44dffba934a71789616181",
+      "bytes": 21088
+    },
+    {
+      "name": "ord_04bogstaver.json",
+      "format": "json",
+      "rel_source": "cor_ordlister/laengder/ord_04bogstaver.json",
+      "rel_target": "cor_ordlister/laengder/json/ord_04bogstaver.json",
+      "sha256": "776be4d09a7c684e03263a101fbb5cb387176cebe44a846fe975e4c973e8f147",
+      "bytes": 38011
+    },
+    {
+      "name": "ord_04bogstaver.txt",
+      "format": "txt",
+      "rel_source": "cor_ordlister/laengder/ord_04bogstaver.txt",
+      "rel_target": "cor_ordlister/laengder/txt/ord_04bogstaver.txt",
+      "sha256": "867965bb7233cae0c34a9692975aec28bc0155537c8bab58b3a1e847d9acc6e7",
+      "bytes": 21083
+    },
+    {
+      "name": "ord_05bogstaver.csv",
+      "format": "csv",
+      "rel_source": "cor_ordlister/laengder/ord_05bogstaver.csv",
+      "rel_target": "cor_ordlister/laengder/csv/ord_05bogstaver.csv",
+      "sha256": "8de44a67b8dbb28565beb141d94bd65684704d6bad077b3b3cc6affc48c30d15",
+      "bytes": 56533
+    },
+    {
+      "name": "ord_05bogstaver.json",
+      "format": "json",
+      "rel_source": "cor_ordlister/laengder/ord_05bogstaver.json",
+      "rel_target": "cor_ordlister/laengder/json/ord_05bogstaver.json",
+      "sha256": "224411a35d43a765d62a42de846b9940917abb12d68535d704f39d186cbcd002",
+      "bytes": 95651
+    },
+    {
+      "name": "ord_05bogstaver.txt",
+      "format": "txt",
+      "rel_source": "cor_ordlister/laengder/ord_05bogstaver.txt",
+      "rel_target": "cor_ordlister/laengder/txt/ord_05bogstaver.txt",
+      "sha256": "3f58756876ad4220ba350980d87c781e76df74b7355dbdd12d51d598164b2964",
+      "bytes": 56528
+    },
+    {
+      "name": "ord_06bogstaver.csv",
+      "format": "csv",
+      "rel_source": "cor_ordlister/laengder/ord_06bogstaver.csv",
+      "rel_target": "cor_ordlister/laengder/csv/ord_06bogstaver.csv",
+      "sha256": "35236bf1d1cb0cab24f3a5c020e12f1422d411323f6aaa6bd5e6d8d35d0bb8af",
+      "bytes": 128603
+    },
+    {
+      "name": "ord_06bogstaver.json",
+      "format": "json",
+      "rel_source": "cor_ordlister/laengder/ord_06bogstaver.json",
+      "rel_target": "cor_ordlister/laengder/json/ord_06bogstaver.json",
+      "sha256": "9d51bd608b1772f0c5f846e8c1a884fff7336697e734cb23705b62e88dafce01",
+      "bytes": 206746
+    },
+    {
+      "name": "ord_06bogstaver.txt",
+      "format": "txt",
+      "rel_source": "cor_ordlister/laengder/ord_06bogstaver.txt",
+      "rel_target": "cor_ordlister/laengder/txt/ord_06bogstaver.txt",
+      "sha256": "fc36466342adae81aacd04a1e53a818537791d2e6da07bc75e586632548accad",
+      "bytes": 128598
+    },
+    {
+      "name": "ord_07bogstaver.csv",
+      "format": "csv",
+      "rel_source": "cor_ordlister/laengder/ord_07bogstaver.csv",
+      "rel_target": "cor_ordlister/laengder/csv/ord_07bogstaver.csv",
+      "sha256": "284f49415c5a9b5172d1c9238ce2eed3b6493dc23d6786e5e024754357c2f7ec",
+      "bytes": 223955
+    },
+    {
+      "name": "ord_07bogstaver.json",
+      "format": "json",
+      "rel_source": "cor_ordlister/laengder/ord_07bogstaver.json",
+      "rel_target": "cor_ordlister/laengder/json/ord_07bogstaver.json",
+      "sha256": "3545516de7d4125c20fa5e17f47ba71d61e4056545be430df38a56e9c317fc56",
+      "bytes": 345148
+    },
+    {
+      "name": "ord_07bogstaver.txt",
+      "format": "txt",
+      "rel_source": "cor_ordlister/laengder/ord_07bogstaver.txt",
+      "rel_target": "cor_ordlister/laengder/txt/ord_07bogstaver.txt",
+      "sha256": "6c877ef47e8b6521812e3c76d5c19c6cba7f0a38132dcd838d48b00112e59dda",
+      "bytes": 223950
+    },
+    {
+      "name": "ord_08bogstaver.csv",
+      "format": "csv",
+      "rel_source": "cor_ordlister/laengder/ord_08bogstaver.csv",
+      "rel_target": "cor_ordlister/laengder/csv/ord_08bogstaver.csv",
+      "sha256": "9fe6aa4a2e44fd9fdcc9960f3e2290a151a0e64802990379820569ab95e8334c",
+      "bytes": 340933
+    },
+    {
+      "name": "ord_08bogstaver.json",
+      "format": "json",
+      "rel_source": "cor_ordlister/laengder/ord_08bogstaver.json",
+      "rel_target": "cor_ordlister/laengder/json/ord_08bogstaver.json",
+      "sha256": "5ed18d8104afbf812e86410101ca0bfff87efd88d8f3517b823ab2b358f7bd7b",
+      "bytes": 507211
+    },
+    {
+      "name": "ord_08bogstaver.txt",
+      "format": "txt",
+      "rel_source": "cor_ordlister/laengder/ord_08bogstaver.txt",
+      "rel_target": "cor_ordlister/laengder/txt/ord_08bogstaver.txt",
+      "sha256": "8438ee6cf1b1c783637c8ffbcc1e91a896fdf7fc40ccfcfff8c34206bcd3d28e",
+      "bytes": 340928
+    },
+    {
+      "name": "ord_09bogstaver.csv",
+      "format": "csv",
+      "rel_source": "cor_ordlister/laengder/ord_09bogstaver.csv",
+      "rel_target": "cor_ordlister/laengder/csv/ord_09bogstaver.csv",
+      "sha256": "173a280e9f6bf28c763d16d27370f0c05956b343e0900b8988233f920ec44333",
+      "bytes": 459532
+    },
+    {
+      "name": "ord_09bogstaver.json",
+      "format": "json",
+      "rel_source": "cor_ordlister/laengder/ord_09bogstaver.json",
+      "rel_target": "cor_ordlister/laengder/json/ord_09bogstaver.json",
+      "sha256": "0f4be5e17e2d7d7dd37fedd3eb504383ea4a2c080221aaacaa7823689e37be7f",
+      "bytes": 663425
+    },
+    {
+      "name": "ord_09bogstaver.txt",
+      "format": "txt",
+      "rel_source": "cor_ordlister/laengder/ord_09bogstaver.txt",
+      "rel_target": "cor_ordlister/laengder/txt/ord_09bogstaver.txt",
+      "sha256": "85d52e8fb14cca6b52a0ea9ebc17a5378a19a8d013b3afb0cf90f3db1bfe54a4",
+      "bytes": 459527
+    },
+    {
+      "name": "ord_10bogstaver.csv",
+      "format": "csv",
+      "rel_source": "cor_ordlister/laengder/ord_10bogstaver.csv",
+      "rel_target": "cor_ordlister/laengder/csv/ord_10bogstaver.csv",
+      "sha256": "46e30c067252f76d2c11553fb7764acbc5996e3d811cc5a504491cad95ea555b",
+      "bytes": 563157
+    },
+    {
+      "name": "ord_10bogstaver.json",
+      "format": "json",
+      "rel_source": "cor_ordlister/laengder/ord_10bogstaver.json",
+      "rel_target": "cor_ordlister/laengder/json/ord_10bogstaver.json",
+      "sha256": "47e6dbeb92487a23638a5853e9b0149b2d79ba7d7e4c5a7b59b179bb1dcd54a2",
+      "bytes": 792375
+    },
+    {
+      "name": "ord_10bogstaver.txt",
+      "format": "txt",
+      "rel_source": "cor_ordlister/laengder/ord_10bogstaver.txt",
+      "rel_target": "cor_ordlister/laengder/txt/ord_10bogstaver.txt",
+      "sha256": "1a5e808311ecb131f0d78f030a93855edec6f0b638bca37fbdda84bd8c45c77b",
+      "bytes": 563152
+    },
+    {
+      "name": "ord_11bogstaver.csv",
+      "format": "csv",
+      "rel_source": "cor_ordlister/laengder/ord_11bogstaver.csv",
+      "rel_target": "cor_ordlister/laengder/csv/ord_11bogstaver.csv",
+      "sha256": "94861799b422bb9f0a8827ea50bc1f55c84c00de6679bea541ce9257eff468ef",
+      "bytes": 624477
+    },
+    {
+      "name": "ord_11bogstaver.json",
+      "format": "json",
+      "rel_source": "cor_ordlister/laengder/ord_11bogstaver.json",
+      "rel_target": "cor_ordlister/laengder/json/ord_11bogstaver.json",
+      "sha256": "a13504bc379994e671946fc663e666b2e479938e282321604b1415068e1078d8",
+      "bytes": 859435
+    },
+    {
+      "name": "ord_11bogstaver.txt",
+      "format": "txt",
+      "rel_source": "cor_ordlister/laengder/ord_11bogstaver.txt",
+      "rel_target": "cor_ordlister/laengder/txt/ord_11bogstaver.txt",
+      "sha256": "1ba2f10011aff7506ef24c0dde5dbc569c10ab2fd00873b1757bb22c797f5c88",
+      "bytes": 624472
+    },
+    {
+      "name": "ord_12bogstaver.csv",
+      "format": "csv",
+      "rel_source": "cor_ordlister/laengder/ord_12bogstaver.csv",
+      "rel_target": "cor_ordlister/laengder/csv/ord_12bogstaver.csv",
+      "sha256": "f38dfcbcc306eac23b91282c92984c2ebf0a26421f32ec10ec725b0e13f05c41",
+      "bytes": 616024
+    },
+    {
+      "name": "ord_12bogstaver.json",
+      "format": "json",
+      "rel_source": "cor_ordlister/laengder/ord_12bogstaver.json",
+      "rel_target": "cor_ordlister/laengder/json/ord_12bogstaver.json",
+      "sha256": "642f3684a5c23b5a6d4e4f7344da2a1e408e21faba0e0e8433047cba0a04273c",
+      "bytes": 831612
+    },
+    {
+      "name": "ord_12bogstaver.txt",
+      "format": "txt",
+      "rel_source": "cor_ordlister/laengder/ord_12bogstaver.txt",
+      "rel_target": "cor_ordlister/laengder/txt/ord_12bogstaver.txt",
+      "sha256": "9f9d9e1f2e70be450aa16d1d6e772f9d88052f16443e504a2b88c24acdca1ba1",
+      "bytes": 616019
+    },
+    {
+      "name": "ord_13bogstaver.csv",
+      "format": "csv",
+      "rel_source": "cor_ordlister/laengder/ord_13bogstaver.csv",
+      "rel_target": "cor_ordlister/laengder/csv/ord_13bogstaver.csv",
+      "sha256": "02fa4d4e6b21a375f0d724bf59b11ad650eda5bd083cca6f8c8b2970689633bb",
+      "bytes": 542707
+    },
+    {
+      "name": "ord_13bogstaver.json",
+      "format": "json",
+      "rel_source": "cor_ordlister/laengder/ord_13bogstaver.json",
+      "rel_target": "cor_ordlister/laengder/json/ord_13bogstaver.json",
+      "sha256": "f035caaf567a5716889d3e7a4b0c8cfd8f48f5d1b192b8e27cece972771fe993",
+      "bytes": 720270
+    },
+    {
+      "name": "ord_13bogstaver.txt",
+      "format": "txt",
+      "rel_source": "cor_ordlister/laengder/ord_13bogstaver.txt",
+      "rel_target": "cor_ordlister/laengder/txt/ord_13bogstaver.txt",
+      "sha256": "1440377ac245c2c1bfc9a30bb4078ec1f27ffb5fb2327018d2df92fac32e46b9",
+      "bytes": 542702
+    },
+    {
+      "name": "ord_14bogstaver.csv",
+      "format": "csv",
+      "rel_source": "cor_ordlister/laengder/ord_14bogstaver.csv",
+      "rel_target": "cor_ordlister/laengder/csv/ord_14bogstaver.csv",
+      "sha256": "2166a215dac9f63206a3646fe7a42bbb96a3eb385f639a3f189ab37bfea120bf",
+      "bytes": 441835
+    },
+    {
+      "name": "ord_14bogstaver.json",
+      "format": "json",
+      "rel_source": "cor_ordlister/laengder/ord_14bogstaver.json",
+      "rel_target": "cor_ordlister/laengder/json/ord_14bogstaver.json",
+      "sha256": "894ed711b6b98e8ae57ff9bf8065b7724dccc6fb8a03fcc4106f9f3edd296181",
+      "bytes": 577523
+    },
+    {
+      "name": "ord_14bogstaver.txt",
+      "format": "txt",
+      "rel_source": "cor_ordlister/laengder/ord_14bogstaver.txt",
+      "rel_target": "cor_ordlister/laengder/txt/ord_14bogstaver.txt",
+      "sha256": "8f555c10a22e71dc9da6c5f0572f7047a7f8c14f0d4c16edc360c16a070041b8",
+      "bytes": 441830
+    },
+    {
+      "name": "ord_15bogstaver.csv",
+      "format": "csv",
+      "rel_source": "cor_ordlister/laengder/ord_15bogstaver.csv",
+      "rel_target": "cor_ordlister/laengder/csv/ord_15bogstaver.csv",
+      "sha256": "e0036a1a65384c7af083dff9940eafe6762ec5829fddc63da0acb73a0ed7ab04",
+      "bytes": 343978
+    },
+    {
+      "name": "ord_15bogstaver.json",
+      "format": "json",
+      "rel_source": "cor_ordlister/laengder/ord_15bogstaver.json",
+      "rel_target": "cor_ordlister/laengder/json/ord_15bogstaver.json",
+      "sha256": "187979de83c35062fb980ee6515f5d7014ae5f6ffdb193c1d72fa65884323573",
+      "bytes": 443481
+    },
+    {
+      "name": "ord_15bogstaver.txt",
+      "format": "txt",
+      "rel_source": "cor_ordlister/laengder/ord_15bogstaver.txt",
+      "rel_target": "cor_ordlister/laengder/txt/ord_15bogstaver.txt",
+      "sha256": "1372b2b36946f19ec9f02473487448fe0516d2e8b22a4ef847d815b7b84e98d2",
+      "bytes": 343973
+    },
+    {
+      "name": "ord_16bogstaver.csv",
+      "format": "csv",
+      "rel_source": "cor_ordlister/laengder/ord_16bogstaver.csv",
+      "rel_target": "cor_ordlister/laengder/csv/ord_16bogstaver.csv",
+      "sha256": "8626ca6c9e9dc398d162de82c4307134aa8eaacbe8b97fbfc315743b32f94d5e",
+      "bytes": 257915
+    },
+    {
+      "name": "ord_16bogstaver.json",
+      "format": "json",
+      "rel_source": "cor_ordlister/laengder/ord_16bogstaver.json",
+      "rel_target": "cor_ordlister/laengder/json/ord_16bogstaver.json",
+      "sha256": "893e94c02d20330a5a926be0e884ff361d3e2640498d0a091afdf7e2563ab8ef",
+      "bytes": 328383
+    },
+    {
+      "name": "ord_16bogstaver.txt",
+      "format": "txt",
+      "rel_source": "cor_ordlister/laengder/ord_16bogstaver.txt",
+      "rel_target": "cor_ordlister/laengder/txt/ord_16bogstaver.txt",
+      "sha256": "a13bf83589b023e7b70e042693f4fbb80828170a5563fcd12ecb64cd4525d5cb",
+      "bytes": 257910
+    },
+    {
+      "name": "ord_17bogstaver.csv",
+      "format": "csv",
+      "rel_source": "cor_ordlister/laengder/ord_17bogstaver.csv",
+      "rel_target": "cor_ordlister/laengder/csv/ord_17bogstaver.csv",
+      "sha256": "60e6063a8a980b0e79e2f6fd36ebc94e86f695638b0b4b692fb795b7222e2e31",
+      "bytes": 187816
+    },
+    {
+      "name": "ord_17bogstaver.json",
+      "format": "json",
+      "rel_source": "cor_ordlister/laengder/ord_17bogstaver.json",
+      "rel_target": "cor_ordlister/laengder/json/ord_17bogstaver.json",
+      "sha256": "cf364684b3d0c455c292ff0fa446b02104c44229aec8659d345579d924e756e9",
+      "bytes": 236429
+    },
+    {
+      "name": "ord_17bogstaver.txt",
+      "format": "txt",
+      "rel_source": "cor_ordlister/laengder/ord_17bogstaver.txt",
+      "rel_target": "cor_ordlister/laengder/txt/ord_17bogstaver.txt",
+      "sha256": "2e75408fa6d135fc90ebaff9af317d7da144c465934b8fc28ed384848d1249d0",
+      "bytes": 187811
+    },
+    {
+      "name": "ord_18bogstaver.csv",
+      "format": "csv",
+      "rel_source": "cor_ordlister/laengder/ord_18bogstaver.csv",
+      "rel_target": "cor_ordlister/laengder/csv/ord_18bogstaver.csv",
+      "sha256": "07de6129dba7bbe11d45e01809c5b0c8dd07bfa0ec325f62d2a64f64be743341",
+      "bytes": 134300
+    },
+    {
+      "name": "ord_18bogstaver.json",
+      "format": "json",
+      "rel_source": "cor_ordlister/laengder/ord_18bogstaver.json",
+      "rel_target": "cor_ordlister/laengder/json/ord_18bogstaver.json",
+      "sha256": "8071b68d57e7d60d136a71decab8fad67d5c9103e93b65a651f49e086866b60d",
+      "bytes": 167323
+    },
+    {
+      "name": "ord_18bogstaver.txt",
+      "format": "txt",
+      "rel_source": "cor_ordlister/laengder/ord_18bogstaver.txt",
+      "rel_target": "cor_ordlister/laengder/txt/ord_18bogstaver.txt",
+      "sha256": "be7e3510622544286f0e24895e200442d1ad345b57fd262c01bcaa66f33e36a5",
+      "bytes": 134295
+    },
+    {
+      "name": "ord_19bogstaver.csv",
+      "format": "csv",
+      "rel_source": "cor_ordlister/laengder/ord_19bogstaver.csv",
+      "rel_target": "cor_ordlister/laengder/csv/ord_19bogstaver.csv",
+      "sha256": "3a59c48c64afd9432708cabf48c2d03009eedf7d9cba37155c90e96e6f17c2f8",
+      "bytes": 91085
+    },
+    {
+      "name": "ord_19bogstaver.json",
+      "format": "json",
+      "rel_source": "cor_ordlister/laengder/ord_19bogstaver.json",
+      "rel_target": "cor_ordlister/laengder/json/ord_19bogstaver.json",
+      "sha256": "ea856325f212272aed52f70c1df1678195985de50801818f7441fbd9b6b4eb94",
+      "bytes": 112418
+    },
+    {
+      "name": "ord_19bogstaver.txt",
+      "format": "txt",
+      "rel_source": "cor_ordlister/laengder/ord_19bogstaver.txt",
+      "rel_target": "cor_ordlister/laengder/txt/ord_19bogstaver.txt",
+      "sha256": "cd74bd60066a321004e43dc9c989c724dfcc340734c1af9438fb91bd1dc76435",
+      "bytes": 91080
+    },
+    {
+      "name": "ord_20bogstaver.csv",
+      "format": "csv",
+      "rel_source": "cor_ordlister/laengder/ord_20bogstaver.csv",
+      "rel_target": "cor_ordlister/laengder/csv/ord_20bogstaver.csv",
+      "sha256": "df1cff543abf4742cb85f98ad3318d17a657087b1ef308afb44696ebb8d9aaf6",
+      "bytes": 60623
+    },
+    {
+      "name": "ord_20bogstaver.json",
+      "format": "json",
+      "rel_source": "cor_ordlister/laengder/ord_20bogstaver.json",
+      "rel_target": "cor_ordlister/laengder/json/ord_20bogstaver.json",
+      "sha256": "0eb6cbe1cca32007a863edbfb9892d3d6af56108f7d6c1d5bb492dbb64ce8c2e",
+      "bytes": 74181
+    },
+    {
+      "name": "ord_20bogstaver.txt",
+      "format": "txt",
+      "rel_source": "cor_ordlister/laengder/ord_20bogstaver.txt",
+      "rel_target": "cor_ordlister/laengder/txt/ord_20bogstaver.txt",
+      "sha256": "29d69f5896898e3bf3be995b631048046c16d22541a41dbd84c6d28a79ddbe5f",
+      "bytes": 60618
+    },
+    {
+      "name": "ord_21bogstaver.csv",
+      "format": "csv",
+      "rel_source": "cor_ordlister/laengder/ord_21bogstaver.csv",
+      "rel_target": "cor_ordlister/laengder/csv/ord_21bogstaver.csv",
+      "sha256": "407cb7c1aaff2eddaf13e5e05c54680a50a3c92aa9f2098c87cbbdc7319a3431",
+      "bytes": 38464
+    },
+    {
+      "name": "ord_21bogstaver.json",
+      "format": "json",
+      "rel_source": "cor_ordlister/laengder/ord_21bogstaver.json",
+      "rel_target": "cor_ordlister/laengder/json/ord_21bogstaver.json",
+      "sha256": "c8893bd715b00993daa483f20b99790cf6a8d4d532aa047a3d5cff468ae9fc3a",
+      "bytes": 46692
+    },
+    {
+      "name": "ord_21bogstaver.txt",
+      "format": "txt",
+      "rel_source": "cor_ordlister/laengder/ord_21bogstaver.txt",
+      "rel_target": "cor_ordlister/laengder/txt/ord_21bogstaver.txt",
+      "sha256": "39f19223b2946654e8219184e205cc5ed8be89d07b2123c2f713da885ac9cb09",
+      "bytes": 38459
+    },
+    {
+      "name": "ord_22bogstaver.csv",
+      "format": "csv",
+      "rel_source": "cor_ordlister/laengder/ord_22bogstaver.csv",
+      "rel_target": "cor_ordlister/laengder/csv/ord_22bogstaver.csv",
+      "sha256": "c90d2e1dfa5dfaea972d43c71da8b0f1a6c711cf4f2f17e7bcc4696c896ded27",
+      "bytes": 24894
+    },
+    {
+      "name": "ord_22bogstaver.json",
+      "format": "json",
+      "rel_source": "cor_ordlister/laengder/ord_22bogstaver.json",
+      "rel_target": "cor_ordlister/laengder/json/ord_22bogstaver.json",
+      "sha256": "34d7ac0dac82e24ba2849fef25e9d4fefe6a9207f794bf119f52d069790df8af",
+      "bytes": 29997
+    },
+    {
+      "name": "ord_22bogstaver.txt",
+      "format": "txt",
+      "rel_source": "cor_ordlister/laengder/ord_22bogstaver.txt",
+      "rel_target": "cor_ordlister/laengder/txt/ord_22bogstaver.txt",
+      "sha256": "65d7ba71cde540d94cc39e3a969ceb8187db50d5ddb91731b8cace623da860df",
+      "bytes": 24889
+    },
+    {
+      "name": "ord_23bogstaver.csv",
+      "format": "csv",
+      "rel_source": "cor_ordlister/laengder/ord_23bogstaver.csv",
+      "rel_target": "cor_ordlister/laengder/csv/ord_23bogstaver.csv",
+      "sha256": "34012112415b5780938b58bb92b37faba28703b36866f708ca39bdc736a9fce8",
+      "bytes": 14878
+    },
+    {
+      "name": "ord_23bogstaver.json",
+      "format": "json",
+      "rel_source": "cor_ordlister/laengder/ord_23bogstaver.json",
+      "rel_target": "cor_ordlister/laengder/json/ord_23bogstaver.json",
+      "sha256": "4f6e42a9dd3c34d9eaa3215187d116582307a0ae53d0710346d012e0339890f3",
+      "bytes": 17806
+    },
+    {
+      "name": "ord_23bogstaver.txt",
+      "format": "txt",
+      "rel_source": "cor_ordlister/laengder/ord_23bogstaver.txt",
+      "rel_target": "cor_ordlister/laengder/txt/ord_23bogstaver.txt",
+      "sha256": "b1e128e6c83bfaf3d7b8120a2da943ee4362464241999c8be947aead64a504b6",
+      "bytes": 14873
+    },
+    {
+      "name": "ord_24bogstaver.csv",
+      "format": "csv",
+      "rel_source": "cor_ordlister/laengder/ord_24bogstaver.csv",
+      "rel_target": "cor_ordlister/laengder/csv/ord_24bogstaver.csv",
+      "sha256": "82b2d4b0679df3ffbc9bf15484af324024a0f0f617ddf2086cc8d8ffe005779e",
+      "bytes": 9649
+    },
+    {
+      "name": "ord_24bogstaver.json",
+      "format": "json",
+      "rel_source": "cor_ordlister/laengder/ord_24bogstaver.json",
+      "rel_target": "cor_ordlister/laengder/json/ord_24bogstaver.json",
+      "sha256": "8856d3ad9550a7cec00fce7ac57c0aa1d1cab5595c0f3d6a7ba26038d9a8ab1c",
+      "bytes": 11472
+    },
+    {
+      "name": "ord_24bogstaver.txt",
+      "format": "txt",
+      "rel_source": "cor_ordlister/laengder/ord_24bogstaver.txt",
+      "rel_target": "cor_ordlister/laengder/txt/ord_24bogstaver.txt",
+      "sha256": "b11b25782cca4baf4b96157c3e38b7aa4187920c37d4db47bd27edf99e2d4344",
+      "bytes": 9644
+    },
+    {
+      "name": "ord_25bogstaver.csv",
+      "format": "csv",
+      "rel_source": "cor_ordlister/laengder/ord_25bogstaver.csv",
+      "rel_target": "cor_ordlister/laengder/csv/ord_25bogstaver.csv",
+      "sha256": "2ba34c0928c76b91d5e359e86ae9cba255be79edc3867e6d91f72e5be3e55561",
+      "bytes": 5463
+    },
+    {
+      "name": "ord_25bogstaver.json",
+      "format": "json",
+      "rel_source": "cor_ordlister/laengder/ord_25bogstaver.json",
+      "rel_target": "cor_ordlister/laengder/json/ord_25bogstaver.json",
+      "sha256": "7814eb4fd625525a91e1aec00528cbb4f71fafe55eeec1ec6207247437445aec",
+      "bytes": 6456
+    },
+    {
+      "name": "ord_25bogstaver.txt",
+      "format": "txt",
+      "rel_source": "cor_ordlister/laengder/ord_25bogstaver.txt",
+      "rel_target": "cor_ordlister/laengder/txt/ord_25bogstaver.txt",
+      "sha256": "58d292f559ac1a37a918c2e41e3ad88b7e5a1b2e84a04bff7fb5b9d612f86c92",
+      "bytes": 5458
+    },
+    {
+      "name": "ord_26bogstaver.csv",
+      "format": "csv",
+      "rel_source": "cor_ordlister/laengder/ord_26bogstaver.csv",
+      "rel_target": "cor_ordlister/laengder/csv/ord_26bogstaver.csv",
+      "sha256": "32af8b4af54c4762253c4511124563b4271f777c01fdf58259e3208690d92a0b",
+      "bytes": 3108
+    },
+    {
+      "name": "ord_26bogstaver.json",
+      "format": "json",
+      "rel_source": "cor_ordlister/laengder/ord_26bogstaver.json",
+      "rel_target": "cor_ordlister/laengder/json/ord_26bogstaver.json",
+      "sha256": "2f4fa59a7a76512f2603f124fd7a962a36e90075731c67a5a6f2ae45885f038e",
+      "bytes": 3651
+    },
+    {
+      "name": "ord_26bogstaver.txt",
+      "format": "txt",
+      "rel_source": "cor_ordlister/laengder/ord_26bogstaver.txt",
+      "rel_target": "cor_ordlister/laengder/txt/ord_26bogstaver.txt",
+      "sha256": "379cf7dec5c1448ae9c2fea7ff9718d4e53f85323482643d7b6312d93e1d2c4b",
+      "bytes": 3103
+    },
+    {
+      "name": "ord_27bogstaver.csv",
+      "format": "csv",
+      "rel_source": "cor_ordlister/laengder/ord_27bogstaver.csv",
+      "rel_target": "cor_ordlister/laengder/csv/ord_27bogstaver.csv",
+      "sha256": "98c9d4ac444fdec23df1659ab5c57327d5f00314354017e70878f4c2089a84d0",
+      "bytes": 1630
+    },
+    {
+      "name": "ord_27bogstaver.json",
+      "format": "json",
+      "rel_source": "cor_ordlister/laengder/ord_27bogstaver.json",
+      "rel_target": "cor_ordlister/laengder/json/ord_27bogstaver.json",
+      "sha256": "9296e07baf8d987b752593f51746fd2a9343b06812dac65a83c3e42661574537",
+      "bytes": 1903
+    },
+    {
+      "name": "ord_27bogstaver.txt",
+      "format": "txt",
+      "rel_source": "cor_ordlister/laengder/ord_27bogstaver.txt",
+      "rel_target": "cor_ordlister/laengder/txt/ord_27bogstaver.txt",
+      "sha256": "1cc0d28a887e221a38c9004f348c50a6971763e50adbc1575b5b5e26c9c30a78",
+      "bytes": 1625
+    },
+    {
+      "name": "ord_28bogstaver.csv",
+      "format": "csv",
+      "rel_source": "cor_ordlister/laengder/ord_28bogstaver.csv",
+      "rel_target": "cor_ordlister/laengder/csv/ord_28bogstaver.csv",
+      "sha256": "8dcf5bb322f9a35f433cc75c3710a72be57814f2aed7d7a683f161b267906f8a",
+      "bytes": 981
+    },
+    {
+      "name": "ord_28bogstaver.json",
+      "format": "json",
+      "rel_source": "cor_ordlister/laengder/ord_28bogstaver.json",
+      "rel_target": "cor_ordlister/laengder/json/ord_28bogstaver.json",
+      "sha256": "c556c76129b9ab49e9585261c4dd6442a491a9611bd3edcabde7a3851d468758",
+      "bytes": 1139
+    },
+    {
+      "name": "ord_28bogstaver.txt",
+      "format": "txt",
+      "rel_source": "cor_ordlister/laengder/ord_28bogstaver.txt",
+      "rel_target": "cor_ordlister/laengder/txt/ord_28bogstaver.txt",
+      "sha256": "6ed6e2dbbbfae1c298bc4be9f7c65190fdea681b44faae9ad9ed1948faa65b40",
+      "bytes": 976
+    },
+    {
+      "name": "ord_29bogstaver.csv",
+      "format": "csv",
+      "rel_source": "cor_ordlister/laengder/ord_29bogstaver.csv",
+      "rel_target": "cor_ordlister/laengder/csv/ord_29bogstaver.csv",
+      "sha256": "136c63180958fc62d81450fc7169793b759fd46edd7b0dd5e97ce50f867d90f7",
+      "bytes": 639
+    },
+    {
+      "name": "ord_29bogstaver.json",
+      "format": "json",
+      "rel_source": "cor_ordlister/laengder/ord_29bogstaver.json",
+      "rel_target": "cor_ordlister/laengder/json/ord_29bogstaver.json",
+      "sha256": "e0c8349dae89603e8ae0620913cec55f7833e5ed40dd7d8f58aad766f391af8b",
+      "bytes": 737
+    },
+    {
+      "name": "ord_29bogstaver.txt",
+      "format": "txt",
+      "rel_source": "cor_ordlister/laengder/ord_29bogstaver.txt",
+      "rel_target": "cor_ordlister/laengder/txt/ord_29bogstaver.txt",
+      "sha256": "7d05eb4e12271c71f2674308bf580091c29e3d605c8bcc4325114185c75f9814",
+      "bytes": 634
+    },
+    {
+      "name": "ord_30bogstaver.csv",
+      "format": "csv",
+      "rel_source": "cor_ordlister/laengder/ord_30bogstaver.csv",
+      "rel_target": "cor_ordlister/laengder/csv/ord_30bogstaver.csv",
+      "sha256": "59c5950257d1186c70fba0a504dc7429ccc18c5b50cea90cd8b883e7ccd84cf5",
+      "bytes": 396
+    },
+    {
+      "name": "ord_30bogstaver.json",
+      "format": "json",
+      "rel_source": "cor_ordlister/laengder/ord_30bogstaver.json",
+      "rel_target": "cor_ordlister/laengder/json/ord_30bogstaver.json",
+      "sha256": "20cfa31ab1b679fae4c4a6f1e0e6823289df8f052f66b5e4be0af7806742c4b0",
+      "bytes": 454
+    },
+    {
+      "name": "ord_30bogstaver.txt",
+      "format": "txt",
+      "rel_source": "cor_ordlister/laengder/ord_30bogstaver.txt",
+      "rel_target": "cor_ordlister/laengder/txt/ord_30bogstaver.txt",
+      "sha256": "25bae9251900deb2bb8a91ae429906ffbf5196f5e0f6d7f15b7936ee2eb1017f",
+      "bytes": 391
+    },
+    {
+      "name": "ord_31bogstaver.csv",
+      "format": "csv",
+      "rel_source": "cor_ordlister/laengder/ord_31bogstaver.csv",
+      "rel_target": "cor_ordlister/laengder/csv/ord_31bogstaver.csv",
+      "sha256": "77673551195c74d3f42abfaec243381e1cb7e06751ccfa0647b42e643156d53f",
+      "bytes": 171
+    },
+    {
+      "name": "ord_31bogstaver.json",
+      "format": "json",
+      "rel_source": "cor_ordlister/laengder/ord_31bogstaver.json",
+      "rel_target": "cor_ordlister/laengder/json/ord_31bogstaver.json",
+      "sha256": "3ca580d959c469fc9a6ce6d0454a8ee05f0284d466750648906e74d1aea0e566",
+      "bytes": 194
+    },
+    {
+      "name": "ord_31bogstaver.txt",
+      "format": "txt",
+      "rel_source": "cor_ordlister/laengder/ord_31bogstaver.txt",
+      "rel_target": "cor_ordlister/laengder/txt/ord_31bogstaver.txt",
+      "sha256": "9d5790356742bbd50e730fbd80e43ec8da631368a662f97c04e9c0b1889563ba",
+      "bytes": 166
+    },
+    {
+      "name": "ord_32bogstaver.csv",
+      "format": "csv",
+      "rel_source": "cor_ordlister/laengder/ord_32bogstaver.csv",
+      "rel_target": "cor_ordlister/laengder/csv/ord_32bogstaver.csv",
+      "sha256": "e30c4c53c113b3f0dce33baafda47d6b073d213558bec3a5968aef965fce4413",
+      "bytes": 39
+    },
+    {
+      "name": "ord_32bogstaver.json",
+      "format": "json",
+      "rel_source": "cor_ordlister/laengder/ord_32bogstaver.json",
+      "rel_target": "cor_ordlister/laengder/json/ord_32bogstaver.json",
+      "sha256": "4443e2d7ee125eb62d6ff3a64eb669436bf57770b8309f919a50a5afb1419125",
+      "bytes": 42
+    },
+    {
+      "name": "ord_32bogstaver.txt",
+      "format": "txt",
+      "rel_source": "cor_ordlister/laengder/ord_32bogstaver.txt",
+      "rel_target": "cor_ordlister/laengder/txt/ord_32bogstaver.txt",
+      "sha256": "efbc49f395c9c12b686415be7baff924eebcafdfb8f3cb6bc188af16c9662430",
+      "bytes": 34
+    },
+    {
+      "name": "ord_33bogstaver.csv",
+      "format": "csv",
+      "rel_source": "cor_ordlister/laengder/ord_33bogstaver.csv",
+      "rel_target": "cor_ordlister/laengder/csv/ord_33bogstaver.csv",
+      "sha256": "d540d51b8de88d5fad883998651f98d9765435de7d1365e6869a09d2a547141d",
+      "bytes": 40
+    },
+    {
+      "name": "ord_33bogstaver.json",
+      "format": "json",
+      "rel_source": "cor_ordlister/laengder/ord_33bogstaver.json",
+      "rel_target": "cor_ordlister/laengder/json/ord_33bogstaver.json",
+      "sha256": "c7af0cba2bf75aa9335fde57a23f028221c443ff68129f0bebcc604612617eac",
+      "bytes": 43
+    },
+    {
+      "name": "ord_33bogstaver.txt",
+      "format": "txt",
+      "rel_source": "cor_ordlister/laengder/ord_33bogstaver.txt",
+      "rel_target": "cor_ordlister/laengder/txt/ord_33bogstaver.txt",
+      "sha256": "5decbed3d76d178806790ea7a2b3c1ce1d20f79d5fb4daa5fc55f50c668508f5",
+      "bytes": 35
+    },
+    {
+      "name": "palindromer.csv",
+      "format": "csv",
+      "rel_source": "cor_ordlister/palindromer/palindromer.csv",
+      "rel_target": "cor_ordlister/palindromer/csv/palindromer.csv",
+      "sha256": "c8b42df3992beaefdde7aafd023bf92f8f3ae056a4b8cecc31038acdf116b10c",
+      "bytes": 674
+    },
+    {
+      "name": "palindromer.json",
+      "format": "json",
+      "rel_source": "cor_ordlister/palindromer/palindromer.json",
+      "rel_target": "cor_ordlister/palindromer/json/palindromer.json",
+      "sha256": "20bc27d7fdf095920a1e443742c13ce131d2951ef0cb3c353ef6ad56fcbbef18",
+      "bytes": 1207
+    },
+    {
+      "name": "palindromer.txt",
+      "format": "txt",
+      "rel_source": "cor_ordlister/palindromer/palindromer.txt",
+      "rel_target": "cor_ordlister/palindromer/txt/palindromer.txt",
+      "sha256": "2cf6cd2fdc6622cfd2f37e4ade7ba94a9b6d2153e61a3fafe9e8cffe9115d305",
+      "bytes": 669
+    },
+    {
+      "name": "scrabble_alle_former.csv",
+      "format": "csv",
+      "rel_source": "cor_ordlister/scrabble/scrabble_alle_former.csv",
+      "rel_target": "cor_ordlister/scrabble/csv/scrabble_alle_former.csv",
+      "sha256": "baca12ff07bf33ad673e6bfa1d07ffc3d69f0b66a494bf72a54adbfdf34f02e4",
+      "bytes": 5201807
+    },
+    {
+      "name": "scrabble_alle_former.json",
+      "format": "json",
+      "rel_source": "cor_ordlister/scrabble/scrabble_alle_former.json",
+      "rel_target": "cor_ordlister/scrabble/json/scrabble_alle_former.json",
+      "sha256": "43ca24ff12ff652e82b21b0bddc98e64dca3c08820d325101a3835f38c3928f0",
+      "bytes": 7134155
+    },
+    {
+      "name": "scrabble_alle_former.txt",
+      "format": "txt",
+      "rel_source": "cor_ordlister/scrabble/scrabble_alle_former.txt",
+      "rel_target": "cor_ordlister/scrabble/txt/scrabble_alle_former.txt",
+      "sha256": "0de79edd4f5d793a54ef50898ef2d9d7de27bb6e6e30d7fb0cc7a7f78e17de45",
+      "bytes": 5201802
+    },
+    {
+      "name": "wordle_5bogstaver.csv",
+      "format": "csv",
+      "rel_source": "cor_ordlister/wordle/wordle_5bogstaver.csv",
+      "rel_target": "cor_ordlister/wordle/csv/wordle_5bogstaver.csv",
+      "sha256": "8de44a67b8dbb28565beb141d94bd65684704d6bad077b3b3cc6affc48c30d15",
+      "bytes": 56533
+    },
+    {
+      "name": "wordle_5bogstaver.json",
+      "format": "json",
+      "rel_source": "cor_ordlister/wordle/wordle_5bogstaver.json",
+      "rel_target": "cor_ordlister/wordle/json/wordle_5bogstaver.json",
+      "sha256": "224411a35d43a765d62a42de846b9940917abb12d68535d704f39d186cbcd002",
+      "bytes": 95651
+    },
+    {
+      "name": "wordle_5bogstaver.txt",
+      "format": "txt",
+      "rel_source": "cor_ordlister/wordle/wordle_5bogstaver.txt",
+      "rel_target": "cor_ordlister/wordle/txt/wordle_5bogstaver.txt",
+      "sha256": "3f58756876ad4220ba350980d87c781e76df74b7355dbdd12d51d598164b2964",
+      "bytes": 56528
+    },
+    {
+      "name": "danske_aabne_datakilder.csv",
+      "format": "csv",
+      "rel_source": "danske_aabne_datakilder/danske_aabne_datakilder.csv",
+      "rel_target": "danske_aabne_datakilder/csv/danske_aabne_datakilder.csv",
+      "sha256": "e74d9ed8b9571af7efcd4562de0e11ff93fe8b04c2bcd81f010b5f46be0dadef",
+      "bytes": 14131
+    },
+    {
+      "name": "danske_aabne_datakilder.json",
+      "format": "json",
+      "rel_source": "danske_aabne_datakilder/danske_aabne_datakilder.json",
+      "rel_target": "danske_aabne_datakilder/json/danske_aabne_datakilder.json",
+      "sha256": "d0f6cf189b9b9b5e6bdc783caded34834fc1637791081d742875503570b201ec",
+      "bytes": 28380
+    },
+    {
+      "name": "alkohol_tobak_historisk_1921_2025_bred.csv",
+      "format": "csv",
+      "rel_source": "dst_alkohol_tobak/alkohol_tobak_historisk_1921_2025_bred.csv",
+      "rel_target": "dst_alkohol_tobak/csv/alkohol_tobak_historisk_1921_2025_bred.csv",
+      "sha256": "0945686cd3b87f5cd786f4763410938350abdf5e7f6a4c2f940724acf88086f1",
+      "bytes": 11010
+    },
+    {
+      "name": "alkohol_tobak_historisk_1921_2025_bred.json",
+      "format": "json",
+      "rel_source": "dst_alkohol_tobak/alkohol_tobak_historisk_1921_2025_bred.json",
+      "rel_target": "dst_alkohol_tobak/json/alkohol_tobak_historisk_1921_2025_bred.json",
+      "sha256": "855a92fa2ad1927d9ba137495d7be8a137f4d74e289a721c81a2db5433ad9970",
+      "bytes": 90397
+    },
+    {
+      "name": "alkohol_tobak_tidsserie_lang.csv",
+      "format": "csv",
+      "rel_source": "dst_alkohol_tobak/alkohol_tobak_tidsserie_lang.csv",
+      "rel_target": "dst_alkohol_tobak/csv/alkohol_tobak_tidsserie_lang.csv",
+      "sha256": "b1f673ed7c320f9c499155d1bafee94f0e629fc94fdb51b6fc158ad71f0dd656",
+      "bytes": 436691
+    },
+    {
+      "name": "alkohol_tobak_tidsserie_lang.json",
+      "format": "json",
+      "rel_source": "dst_alkohol_tobak/alkohol_tobak_tidsserie_lang.json",
+      "rel_target": "dst_alkohol_tobak/json/alkohol_tobak_tidsserie_lang.json",
+      "sha256": "7e1ca53449c9d9898ff3311927c651a5913d5b926d346d33a332b16e054a3364",
+      "bytes": 970112
+    },
+    {
+      "name": "nyfoedte_top50_1985_2025.csv",
+      "format": "csv",
+      "rel_source": "dst_navne/nyfoedte_top50_1985_2025.csv",
+      "rel_target": "dst_navne/csv/nyfoedte_top50_1985_2025.csv",
+      "sha256": "2c63019a1e5d092617720ed5f146ef25f1df697f3030fa9edc60f71ba1af0324",
+      "bytes": 92663
+    }
+  ]
+}

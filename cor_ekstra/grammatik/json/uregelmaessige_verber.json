@@ -1,0 +1,4706 @@
+[
+  {
+    "infinitiv": "adlyde",
+    "præsens": "adlyder",
+    "præteritum": "adlød",
+    "perfektum_participium": "adlydt"
+  },
+  {
+    "infinitiv": "afbinde",
+    "præsens": "afbinder",
+    "præteritum": "afbandt",
+    "perfektum_participium": "afbundet"
+  },
+  {
+    "infinitiv": "afbryde",
+    "præsens": "afbryder",
+    "præteritum": "afbrød",
+    "perfektum_participium": "afbrudt"
+  },
+  {
+    "infinitiv": "afdrage",
+    "præsens": "afdrager",
+    "præteritum": "afdrog",
+    "perfektum_participium": "afdraget"
+  },
+  {
+    "infinitiv": "afdrive",
+    "præsens": "afdriver",
+    "præteritum": "afdrev",
+    "perfektum_participium": "afdrevet"
+  },
+  {
+    "infinitiv": "affinde",
+    "præsens": "affinder",
+    "præteritum": "affandt",
+    "perfektum_participium": "affundet"
+  },
+  {
+    "infinitiv": "afgive",
+    "præsens": "afgiver",
+    "præteritum": "afgav",
+    "perfektum_participium": "afgivet"
+  },
+  {
+    "infinitiv": "afgnide",
+    "præsens": "afgnider",
+    "præteritum": "afgned",
+    "perfektum_participium": "afgnedet"
+  },
+  {
+    "infinitiv": "afgøre",
+    "præsens": "afgør",
+    "præteritum": "afgjorde",
+    "perfektum_participium": "afgjort"
+  },
+  {
+    "infinitiv": "afgå",
+    "præsens": "afgår",
+    "præteritum": "afgik",
+    "perfektum_participium": "afgået"
+  },
+  {
+    "infinitiv": "afhjælpe",
+    "præsens": "afhjælper",
+    "præteritum": "afhjalp",
+    "perfektum_participium": "afhjulpet"
+  },
+  {
+    "infinitiv": "afholde",
+    "præsens": "afholder",
+    "præteritum": "afholdt",
+    "perfektum_participium": "afholdt"
+  },
+  {
+    "infinitiv": "afhænge",
+    "præsens": "afhænger",
+    "præteritum": "afhang",
+    "perfektum_participium": "afhængt"
+  },
+  {
+    "infinitiv": "aflægge",
+    "præsens": "aflægger",
+    "præteritum": "aflagde",
+    "perfektum_participium": "aflagt"
+  },
+  {
+    "infinitiv": "afrive",
+    "præsens": "afriver",
+    "præteritum": "afrev",
+    "perfektum_participium": "afrevet"
+  },
+  {
+    "infinitiv": "afse",
+    "præsens": "afser",
+    "præteritum": "afså",
+    "perfektum_participium": "afset"
+  },
+  {
+    "infinitiv": "afsige",
+    "præsens": "afsiger",
+    "præteritum": "afsagde",
+    "perfektum_participium": "afsagt"
+  },
+  {
+    "infinitiv": "afskrive",
+    "præsens": "afskriver",
+    "præteritum": "afskrev",
+    "perfektum_participium": "afskrevet"
+  },
+  {
+    "infinitiv": "afskyde",
+    "præsens": "afskyder",
+    "præteritum": "afskød",
+    "perfektum_participium": "afskudt"
+  },
+  {
+    "infinitiv": "afskære",
+    "præsens": "afskærer",
+    "præteritum": "afskar",
+    "perfektum_participium": "afskåret"
+  },
+  {
+    "infinitiv": "afslibe",
+    "præsens": "afsliber",
+    "præteritum": "afsleb",
+    "perfektum_participium": "afslebet"
+  },
+  {
+    "infinitiv": "afslå",
+    "præsens": "afslår",
+    "præteritum": "afslog",
+    "perfektum_participium": "afslået"
+  },
+  {
+    "infinitiv": "afstedkomme",
+    "præsens": "afstedkommer",
+    "præteritum": "afstedkom",
+    "perfektum_participium": "afstedkommet"
+  },
+  {
+    "infinitiv": "afstikke",
+    "præsens": "afstikker",
+    "præteritum": "afstak",
+    "perfektum_participium": "afstukket"
+  },
+  {
+    "infinitiv": "afstå",
+    "præsens": "afstår",
+    "præteritum": "afstod",
+    "perfektum_participium": "afstået"
+  },
+  {
+    "infinitiv": "afsvide",
+    "præsens": "afsvider",
+    "præteritum": "afsved",
+    "perfektum_participium": "afsvedet"
+  },
+  {
+    "infinitiv": "afsværge",
+    "præsens": "afsværger",
+    "præteritum": "afsvor",
+    "perfektum_participium": "afsvoret"
+  },
+  {
+    "infinitiv": "afsynge",
+    "præsens": "afsynger",
+    "præteritum": "afsang",
+    "perfektum_participium": "afsunget"
+  },
+  {
+    "infinitiv": "aftage",
+    "præsens": "aftager",
+    "præteritum": "aftog",
+    "perfektum_participium": "aftaget"
+  },
+  {
+    "infinitiv": "aftvinge",
+    "præsens": "aftvinger",
+    "præteritum": "aftvang",
+    "perfektum_participium": "aftvunget"
+  },
+  {
+    "infinitiv": "afvige",
+    "præsens": "afviger",
+    "præteritum": "afveg",
+    "perfektum_participium": "afveget"
+  },
+  {
+    "infinitiv": "almengøre",
+    "præsens": "almengør",
+    "præteritum": "almengjorde",
+    "perfektum_participium": "almengjort"
+  },
+  {
+    "infinitiv": "almindeliggøre",
+    "præsens": "almindeliggør",
+    "præteritum": "almindeliggjorde",
+    "perfektum_participium": "almindeliggjort"
+  },
+  {
+    "infinitiv": "andrage",
+    "præsens": "andrager",
+    "præteritum": "androg",
+    "perfektum_participium": "andraget"
+  },
+  {
+    "infinitiv": "anfalde",
+    "præsens": "anfalder",
+    "præteritum": "anfaldt",
+    "perfektum_participium": "anfaldet"
+  },
+  {
+    "infinitiv": "anflyve",
+    "præsens": "anflyver",
+    "præteritum": "anfløj",
+    "perfektum_participium": "anfløjet"
+  },
+  {
+    "infinitiv": "angive",
+    "præsens": "angiver",
+    "præteritum": "angav",
+    "perfektum_participium": "angivet"
+  },
+  {
+    "infinitiv": "angribe",
+    "præsens": "angriber",
+    "præteritum": "angreb",
+    "perfektum_participium": "angrebet"
+  },
+  {
+    "infinitiv": "angå",
+    "præsens": "angår",
+    "præteritum": "angik",
+    "perfektum_participium": "angået"
+  },
+  {
+    "infinitiv": "anholde",
+    "præsens": "anholder",
+    "præteritum": "anholdt",
+    "perfektum_participium": "anholdt"
+  },
+  {
+    "infinitiv": "ankomme",
+    "præsens": "ankommer",
+    "præteritum": "ankom",
+    "perfektum_participium": "ankommet"
+  },
+  {
+    "infinitiv": "anlægge",
+    "præsens": "anlægger",
+    "præteritum": "anlagde",
+    "perfektum_participium": "anlagt"
+  },
+  {
+    "infinitiv": "anløbe",
+    "præsens": "anløber",
+    "præteritum": "anløb",
+    "perfektum_participium": "anløbet"
+  },
+  {
+    "infinitiv": "anse",
+    "præsens": "anser",
+    "præteritum": "anså",
+    "perfektum_participium": "anset"
+  },
+  {
+    "infinitiv": "anskueliggøre",
+    "præsens": "anskueliggør",
+    "præteritum": "anskueliggjorde",
+    "perfektum_participium": "anskueliggjort"
+  },
+  {
+    "infinitiv": "anskyde",
+    "præsens": "anskyder",
+    "præteritum": "anskød",
+    "perfektum_participium": "anskudt"
+  },
+  {
+    "infinitiv": "anslå",
+    "præsens": "anslår",
+    "præteritum": "anslog",
+    "perfektum_participium": "anslået"
+  },
+  {
+    "infinitiv": "anstå",
+    "præsens": "anstår",
+    "præteritum": "anstod",
+    "perfektum_participium": "anstået"
+  },
+  {
+    "infinitiv": "antage",
+    "præsens": "antager",
+    "præteritum": "antog",
+    "perfektum_participium": "antaget"
+  },
+  {
+    "infinitiv": "antræffe",
+    "præsens": "antræffer",
+    "præteritum": "antraf",
+    "perfektum_participium": "antruffet"
+  },
+  {
+    "infinitiv": "bagbinde",
+    "præsens": "bagbinder",
+    "præteritum": "bagbandt",
+    "perfektum_participium": "bagbundet"
+  },
+  {
+    "infinitiv": "bede",
+    "præsens": "beder",
+    "præteritum": "bad",
+    "perfektum_participium": "bedt"
+  },
+  {
+    "infinitiv": "bedrage",
+    "præsens": "bedrager",
+    "præteritum": "bedrog",
+    "perfektum_participium": "bedraget"
+  },
+  {
+    "infinitiv": "bedrive",
+    "præsens": "bedriver",
+    "præteritum": "bedrev",
+    "perfektum_participium": "bedrevet"
+  },
+  {
+    "infinitiv": "befare",
+    "præsens": "befarer",
+    "præteritum": "befor",
+    "perfektum_participium": "befaret"
+  },
+  {
+    "infinitiv": "befinde",
+    "præsens": "befinder",
+    "præteritum": "befandt",
+    "perfektum_participium": "befundet"
+  },
+  {
+    "infinitiv": "beflyve",
+    "præsens": "beflyver",
+    "præteritum": "befløj",
+    "perfektum_participium": "befløjet"
+  },
+  {
+    "infinitiv": "begive",
+    "præsens": "begiver",
+    "præteritum": "begav",
+    "perfektum_participium": "begivet"
+  },
+  {
+    "infinitiv": "begrebsliggøre",
+    "præsens": "begrebsliggør",
+    "præteritum": "begrebsliggjorde",
+    "perfektum_participium": "begrebsliggjort"
+  },
+  {
+    "infinitiv": "begribe",
+    "præsens": "begriber",
+    "præteritum": "begreb",
+    "perfektum_participium": "begrebet"
+  },
+  {
+    "infinitiv": "begræde",
+    "præsens": "begræder",
+    "præteritum": "begræd",
+    "perfektum_participium": "begrædt"
+  },
+  {
+    "infinitiv": "begå",
+    "præsens": "begår",
+    "præteritum": "begik",
+    "perfektum_participium": "begået"
+  },
+  {
+    "infinitiv": "beholde",
+    "præsens": "beholder",
+    "præteritum": "beholdt",
+    "perfektum_participium": "beholdt"
+  },
+  {
+    "infinitiv": "bekendtgøre",
+    "præsens": "bekendtgør",
+    "præteritum": "bekendtgjorde",
+    "perfektum_participium": "bekendtgjort"
+  },
+  {
+    "infinitiv": "bekomme",
+    "præsens": "bekommer",
+    "præteritum": "bekom",
+    "perfektum_participium": "bekommet"
+  },
+  {
+    "infinitiv": "belægge",
+    "præsens": "belægger",
+    "præteritum": "belagde",
+    "perfektum_participium": "belagt"
+  },
+  {
+    "infinitiv": "beløbe",
+    "præsens": "beløber",
+    "præteritum": "beløb",
+    "perfektum_participium": "beløbet"
+  },
+  {
+    "infinitiv": "bese",
+    "præsens": "beser",
+    "præteritum": "beså",
+    "perfektum_participium": "beset"
+  },
+  {
+    "infinitiv": "besidde",
+    "præsens": "besidder",
+    "præteritum": "besad",
+    "perfektum_participium": "besiddet"
+  },
+  {
+    "infinitiv": "beskrive",
+    "præsens": "beskriver",
+    "præteritum": "beskrev",
+    "perfektum_participium": "beskrevet"
+  },
+  {
+    "infinitiv": "beskyde",
+    "præsens": "beskyder",
+    "præteritum": "beskød",
+    "perfektum_participium": "beskudt"
+  },
+  {
+    "infinitiv": "beskære",
+    "præsens": "beskærer",
+    "præteritum": "beskar",
+    "perfektum_participium": "beskåret"
+  },
+  {
+    "infinitiv": "beslaglægge",
+    "præsens": "beslaglægger",
+    "præteritum": "beslaglagde",
+    "perfektum_participium": "beslaglagt"
+  },
+  {
+    "infinitiv": "beslå",
+    "præsens": "beslår",
+    "præteritum": "beslog",
+    "perfektum_participium": "beslået"
+  },
+  {
+    "infinitiv": "bestige",
+    "præsens": "bestiger",
+    "præteritum": "besteg",
+    "perfektum_participium": "besteget"
+  },
+  {
+    "infinitiv": "bestikke",
+    "præsens": "bestikker",
+    "præteritum": "bestak",
+    "perfektum_participium": "bestukket"
+  },
+  {
+    "infinitiv": "bestjæle",
+    "præsens": "bestjæler",
+    "præteritum": "bestjal",
+    "perfektum_participium": "bestjålet"
+  },
+  {
+    "infinitiv": "bestride",
+    "præsens": "bestrider",
+    "præteritum": "bestred",
+    "perfektum_participium": "bestredet"
+  },
+  {
+    "infinitiv": "bestryge",
+    "præsens": "bestryger",
+    "præteritum": "bestrøg",
+    "perfektum_participium": "bestrøget"
+  },
+  {
+    "infinitiv": "bestå",
+    "præsens": "består",
+    "præteritum": "bestod",
+    "perfektum_participium": "bestået"
+  },
+  {
+    "infinitiv": "besvige",
+    "præsens": "besviger",
+    "præteritum": "besveg",
+    "perfektum_participium": "besveget"
+  },
+  {
+    "infinitiv": "besværge",
+    "præsens": "besværger",
+    "præteritum": "besvor",
+    "perfektum_participium": "besvoret"
+  },
+  {
+    "infinitiv": "besværliggøre",
+    "præsens": "besværliggør",
+    "præteritum": "besværliggjorde",
+    "perfektum_participium": "besværliggjort"
+  },
+  {
+    "infinitiv": "besynge",
+    "præsens": "besynger",
+    "præteritum": "besang",
+    "perfektum_participium": "besunget"
+  },
+  {
+    "infinitiv": "betage",
+    "præsens": "betager",
+    "præteritum": "betog",
+    "perfektum_participium": "betaget"
+  },
+  {
+    "infinitiv": "betrække",
+    "præsens": "betrækker",
+    "præteritum": "betrak",
+    "perfektum_participium": "betrukket"
+  },
+  {
+    "infinitiv": "betvinge",
+    "præsens": "betvinger",
+    "præteritum": "betvang",
+    "perfektum_participium": "betvunget"
+  },
+  {
+    "infinitiv": "bevidstgøre",
+    "præsens": "bevidstgør",
+    "præteritum": "bevidstgjorde",
+    "perfektum_participium": "bevidstgjort"
+  },
+  {
+    "infinitiv": "bibeholde",
+    "præsens": "bibeholder",
+    "præteritum": "bibeholdt",
+    "perfektum_participium": "bibeholdt"
+  },
+  {
+    "infinitiv": "bide",
+    "præsens": "bider",
+    "præteritum": "bed",
+    "perfektum_participium": "bidt"
+  },
+  {
+    "infinitiv": "bidrage",
+    "præsens": "bidrager",
+    "præteritum": "bidrog",
+    "perfektum_participium": "bidraget"
+  },
+  {
+    "infinitiv": "bifalde",
+    "præsens": "bifalder",
+    "præteritum": "bifaldt",
+    "perfektum_participium": "bifaldet"
+  },
+  {
+    "infinitiv": "billedliggøre",
+    "præsens": "billedliggør",
+    "præteritum": "billedliggjorde",
+    "perfektum_participium": "billedliggjort"
+  },
+  {
+    "infinitiv": "billiggøre",
+    "præsens": "billiggør",
+    "præteritum": "billiggjorde",
+    "perfektum_participium": "billiggjort"
+  },
+  {
+    "infinitiv": "bilægge",
+    "præsens": "bilægger",
+    "præteritum": "bilagde",
+    "perfektum_participium": "bilagt"
+  },
+  {
+    "infinitiv": "binde",
+    "præsens": "binder",
+    "præteritum": "bandt",
+    "perfektum_participium": "bundet"
+  },
+  {
+    "infinitiv": "bistå",
+    "præsens": "bistår",
+    "præteritum": "bistod",
+    "perfektum_participium": "bistået"
+  },
+  {
+    "infinitiv": "bjergtage",
+    "præsens": "bjergtager",
+    "præteritum": "bjergtog",
+    "perfektum_participium": "bjergtaget"
+  },
+  {
+    "infinitiv": "blive",
+    "præsens": "bliver",
+    "præteritum": "blev",
+    "perfektum_participium": "blevet"
+  },
+  {
+    "infinitiv": "blotlægge",
+    "præsens": "blotlægger",
+    "præteritum": "blotlagde",
+    "perfektum_participium": "blotlagt"
+  },
+  {
+    "infinitiv": "blødgøre",
+    "præsens": "blødgør",
+    "præteritum": "blødgjorde",
+    "perfektum_participium": "blødgjort"
+  },
+  {
+    "infinitiv": "borgerliggøre",
+    "præsens": "borgerliggør",
+    "præteritum": "borgerliggjorde",
+    "perfektum_participium": "borgerliggjort"
+  },
+  {
+    "infinitiv": "bortfalde",
+    "præsens": "bortfalder",
+    "præteritum": "bortfaldt",
+    "perfektum_participium": "bortfaldet"
+  },
+  {
+    "infinitiv": "bortgå",
+    "præsens": "bortgår",
+    "præteritum": "bortgik",
+    "perfektum_participium": "bortgået"
+  },
+  {
+    "infinitiv": "bortkomme",
+    "præsens": "bortkommer",
+    "præteritum": "bortkom",
+    "perfektum_participium": "bortkommet"
+  },
+  {
+    "infinitiv": "bortrive",
+    "præsens": "bortriver",
+    "præteritum": "bortrev",
+    "perfektum_participium": "bortrevet"
+  },
+  {
+    "infinitiv": "bortse",
+    "præsens": "bortser",
+    "præteritum": "bortså",
+    "perfektum_participium": "bortset"
+  },
+  {
+    "infinitiv": "braklægge",
+    "præsens": "braklægger",
+    "præteritum": "braklagde",
+    "perfektum_participium": "braklagt"
+  },
+  {
+    "infinitiv": "briste",
+    "præsens": "brister",
+    "præteritum": "brast",
+    "perfektum_participium": "bristet"
+  },
+  {
+    "infinitiv": "brolægge",
+    "præsens": "brolægger",
+    "præteritum": "brolagde",
+    "perfektum_participium": "brolagt"
+  },
+  {
+    "infinitiv": "brydes",
+    "præsens": "brydes",
+    "præteritum": "brødes",
+    "perfektum_participium": "brødes"
+  },
+  {
+    "infinitiv": "bundfryse",
+    "præsens": "bundfryser",
+    "præteritum": "bundfrøs",
+    "perfektum_participium": "bundfrosset"
+  },
+  {
+    "infinitiv": "burde",
+    "præsens": "bør",
+    "præteritum": "burde",
+    "perfektum_participium": "burdet"
+  },
+  {
+    "infinitiv": "byde",
+    "præsens": "byder",
+    "præteritum": "bød",
+    "perfektum_participium": "budt"
+  },
+  {
+    "infinitiv": "bære",
+    "præsens": "bærer",
+    "præteritum": "bar",
+    "perfektum_participium": "båret"
+  },
+  {
+    "infinitiv": "bønfalde",
+    "præsens": "bønfalder",
+    "præteritum": "bønfaldt",
+    "perfektum_participium": "bønfaldet"
+  },
+  {
+    "infinitiv": "båndlægge",
+    "præsens": "båndlægger",
+    "præteritum": "båndlagde",
+    "perfektum_participium": "båndlagt"
+  },
+  {
+    "infinitiv": "båndoptage",
+    "præsens": "båndoptager",
+    "præteritum": "båndoptog",
+    "perfektum_participium": "båndoptaget"
+  },
+  {
+    "infinitiv": "delagtiggøre",
+    "præsens": "delagtiggør",
+    "præteritum": "delagtiggjorde",
+    "perfektum_participium": "delagtiggjort"
+  },
+  {
+    "infinitiv": "deltage",
+    "præsens": "deltager",
+    "præteritum": "deltog",
+    "perfektum_participium": "deltaget"
+  },
+  {
+    "infinitiv": "dobbeltskrive",
+    "præsens": "dobbeltskriver",
+    "præteritum": "dobbeltskrev",
+    "perfektum_participium": "dobbeltskrevet"
+  },
+  {
+    "infinitiv": "drage",
+    "præsens": "drager",
+    "præteritum": "drog",
+    "perfektum_participium": "draget"
+  },
+  {
+    "infinitiv": "drikke",
+    "præsens": "drikker",
+    "præteritum": "drak",
+    "perfektum_participium": "drukket"
+  },
+  {
+    "infinitiv": "drive",
+    "præsens": "driver",
+    "præteritum": "drev",
+    "perfektum_participium": "drevet"
+  },
+  {
+    "infinitiv": "dybfryse",
+    "præsens": "dybfryser",
+    "præteritum": "dybfrøs",
+    "perfektum_participium": "dybfrosset"
+  },
+  {
+    "infinitiv": "dygtiggøre",
+    "præsens": "dygtiggør",
+    "præteritum": "dygtiggjorde",
+    "perfektum_participium": "dygtiggjort"
+  },
+  {
+    "infinitiv": "dø",
+    "præsens": "dør",
+    "præteritum": "døde",
+    "perfektum_participium": "døet"
+  },
+  {
+    "infinitiv": "eftergive",
+    "præsens": "eftergiver",
+    "præteritum": "eftergav",
+    "perfektum_participium": "eftergivet"
+  },
+  {
+    "infinitiv": "eftergøre",
+    "præsens": "eftergør",
+    "præteritum": "eftergjorde",
+    "perfektum_participium": "eftergjort"
+  },
+  {
+    "infinitiv": "efterkomme",
+    "præsens": "efterkommer",
+    "præteritum": "efterkom",
+    "perfektum_participium": "efterkommet"
+  },
+  {
+    "infinitiv": "efterlade",
+    "præsens": "efterlader",
+    "præteritum": "efterlod",
+    "perfektum_participium": "efterladt"
+  },
+  {
+    "infinitiv": "efterse",
+    "præsens": "efterser",
+    "præteritum": "efterså",
+    "perfektum_participium": "efterset"
+  },
+  {
+    "infinitiv": "erholde",
+    "præsens": "erholder",
+    "præteritum": "erholdt",
+    "perfektum_participium": "erholdt"
+  },
+  {
+    "infinitiv": "erlægge",
+    "præsens": "erlægger",
+    "præteritum": "erlagde",
+    "perfektum_participium": "erlagt"
+  },
+  {
+    "infinitiv": "facetslibe",
+    "præsens": "facetsliber",
+    "præteritum": "facetsleb",
+    "perfektum_participium": "facetslebet"
+  },
+  {
+    "infinitiv": "falbyde",
+    "præsens": "falbyder",
+    "præteritum": "falbød",
+    "perfektum_participium": "falbudt"
+  },
+  {
+    "infinitiv": "falde",
+    "præsens": "falder",
+    "præteritum": "faldt",
+    "perfektum_participium": "faldet"
+  },
+  {
+    "infinitiv": "fare",
+    "præsens": "farer",
+    "præteritum": "for",
+    "perfektum_participium": "faret"
+  },
+  {
+    "infinitiv": "farvelægge",
+    "præsens": "farvelægger",
+    "præteritum": "farvelagde",
+    "perfektum_participium": "farvelagt"
+  },
+  {
+    "infinitiv": "fastfryse",
+    "præsens": "fastfryser",
+    "præteritum": "fastfrøs",
+    "perfektum_participium": "fastfrosset"
+  },
+  {
+    "infinitiv": "fastgøre",
+    "præsens": "fastgør",
+    "præteritum": "fastgjorde",
+    "perfektum_participium": "fastgjort"
+  },
+  {
+    "infinitiv": "fastholde",
+    "præsens": "fastholder",
+    "præteritum": "fastholdt",
+    "perfektum_participium": "fastholdt"
+  },
+  {
+    "infinitiv": "fastlægge",
+    "præsens": "fastlægger",
+    "præteritum": "fastlagde",
+    "perfektum_participium": "fastlagt"
+  },
+  {
+    "infinitiv": "fastslå",
+    "præsens": "fastslår",
+    "præteritum": "fastslog",
+    "perfektum_participium": "fastslået"
+  },
+  {
+    "infinitiv": "festligholde",
+    "præsens": "festligholder",
+    "præteritum": "festligholdt",
+    "perfektum_participium": "festligholdt"
+  },
+  {
+    "infinitiv": "finde",
+    "præsens": "finder",
+    "præteritum": "fandt",
+    "perfektum_participium": "fundet"
+  },
+  {
+    "infinitiv": "finskære",
+    "præsens": "finskærer",
+    "præteritum": "finskar",
+    "perfektum_participium": "finskåret"
+  },
+  {
+    "infinitiv": "fise",
+    "præsens": "fiser",
+    "præteritum": "fes",
+    "perfektum_participium": "feset"
+  },
+  {
+    "infinitiv": "flyde",
+    "præsens": "flyder",
+    "præteritum": "flød",
+    "perfektum_participium": "flydt"
+  },
+  {
+    "infinitiv": "flyve",
+    "præsens": "flyver",
+    "præteritum": "fløj",
+    "perfektum_participium": "fløjet"
+  },
+  {
+    "infinitiv": "fnise",
+    "præsens": "fniser",
+    "præteritum": "fnes",
+    "perfektum_participium": "fniset"
+  },
+  {
+    "infinitiv": "fnyse",
+    "præsens": "fnyser",
+    "præteritum": "fnøs",
+    "perfektum_participium": "fnyset"
+  },
+  {
+    "infinitiv": "folkeliggøre",
+    "præsens": "folkeliggør",
+    "præteritum": "folkeliggjorde",
+    "perfektum_participium": "folkeliggjort"
+  },
+  {
+    "infinitiv": "forbeholde",
+    "præsens": "forbeholder",
+    "præteritum": "forbeholdt",
+    "perfektum_participium": "forbeholdt"
+  },
+  {
+    "infinitiv": "forbigå",
+    "præsens": "forbigår",
+    "præteritum": "forbigik",
+    "perfektum_participium": "forbigået"
+  },
+  {
+    "infinitiv": "forbinde",
+    "præsens": "forbinder",
+    "præteritum": "forbandt",
+    "perfektum_participium": "forbundet"
+  },
+  {
+    "infinitiv": "forbise",
+    "præsens": "forbiser",
+    "præteritum": "forbiså",
+    "perfektum_participium": "forbiset"
+  },
+  {
+    "infinitiv": "forblive",
+    "præsens": "forbliver",
+    "præteritum": "forblev",
+    "perfektum_participium": "forblevet"
+  },
+  {
+    "infinitiv": "forbryde",
+    "præsens": "forbryder",
+    "præteritum": "forbrød",
+    "perfektum_participium": "forbrudt"
+  },
+  {
+    "infinitiv": "forbyde",
+    "præsens": "forbyder",
+    "præteritum": "forbød",
+    "perfektum_participium": "forbudt"
+  },
+  {
+    "infinitiv": "fordrive",
+    "præsens": "fordriver",
+    "præteritum": "fordrev",
+    "perfektum_participium": "fordrevet"
+  },
+  {
+    "infinitiv": "foredrage",
+    "præsens": "foredrager",
+    "præteritum": "foredrog",
+    "perfektum_participium": "foredraget"
+  },
+  {
+    "infinitiv": "forefalde",
+    "præsens": "forefalder",
+    "præteritum": "forefaldt",
+    "perfektum_participium": "forefaldet"
+  },
+  {
+    "infinitiv": "forefinde",
+    "præsens": "forefinder",
+    "præteritum": "forefandt",
+    "perfektum_participium": "forefundet"
+  },
+  {
+    "infinitiv": "foregive",
+    "præsens": "foregiver",
+    "præteritum": "foregav",
+    "perfektum_participium": "foregivet"
+  },
+  {
+    "infinitiv": "foregribe",
+    "præsens": "foregriber",
+    "præteritum": "foregreb",
+    "perfektum_participium": "foregrebet"
+  },
+  {
+    "infinitiv": "foregå",
+    "præsens": "foregår",
+    "præteritum": "foregik",
+    "perfektum_participium": "foregået"
+  },
+  {
+    "infinitiv": "foreholde",
+    "præsens": "foreholder",
+    "præteritum": "foreholdt",
+    "perfektum_participium": "foreholdt"
+  },
+  {
+    "infinitiv": "forekomme",
+    "præsens": "forekommer",
+    "præteritum": "forekom",
+    "perfektum_participium": "forekommet"
+  },
+  {
+    "infinitiv": "foreligge",
+    "præsens": "foreligger",
+    "præteritum": "forelå",
+    "perfektum_participium": "foreligget"
+  },
+  {
+    "infinitiv": "forelægge",
+    "præsens": "forelægger",
+    "præteritum": "forelagde",
+    "perfektum_participium": "forelagt"
+  },
+  {
+    "infinitiv": "foreskrive",
+    "præsens": "foreskriver",
+    "præteritum": "foreskrev",
+    "perfektum_participium": "foreskrevet"
+  },
+  {
+    "infinitiv": "foreslå",
+    "præsens": "foreslår",
+    "præteritum": "foreslog",
+    "perfektum_participium": "foreslået"
+  },
+  {
+    "infinitiv": "forestå",
+    "præsens": "forestår",
+    "præteritum": "forestod",
+    "perfektum_participium": "forestået"
+  },
+  {
+    "infinitiv": "foretage",
+    "præsens": "foretager",
+    "præteritum": "foretog",
+    "perfektum_participium": "foretaget"
+  },
+  {
+    "infinitiv": "foretrække",
+    "præsens": "foretrækker",
+    "præteritum": "foretrak",
+    "perfektum_participium": "foretrukket"
+  },
+  {
+    "infinitiv": "forfalde",
+    "præsens": "forfalder",
+    "præteritum": "forfaldt",
+    "perfektum_participium": "forfaldet"
+  },
+  {
+    "infinitiv": "forfryse",
+    "præsens": "forfryser",
+    "præteritum": "forfrøs",
+    "perfektum_participium": "forfrosset"
+  },
+  {
+    "infinitiv": "forgive",
+    "præsens": "forgiver",
+    "præteritum": "forgav",
+    "perfektum_participium": "forgivet"
+  },
+  {
+    "infinitiv": "forgribe",
+    "præsens": "forgriber",
+    "præteritum": "forgreb",
+    "perfektum_participium": "forgrebet"
+  },
+  {
+    "infinitiv": "forgøre",
+    "præsens": "forgør",
+    "præteritum": "forgjorde",
+    "perfektum_participium": "forgjort"
+  },
+  {
+    "infinitiv": "forgå",
+    "præsens": "forgår",
+    "præteritum": "forgik",
+    "perfektum_participium": "forgået"
+  },
+  {
+    "infinitiv": "forholde",
+    "præsens": "forholder",
+    "præteritum": "forholdt",
+    "perfektum_participium": "forholdt"
+  },
+  {
+    "infinitiv": "forjage",
+    "præsens": "forjager",
+    "præteritum": "forjog",
+    "perfektum_participium": "forjaget"
+  },
+  {
+    "infinitiv": "forlade",
+    "præsens": "forlader",
+    "præteritum": "forlod",
+    "perfektum_participium": "forladt"
+  },
+  {
+    "infinitiv": "forlyde",
+    "præsens": "forlyder",
+    "præteritum": "forlød",
+    "perfektum_participium": "forlydt"
+  },
+  {
+    "infinitiv": "forlægge",
+    "præsens": "forlægger",
+    "præteritum": "forlagde",
+    "perfektum_participium": "forlagt"
+  },
+  {
+    "infinitiv": "forløbe",
+    "præsens": "forløber",
+    "præteritum": "forløb",
+    "perfektum_participium": "forløbet"
+  },
+  {
+    "infinitiv": "formgive",
+    "præsens": "formgiver",
+    "præteritum": "formgav",
+    "perfektum_participium": "formgivet"
+  },
+  {
+    "infinitiv": "formskære",
+    "præsens": "formskærer",
+    "præteritum": "formskar",
+    "perfektum_participium": "formskåret"
+  },
+  {
+    "infinitiv": "forse",
+    "præsens": "forser",
+    "præteritum": "forså",
+    "perfektum_participium": "forset"
+  },
+  {
+    "infinitiv": "forskrive",
+    "præsens": "forskriver",
+    "præteritum": "forskrev",
+    "perfektum_participium": "forskrevet"
+  },
+  {
+    "infinitiv": "forskyde",
+    "præsens": "forskyder",
+    "præteritum": "forskød",
+    "perfektum_participium": "forskudt"
+  },
+  {
+    "infinitiv": "forskære",
+    "præsens": "forskærer",
+    "præteritum": "forskar",
+    "perfektum_participium": "forskåret"
+  },
+  {
+    "infinitiv": "forslå",
+    "præsens": "forslår",
+    "præteritum": "forslog",
+    "perfektum_participium": "forslået"
+  },
+  {
+    "infinitiv": "forstå",
+    "præsens": "forstår",
+    "præteritum": "forstod",
+    "perfektum_participium": "forstået"
+  },
+  {
+    "infinitiv": "forsvinde",
+    "præsens": "forsvinder",
+    "præteritum": "forsvandt",
+    "perfektum_participium": "forsvundet"
+  },
+  {
+    "infinitiv": "forsværge",
+    "præsens": "forsværger",
+    "præteritum": "forsvor",
+    "perfektum_participium": "forsvoret"
+  },
+  {
+    "infinitiv": "fortage",
+    "præsens": "fortager",
+    "præteritum": "fortog",
+    "perfektum_participium": "fortaget"
+  },
+  {
+    "infinitiv": "fortie",
+    "præsens": "fortier",
+    "præteritum": "fortav",
+    "perfektum_participium": "fortiet"
+  },
+  {
+    "infinitiv": "fortryde",
+    "præsens": "fortryder",
+    "præteritum": "fortrød",
+    "perfektum_participium": "fortrudt"
+  },
+  {
+    "infinitiv": "fortrække",
+    "præsens": "fortrækker",
+    "præteritum": "fortrak",
+    "perfektum_participium": "fortrukket"
+  },
+  {
+    "infinitiv": "forudgå",
+    "præsens": "forudgår",
+    "præteritum": "forudgik",
+    "perfektum_participium": "forudgået"
+  },
+  {
+    "infinitiv": "forudse",
+    "præsens": "forudser",
+    "præteritum": "forudså",
+    "perfektum_participium": "forudset"
+  },
+  {
+    "infinitiv": "forudsige",
+    "præsens": "forudsiger",
+    "præteritum": "forudsagde",
+    "perfektum_participium": "forudsagt"
+  },
+  {
+    "infinitiv": "forvinde",
+    "præsens": "forvinder",
+    "præteritum": "forvandt",
+    "perfektum_participium": "forvundet"
+  },
+  {
+    "infinitiv": "forvride",
+    "præsens": "forvrider",
+    "præteritum": "forvred",
+    "perfektum_participium": "forvredet"
+  },
+  {
+    "infinitiv": "foræde",
+    "præsens": "foræder",
+    "præteritum": "foråd",
+    "perfektum_participium": "forædt"
+  },
+  {
+    "infinitiv": "frabede",
+    "præsens": "frabeder",
+    "præteritum": "frabad",
+    "perfektum_participium": "frabedt"
+  },
+  {
+    "infinitiv": "fradrage",
+    "præsens": "fradrager",
+    "præteritum": "fradrog",
+    "perfektum_participium": "fradraget"
+  },
+  {
+    "infinitiv": "frafalde",
+    "præsens": "frafalder",
+    "præteritum": "frafaldt",
+    "perfektum_participium": "frafaldet"
+  },
+  {
+    "infinitiv": "fragå",
+    "præsens": "fragår",
+    "præteritum": "fragik",
+    "perfektum_participium": "fragået"
+  },
+  {
+    "infinitiv": "fralægge",
+    "præsens": "fralægger",
+    "præteritum": "fralagde",
+    "perfektum_participium": "fralagt"
+  },
+  {
+    "infinitiv": "frasige",
+    "præsens": "frasiger",
+    "præteritum": "frasagde",
+    "perfektum_participium": "frasagt"
+  },
+  {
+    "infinitiv": "fraskrive",
+    "præsens": "fraskriver",
+    "præteritum": "fraskrev",
+    "perfektum_participium": "fraskrevet"
+  },
+  {
+    "infinitiv": "fratage",
+    "præsens": "fratager",
+    "præteritum": "fratog",
+    "perfektum_participium": "frataget"
+  },
+  {
+    "infinitiv": "fratrække",
+    "præsens": "fratrækker",
+    "præteritum": "fratrak",
+    "perfektum_participium": "fratrukket"
+  },
+  {
+    "infinitiv": "fravige",
+    "præsens": "fraviger",
+    "præteritum": "fraveg",
+    "perfektum_participium": "fraveget"
+  },
+  {
+    "infinitiv": "fredeliggøre",
+    "præsens": "fredeliggør",
+    "præteritum": "fredeliggjorde",
+    "perfektum_participium": "fredeliggjort"
+  },
+  {
+    "infinitiv": "frembryde",
+    "præsens": "frembryder",
+    "præteritum": "frembrød",
+    "perfektum_participium": "frembrudt"
+  },
+  {
+    "infinitiv": "frembyde",
+    "præsens": "frembyder",
+    "præteritum": "frembød",
+    "perfektum_participium": "frembudt"
+  },
+  {
+    "infinitiv": "frembære",
+    "præsens": "frembærer",
+    "præteritum": "frembar",
+    "perfektum_participium": "frembåret"
+  },
+  {
+    "infinitiv": "fremdrage",
+    "præsens": "fremdrager",
+    "præteritum": "fremdrog",
+    "perfektum_participium": "fremdraget"
+  },
+  {
+    "infinitiv": "fremgå",
+    "præsens": "fremgår",
+    "præteritum": "fremgik",
+    "perfektum_participium": "fremgået"
+  },
+  {
+    "infinitiv": "fremholde",
+    "præsens": "fremholder",
+    "præteritum": "fremholdt",
+    "perfektum_participium": "fremholdt"
+  },
+  {
+    "infinitiv": "fremkomme",
+    "præsens": "fremkommer",
+    "præteritum": "fremkom",
+    "perfektum_participium": "fremkommet"
+  },
+  {
+    "infinitiv": "fremlægge",
+    "præsens": "fremlægger",
+    "præteritum": "fremlagde",
+    "perfektum_participium": "fremlagt"
+  },
+  {
+    "infinitiv": "fremmedgøre",
+    "præsens": "fremmedgør",
+    "præteritum": "fremmedgjorde",
+    "perfektum_participium": "fremmedgjort"
+  },
+  {
+    "infinitiv": "fremsige",
+    "præsens": "fremsiger",
+    "præteritum": "fremsagde",
+    "perfektum_participium": "fremsagt"
+  },
+  {
+    "infinitiv": "fremskrive",
+    "præsens": "fremskriver",
+    "præteritum": "fremskrev",
+    "perfektum_participium": "fremskrevet"
+  },
+  {
+    "infinitiv": "fremstå",
+    "præsens": "fremstår",
+    "præteritum": "fremstod",
+    "perfektum_participium": "fremstået"
+  },
+  {
+    "infinitiv": "fremtvinge",
+    "præsens": "fremtvinger",
+    "præteritum": "fremtvang",
+    "perfektum_participium": "fremtvunget"
+  },
+  {
+    "infinitiv": "frifinde",
+    "præsens": "frifinder",
+    "præteritum": "frifandt",
+    "perfektum_participium": "frifundet"
+  },
+  {
+    "infinitiv": "frigive",
+    "præsens": "frigiver",
+    "præteritum": "frigav",
+    "perfektum_participium": "frigivet"
+  },
+  {
+    "infinitiv": "frigøre",
+    "præsens": "frigør",
+    "præteritum": "frigjorde",
+    "perfektum_participium": "frigjort"
+  },
+  {
+    "infinitiv": "friholde",
+    "præsens": "friholder",
+    "præteritum": "friholdt",
+    "perfektum_participium": "friholdt"
+  },
+  {
+    "infinitiv": "fritage",
+    "præsens": "fritager",
+    "præteritum": "fritog",
+    "perfektum_participium": "fritaget"
+  },
+  {
+    "infinitiv": "fritlægge",
+    "præsens": "fritlægger",
+    "præteritum": "fritlagde",
+    "perfektum_participium": "fritlagt"
+  },
+  {
+    "infinitiv": "frugtbargøre",
+    "præsens": "frugtbargør",
+    "præteritum": "frugtbargjorde",
+    "perfektum_participium": "frugtbargjort"
+  },
+  {
+    "infinitiv": "fryse",
+    "præsens": "fryser",
+    "præteritum": "frøs",
+    "perfektum_participium": "frosset"
+  },
+  {
+    "infinitiv": "fuldkommengøre",
+    "præsens": "fuldkommengør",
+    "præteritum": "fuldkommengjorde",
+    "perfektum_participium": "fuldkommengjort"
+  },
+  {
+    "infinitiv": "fuldstændiggøre",
+    "præsens": "fuldstændiggør",
+    "præteritum": "fuldstændiggjorde",
+    "perfektum_participium": "fuldstændiggjort"
+  },
+  {
+    "infinitiv": "fyge",
+    "præsens": "fyger",
+    "præteritum": "føg",
+    "perfektum_participium": "føget"
+  },
+  {
+    "infinitiv": "færdiggøre",
+    "præsens": "færdiggør",
+    "præteritum": "færdiggjorde",
+    "perfektum_participium": "færdiggjort"
+  },
+  {
+    "infinitiv": "få",
+    "præsens": "får",
+    "præteritum": "fik",
+    "perfektum_participium": "fået"
+  },
+  {
+    "infinitiv": "gendrive",
+    "præsens": "gendriver",
+    "præteritum": "gendrev",
+    "perfektum_participium": "gendrevet"
+  },
+  {
+    "infinitiv": "genfinde",
+    "præsens": "genfinder",
+    "præteritum": "genfandt",
+    "perfektum_participium": "genfundet"
+  },
+  {
+    "infinitiv": "gengive",
+    "præsens": "gengiver",
+    "præteritum": "gengav",
+    "perfektum_participium": "gengivet"
+  },
+  {
+    "infinitiv": "genindvinde",
+    "præsens": "genindvinder",
+    "præteritum": "genindvandt",
+    "perfektum_participium": "genindvundet"
+  },
+  {
+    "infinitiv": "genklinge",
+    "præsens": "genklinger",
+    "præteritum": "genklang",
+    "perfektum_participium": "genklinget"
+  },
+  {
+    "infinitiv": "genlyde",
+    "præsens": "genlyder",
+    "præteritum": "genlød",
+    "perfektum_participium": "genlydt"
+  },
+  {
+    "infinitiv": "gennembryde",
+    "præsens": "gennembryder",
+    "præteritum": "gennembrød",
+    "perfektum_participium": "gennembrudt"
+  },
+  {
+    "infinitiv": "gennemgå",
+    "præsens": "gennemgår",
+    "præteritum": "gennemgik",
+    "perfektum_participium": "gennemgået"
+  },
+  {
+    "infinitiv": "gennemløbe",
+    "præsens": "gennemløber",
+    "præteritum": "gennemløb",
+    "perfektum_participium": "gennemløbet"
+  },
+  {
+    "infinitiv": "gennemse",
+    "præsens": "gennemser",
+    "præteritum": "gennemså",
+    "perfektum_participium": "gennemset"
+  },
+  {
+    "infinitiv": "gennemskrive",
+    "præsens": "gennemskriver",
+    "præteritum": "gennemskrev",
+    "perfektum_participium": "gennemskrevet"
+  },
+  {
+    "infinitiv": "gennemskyde",
+    "præsens": "gennemskyder",
+    "præteritum": "gennemskød",
+    "perfektum_participium": "gennemskudt"
+  },
+  {
+    "infinitiv": "gennemskære",
+    "præsens": "gennemskærer",
+    "præteritum": "gennemskar",
+    "perfektum_participium": "gennemskåret"
+  },
+  {
+    "infinitiv": "gennemtrække",
+    "præsens": "gennemtrækker",
+    "præteritum": "gennemtrak",
+    "perfektum_participium": "gennemtrukket"
+  },
+  {
+    "infinitiv": "gennemtvinge",
+    "præsens": "gennemtvinger",
+    "præteritum": "gennemtvang",
+    "perfektum_participium": "gennemtvunget"
+  },
+  {
+    "infinitiv": "genopdrage",
+    "præsens": "genopdrager",
+    "præteritum": "genopdrog",
+    "perfektum_participium": "genopdraget"
+  },
+  {
+    "infinitiv": "genopslå",
+    "præsens": "genopslår",
+    "præteritum": "genopslog",
+    "perfektum_participium": "genopslået"
+  },
+  {
+    "infinitiv": "genopstå",
+    "præsens": "genopstår",
+    "præteritum": "genopstod",
+    "perfektum_participium": "genopstået"
+  },
+  {
+    "infinitiv": "genoptage",
+    "præsens": "genoptager",
+    "præteritum": "genoptog",
+    "perfektum_participium": "genoptaget"
+  },
+  {
+    "infinitiv": "gense",
+    "præsens": "genser",
+    "præteritum": "genså",
+    "perfektum_participium": "genset"
+  },
+  {
+    "infinitiv": "gentage",
+    "præsens": "gentager",
+    "præteritum": "gentog",
+    "perfektum_participium": "gentaget"
+  },
+  {
+    "infinitiv": "genudgive",
+    "præsens": "genudgiver",
+    "præteritum": "genudgav",
+    "perfektum_participium": "genudgivet"
+  },
+  {
+    "infinitiv": "genudvinde",
+    "præsens": "genudvinder",
+    "præteritum": "genudvandt",
+    "perfektum_participium": "genudvundet"
+  },
+  {
+    "infinitiv": "genvinde",
+    "præsens": "genvinder",
+    "præteritum": "genvandt",
+    "perfektum_participium": "genvundet"
+  },
+  {
+    "infinitiv": "gide",
+    "præsens": "gider",
+    "præteritum": "gad",
+    "perfektum_participium": "gidet"
+  },
+  {
+    "infinitiv": "give",
+    "præsens": "giver",
+    "præteritum": "gav",
+    "perfektum_participium": "givet"
+  },
+  {
+    "infinitiv": "glide",
+    "præsens": "glider",
+    "præteritum": "gled",
+    "perfektum_participium": "gledet"
+  },
+  {
+    "infinitiv": "gnide",
+    "præsens": "gnider",
+    "præteritum": "gned",
+    "perfektum_participium": "gnedet"
+  },
+  {
+    "infinitiv": "godskrive",
+    "præsens": "godskriver",
+    "præteritum": "godskrev",
+    "perfektum_participium": "godskrevet"
+  },
+  {
+    "infinitiv": "godtage",
+    "præsens": "godtager",
+    "præteritum": "godtog",
+    "perfektum_participium": "godtaget"
+  },
+  {
+    "infinitiv": "godtgøre",
+    "præsens": "godtgør",
+    "præteritum": "godtgjorde",
+    "perfektum_participium": "godtgjort"
+  },
+  {
+    "infinitiv": "gravlægge",
+    "præsens": "gravlægger",
+    "præteritum": "gravlagde",
+    "perfektum_participium": "gravlagt"
+  },
+  {
+    "infinitiv": "gribe",
+    "præsens": "griber",
+    "præteritum": "greb",
+    "perfektum_participium": "grebet"
+  },
+  {
+    "infinitiv": "grovskære",
+    "præsens": "grovskærer",
+    "præteritum": "grovskar",
+    "perfektum_participium": "grovskåret"
+  },
+  {
+    "infinitiv": "grundlægge",
+    "præsens": "grundlægger",
+    "præteritum": "grundlagde",
+    "perfektum_participium": "grundlagt"
+  },
+  {
+    "infinitiv": "græde",
+    "præsens": "græder",
+    "præteritum": "græd",
+    "perfektum_participium": "grædt"
+  },
+  {
+    "infinitiv": "guddommeliggøre",
+    "præsens": "guddommeliggør",
+    "præteritum": "guddommeliggjorde",
+    "perfektum_participium": "guddommeliggjort"
+  },
+  {
+    "infinitiv": "gyde",
+    "præsens": "gyder",
+    "præteritum": "gød",
+    "perfektum_participium": "gydt"
+  },
+  {
+    "infinitiv": "gyse",
+    "præsens": "gyser",
+    "præteritum": "gøs",
+    "perfektum_participium": "gyst"
+  },
+  {
+    "infinitiv": "gælde",
+    "præsens": "gælder",
+    "præteritum": "gjaldt",
+    "perfektum_participium": "gjaldt"
+  },
+  {
+    "infinitiv": "gøre",
+    "præsens": "gør",
+    "præteritum": "gjorde",
+    "perfektum_participium": "gjort"
+  },
+  {
+    "infinitiv": "gå",
+    "præsens": "går",
+    "præteritum": "gik",
+    "perfektum_participium": "gået"
+  },
+  {
+    "infinitiv": "hasteindlægge",
+    "præsens": "hasteindlægger",
+    "præteritum": "hasteindlagde",
+    "perfektum_participium": "hasteindlagt"
+  },
+  {
+    "infinitiv": "have",
+    "præsens": "har",
+    "præteritum": "havde",
+    "perfektum_participium": "haft"
+  },
+  {
+    "infinitiv": "hedde",
+    "præsens": "hedder",
+    "præteritum": "hed",
+    "perfektum_participium": "heddet"
+  },
+  {
+    "infinitiv": "helliggøre",
+    "præsens": "helliggør",
+    "præteritum": "helliggjorde",
+    "perfektum_participium": "helliggjort"
+  },
+  {
+    "infinitiv": "helligholde",
+    "præsens": "helligholder",
+    "præteritum": "helligholdt",
+    "perfektum_participium": "helligholdt"
+  },
+  {
+    "infinitiv": "hemmeligholde",
+    "præsens": "hemmeligholder",
+    "præteritum": "hemmeligholdt",
+    "perfektum_participium": "hemmeligholdt"
+  },
+  {
+    "infinitiv": "hendø",
+    "præsens": "hendør",
+    "præteritum": "hendøde",
+    "perfektum_participium": "hendøet"
+  },
+  {
+    "infinitiv": "henfalde",
+    "præsens": "henfalder",
+    "præteritum": "henfaldt",
+    "perfektum_participium": "henfaldet"
+  },
+  {
+    "infinitiv": "hengive",
+    "præsens": "hengiver",
+    "præteritum": "hengav",
+    "perfektum_participium": "hengivet"
+  },
+  {
+    "infinitiv": "hengå",
+    "præsens": "hengår",
+    "præteritum": "hengik",
+    "perfektum_participium": "hengået"
+  },
+  {
+    "infinitiv": "henholde",
+    "præsens": "henholder",
+    "præteritum": "henholdt",
+    "perfektum_participium": "henholdt"
+  },
+  {
+    "infinitiv": "henligge",
+    "præsens": "henligger",
+    "præteritum": "henlå",
+    "perfektum_participium": "henligget"
+  },
+  {
+    "infinitiv": "henlægge",
+    "præsens": "henlægger",
+    "præteritum": "henlagde",
+    "perfektum_participium": "henlagt"
+  },
+  {
+    "infinitiv": "henrive",
+    "præsens": "henriver",
+    "præteritum": "henrev",
+    "perfektum_participium": "henrevet"
+  },
+  {
+    "infinitiv": "hense",
+    "præsens": "henser",
+    "præteritum": "henså",
+    "perfektum_participium": "henset"
+  },
+  {
+    "infinitiv": "hensidde",
+    "præsens": "hensidder",
+    "præteritum": "hensad",
+    "perfektum_participium": "hensiddet"
+  },
+  {
+    "infinitiv": "hensove",
+    "præsens": "hensover",
+    "præteritum": "hensov",
+    "perfektum_participium": "hensovet"
+  },
+  {
+    "infinitiv": "henstå",
+    "præsens": "henstår",
+    "præteritum": "henstod",
+    "perfektum_participium": "henstået"
+  },
+  {
+    "infinitiv": "hensynke",
+    "præsens": "hensynker",
+    "præteritum": "hensank",
+    "perfektum_participium": "hensunket"
+  },
+  {
+    "infinitiv": "herliggøre",
+    "præsens": "herliggør",
+    "præteritum": "herliggjorde",
+    "perfektum_participium": "herliggjort"
+  },
+  {
+    "infinitiv": "hive",
+    "præsens": "hiver",
+    "præteritum": "hev",
+    "perfektum_participium": "hevet"
+  },
+  {
+    "infinitiv": "hjemfalde",
+    "præsens": "hjemfalder",
+    "præteritum": "hjemfaldt",
+    "perfektum_participium": "hjemfaldet"
+  },
+  {
+    "infinitiv": "hjemgive",
+    "præsens": "hjemgiver",
+    "præteritum": "hjemgav",
+    "perfektum_participium": "hjemgivet"
+  },
+  {
+    "infinitiv": "hjemskrive",
+    "præsens": "hjemskriver",
+    "præteritum": "hjemskrev",
+    "perfektum_participium": "hjemskrevet"
+  },
+  {
+    "infinitiv": "hjemtage",
+    "præsens": "hjemtager",
+    "præteritum": "hjemtog",
+    "perfektum_participium": "hjemtaget"
+  },
+  {
+    "infinitiv": "hjælpe",
+    "præsens": "hjælper",
+    "præteritum": "hjalp",
+    "perfektum_participium": "hjulpet"
+  },
+  {
+    "infinitiv": "holde",
+    "præsens": "holder",
+    "præteritum": "holdt",
+    "perfektum_participium": "holdt"
+  },
+  {
+    "infinitiv": "hospitalsindlægge",
+    "præsens": "hospitalsindlægger",
+    "præteritum": "hospitalsindlagde",
+    "perfektum_participium": "hospitalsindlagt"
+  },
+  {
+    "infinitiv": "hudstryge",
+    "præsens": "hudstryger",
+    "præteritum": "hudstrøg",
+    "perfektum_participium": "hudstrøget"
+  },
+  {
+    "infinitiv": "hulslibe",
+    "præsens": "hulsliber",
+    "præteritum": "hulsleb",
+    "perfektum_participium": "hulslebet"
+  },
+  {
+    "infinitiv": "højtideligholde",
+    "præsens": "højtideligholder",
+    "præteritum": "højtideligholdt",
+    "perfektum_participium": "højtideligholdt"
+  },
+  {
+    "infinitiv": "håndskære",
+    "præsens": "håndskærer",
+    "præteritum": "håndskar",
+    "perfektum_participium": "håndskåret"
+  },
+  {
+    "infinitiv": "håndstryge",
+    "præsens": "håndstryger",
+    "præteritum": "håndstrøg",
+    "perfektum_participium": "håndstrøget"
+  },
+  {
+    "infinitiv": "hånle",
+    "præsens": "hånler",
+    "præteritum": "hånlo",
+    "perfektum_participium": "hånleet"
+  },
+  {
+    "infinitiv": "iagttage",
+    "præsens": "iagttager",
+    "præteritum": "iagttog",
+    "perfektum_participium": "iagttaget"
+  },
+  {
+    "infinitiv": "ibrugtage",
+    "præsens": "ibrugtager",
+    "præteritum": "ibrugtog",
+    "perfektum_participium": "ibrugtaget"
+  },
+  {
+    "infinitiv": "ifalde",
+    "præsens": "ifalder",
+    "præteritum": "ifaldt",
+    "perfektum_participium": "ifaldet"
+  },
+  {
+    "infinitiv": "ihjelbide",
+    "præsens": "ihjelbider",
+    "præteritum": "ihjelbed",
+    "perfektum_participium": "ihjelbidt"
+  },
+  {
+    "infinitiv": "ihjelslå",
+    "præsens": "ihjelslår",
+    "præteritum": "ihjelslog",
+    "perfektum_participium": "ihjelslået"
+  },
+  {
+    "infinitiv": "ihukomme",
+    "præsens": "ihukommer",
+    "præteritum": "ihukom",
+    "perfektum_participium": "ihukommet"
+  },
+  {
+    "infinitiv": "ilægge",
+    "præsens": "ilægger",
+    "præteritum": "ilagde",
+    "perfektum_participium": "ilagt"
+  },
+  {
+    "infinitiv": "imødegå",
+    "præsens": "imødegår",
+    "præteritum": "imødegik",
+    "perfektum_participium": "imødegået"
+  },
+  {
+    "infinitiv": "imødekomme",
+    "præsens": "imødekommer",
+    "præteritum": "imødekom",
+    "perfektum_participium": "imødekommet"
+  },
+  {
+    "infinitiv": "imødese",
+    "præsens": "imødeser",
+    "præteritum": "imødeså",
+    "perfektum_participium": "imødeset"
+  },
+  {
+    "infinitiv": "indbinde",
+    "præsens": "indbinder",
+    "præteritum": "indbandt",
+    "perfektum_participium": "indbundet"
+  },
+  {
+    "infinitiv": "indbyde",
+    "præsens": "indbyder",
+    "præteritum": "indbød",
+    "perfektum_participium": "indbudt"
+  },
+  {
+    "infinitiv": "inddrage",
+    "præsens": "inddrager",
+    "præteritum": "inddrog",
+    "perfektum_participium": "inddraget"
+  },
+  {
+    "infinitiv": "inddrive",
+    "præsens": "inddriver",
+    "præteritum": "inddrev",
+    "perfektum_participium": "inddrevet"
+  },
+  {
+    "infinitiv": "indebære",
+    "præsens": "indebærer",
+    "præteritum": "indebar",
+    "perfektum_participium": "indebåret"
+  },
+  {
+    "infinitiv": "indefryse",
+    "præsens": "indefryser",
+    "præteritum": "indefrøs",
+    "perfektum_participium": "indefrosset"
+  },
+  {
+    "infinitiv": "indeholde",
+    "præsens": "indeholder",
+    "præteritum": "indeholdt",
+    "perfektum_participium": "indeholdt"
+  },
+  {
+    "infinitiv": "inderliggøre",
+    "præsens": "inderliggør",
+    "præteritum": "inderliggjorde",
+    "perfektum_participium": "inderliggjort"
+  },
+  {
+    "infinitiv": "indestå",
+    "præsens": "indestår",
+    "præteritum": "indestod",
+    "perfektum_participium": "indestået"
+  },
+  {
+    "infinitiv": "indfinde",
+    "præsens": "indfinder",
+    "præteritum": "indfandt",
+    "perfektum_participium": "indfundet"
+  },
+  {
+    "infinitiv": "indflyve",
+    "præsens": "indflyver",
+    "præteritum": "indfløj",
+    "perfektum_participium": "indfløjet"
+  },
+  {
+    "infinitiv": "indforskrive",
+    "præsens": "indforskriver",
+    "præteritum": "indforskrev",
+    "perfektum_participium": "indforskrevet"
+  },
+  {
+    "infinitiv": "indfryse",
+    "præsens": "indfryser",
+    "præteritum": "indfrøs",
+    "perfektum_participium": "indfrosset"
+  },
+  {
+    "infinitiv": "indgive",
+    "præsens": "indgiver",
+    "præteritum": "indgav",
+    "perfektum_participium": "indgivet"
+  },
+  {
+    "infinitiv": "indgnide",
+    "præsens": "indgnider",
+    "præteritum": "indgned",
+    "perfektum_participium": "indgnedet"
+  },
+  {
+    "infinitiv": "indgyde",
+    "præsens": "indgyder",
+    "præteritum": "indgød",
+    "perfektum_participium": "indgydt"
+  },
+  {
+    "infinitiv": "indgå",
+    "præsens": "indgår",
+    "præteritum": "indgik",
+    "perfektum_participium": "indgået"
+  },
+  {
+    "infinitiv": "indjage",
+    "præsens": "indjager",
+    "præteritum": "indjog",
+    "perfektum_participium": "indjaget"
+  },
+  {
+    "infinitiv": "indkomme",
+    "præsens": "indkommer",
+    "præteritum": "indkom",
+    "perfektum_participium": "indkommet"
+  },
+  {
+    "infinitiv": "indlægge",
+    "præsens": "indlægger",
+    "præteritum": "indlagde",
+    "perfektum_participium": "indlagt"
+  },
+  {
+    "infinitiv": "indløbe",
+    "præsens": "indløber",
+    "præteritum": "indløb",
+    "perfektum_participium": "indløbet"
+  },
+  {
+    "infinitiv": "indoptage",
+    "præsens": "indoptager",
+    "præteritum": "indoptog",
+    "perfektum_participium": "indoptaget"
+  },
+  {
+    "infinitiv": "indse",
+    "præsens": "indser",
+    "præteritum": "indså",
+    "perfektum_participium": "indset"
+  },
+  {
+    "infinitiv": "indskrive",
+    "præsens": "indskriver",
+    "præteritum": "indskrev",
+    "perfektum_participium": "indskrevet"
+  },
+  {
+    "infinitiv": "indskyde",
+    "præsens": "indskyder",
+    "præteritum": "indskød",
+    "perfektum_participium": "indskudt"
+  },
+  {
+    "infinitiv": "indskære",
+    "præsens": "indskærer",
+    "præteritum": "indskar",
+    "perfektum_participium": "indskåret"
+  },
+  {
+    "infinitiv": "indslibe",
+    "præsens": "indsliber",
+    "præteritum": "indsleb",
+    "perfektum_participium": "indslebet"
+  },
+  {
+    "infinitiv": "indsnige",
+    "præsens": "indsniger",
+    "præteritum": "indsneg",
+    "perfektum_participium": "indsneget"
+  },
+  {
+    "infinitiv": "indspinde",
+    "præsens": "indspinder",
+    "præteritum": "indspandt",
+    "perfektum_participium": "indspundet"
+  },
+  {
+    "infinitiv": "indstikke",
+    "præsens": "indstikker",
+    "præteritum": "indstak",
+    "perfektum_participium": "indstukket"
+  },
+  {
+    "infinitiv": "indsynge",
+    "præsens": "indsynger",
+    "præteritum": "indsang",
+    "perfektum_participium": "indsunget"
+  },
+  {
+    "infinitiv": "indtage",
+    "præsens": "indtager",
+    "præteritum": "indtog",
+    "perfektum_participium": "indtaget"
+  },
+  {
+    "infinitiv": "indtræffe",
+    "præsens": "indtræffer",
+    "præteritum": "indtraf",
+    "perfektum_participium": "indtruffet"
+  },
+  {
+    "infinitiv": "indvinde",
+    "præsens": "indvinder",
+    "præteritum": "indvandt",
+    "perfektum_participium": "indvundet"
+  },
+  {
+    "infinitiv": "islægge",
+    "præsens": "islægger",
+    "præteritum": "islagde",
+    "perfektum_participium": "islagt"
+  },
+  {
+    "infinitiv": "iturive",
+    "præsens": "ituriver",
+    "præteritum": "iturev",
+    "perfektum_participium": "iturevet"
+  },
+  {
+    "infinitiv": "jage",
+    "præsens": "jager",
+    "præteritum": "jog",
+    "perfektum_participium": "jaget"
+  },
+  {
+    "infinitiv": "kagstryge",
+    "præsens": "kagstryger",
+    "præteritum": "kagstrøg",
+    "perfektum_participium": "kagstrøget"
+  },
+  {
+    "infinitiv": "kantskære",
+    "præsens": "kantskærer",
+    "præteritum": "kantskar",
+    "perfektum_participium": "kantskåret"
+  },
+  {
+    "infinitiv": "klargøre",
+    "præsens": "klargør",
+    "præteritum": "klargjorde",
+    "perfektum_participium": "klargjort"
+  },
+  {
+    "infinitiv": "klarlægge",
+    "præsens": "klarlægger",
+    "præteritum": "klarlagde",
+    "perfektum_participium": "klarlagt"
+  },
+  {
+    "infinitiv": "klientgøre",
+    "præsens": "klientgør",
+    "præteritum": "klientgjorde",
+    "perfektum_participium": "klientgjort"
+  },
+  {
+    "infinitiv": "klinge",
+    "præsens": "klinger",
+    "præteritum": "klang",
+    "perfektum_participium": "klinget"
+  },
+  {
+    "infinitiv": "klukle",
+    "præsens": "klukler",
+    "præteritum": "kluklo",
+    "perfektum_participium": "klukleet"
+  },
+  {
+    "infinitiv": "knagfryse",
+    "præsens": "knagfryser",
+    "præteritum": "knagfrøs",
+    "perfektum_participium": "knagfrosset"
+  },
+  {
+    "infinitiv": "knibe",
+    "præsens": "kniber",
+    "præteritum": "kneb",
+    "perfektum_participium": "knebet"
+  },
+  {
+    "infinitiv": "knopskyde",
+    "præsens": "knopskyder",
+    "præteritum": "knopskød",
+    "perfektum_participium": "knopskudt"
+  },
+  {
+    "infinitiv": "komme",
+    "præsens": "kommer",
+    "præteritum": "kom",
+    "perfektum_participium": "kommet"
+  },
+  {
+    "infinitiv": "kortlægge",
+    "præsens": "kortlægger",
+    "præteritum": "kortlagde",
+    "perfektum_participium": "kortlagt"
+  },
+  {
+    "infinitiv": "kropsliggøre",
+    "præsens": "kropsliggør",
+    "præteritum": "kropsliggjorde",
+    "perfektum_participium": "kropsliggjort"
+  },
+  {
+    "infinitiv": "krybe",
+    "præsens": "kryber",
+    "præteritum": "krøb",
+    "perfektum_participium": "krøbet"
+  },
+  {
+    "infinitiv": "kuldslå",
+    "præsens": "kuldslår",
+    "præteritum": "kuldslog",
+    "perfektum_participium": "kuldslået"
+  },
+  {
+    "infinitiv": "kundgøre",
+    "præsens": "kundgør",
+    "præteritum": "kundgjorde",
+    "perfektum_participium": "kundgjort"
+  },
+  {
+    "infinitiv": "kunne",
+    "præsens": "kan",
+    "præteritum": "kunne",
+    "perfektum_participium": "kunnet"
+  },
+  {
+    "infinitiv": "kvæde",
+    "præsens": "kvæder",
+    "præteritum": "kvad",
+    "perfektum_participium": "kvædet"
+  },
+  {
+    "infinitiv": "kyse",
+    "præsens": "kyser",
+    "præteritum": "køs",
+    "perfektum_participium": "kyset"
+  },
+  {
+    "infinitiv": "kæderyge",
+    "præsens": "kæderyger",
+    "præteritum": "kæderøg",
+    "perfektum_participium": "kæderøget"
+  },
+  {
+    "infinitiv": "købslå",
+    "præsens": "købslår",
+    "præteritum": "købslog",
+    "perfektum_participium": "købslået"
+  },
+  {
+    "infinitiv": "lamslå",
+    "præsens": "lamslår",
+    "præteritum": "lamslog",
+    "perfektum_participium": "lamslået"
+  },
+  {
+    "infinitiv": "latterliggøre",
+    "præsens": "latterliggør",
+    "præteritum": "latterliggjorde",
+    "perfektum_participium": "latterliggjort"
+  },
+  {
+    "infinitiv": "le",
+    "præsens": "ler",
+    "præteritum": "lo",
+    "perfektum_participium": "leet"
+  },
+  {
+    "infinitiv": "legemliggøre",
+    "præsens": "legemliggør",
+    "præteritum": "legemliggjorde",
+    "perfektum_participium": "legemliggjort"
+  },
+  {
+    "infinitiv": "levendegøre",
+    "præsens": "levendegør",
+    "præteritum": "levendegjorde",
+    "perfektum_participium": "levendegjort"
+  },
+  {
+    "infinitiv": "lide",
+    "præsens": "lider",
+    "præteritum": "led",
+    "perfektum_participium": "lidt"
+  },
+  {
+    "infinitiv": "ligge",
+    "præsens": "ligger",
+    "præteritum": "lå",
+    "perfektum_participium": "ligget"
+  },
+  {
+    "infinitiv": "lovgive",
+    "præsens": "lovgiver",
+    "præteritum": "lovgav",
+    "perfektum_participium": "lovgivet"
+  },
+  {
+    "infinitiv": "lovliggøre",
+    "præsens": "lovliggør",
+    "præteritum": "lovliggjorde",
+    "perfektum_participium": "lovliggjort"
+  },
+  {
+    "infinitiv": "lovsynge",
+    "præsens": "lovsynger",
+    "præteritum": "lovsang",
+    "perfektum_participium": "lovsunget"
+  },
+  {
+    "infinitiv": "lyde",
+    "præsens": "lyder",
+    "præteritum": "lød",
+    "perfektum_participium": "lydt"
+  },
+  {
+    "infinitiv": "lydskrive",
+    "præsens": "lydskriver",
+    "præteritum": "lydskrev",
+    "perfektum_participium": "lydskrevet"
+  },
+  {
+    "infinitiv": "lyksaliggøre",
+    "præsens": "lyksaliggør",
+    "præteritum": "lyksaliggjorde",
+    "perfektum_participium": "lyksaliggjort"
+  },
+  {
+    "infinitiv": "lyve",
+    "præsens": "lyver",
+    "præteritum": "løj",
+    "perfektum_participium": "løjet"
+  },
+  {
+    "infinitiv": "lægge",
+    "præsens": "lægger",
+    "præteritum": "lagde",
+    "perfektum_participium": "lagt"
+  },
+  {
+    "infinitiv": "løbe",
+    "præsens": "løber",
+    "præteritum": "løb",
+    "perfektum_participium": "løbet"
+  },
+  {
+    "infinitiv": "løsfryse",
+    "præsens": "løsfryser",
+    "præteritum": "løsfrøs",
+    "perfektum_participium": "løsfrosset"
+  },
+  {
+    "infinitiv": "løsgøre",
+    "præsens": "løsgør",
+    "præteritum": "løsgjorde",
+    "perfektum_participium": "løsgjort"
+  },
+  {
+    "infinitiv": "løslade",
+    "præsens": "løslader",
+    "præteritum": "løslod",
+    "perfektum_participium": "løsladt"
+  },
+  {
+    "infinitiv": "løsrive",
+    "præsens": "løsriver",
+    "præteritum": "løsrev",
+    "perfektum_participium": "løsrevet"
+  },
+  {
+    "infinitiv": "mangfoldiggøre",
+    "præsens": "mangfoldiggør",
+    "præteritum": "mangfoldiggjorde",
+    "perfektum_participium": "mangfoldiggjort"
+  },
+  {
+    "infinitiv": "maskinskrive",
+    "præsens": "maskinskriver",
+    "præteritum": "maskinskrev",
+    "perfektum_participium": "maskinskrevet"
+  },
+  {
+    "infinitiv": "matslibe",
+    "præsens": "matsliber",
+    "præteritum": "matsleb",
+    "perfektum_participium": "matslebet"
+  },
+  {
+    "infinitiv": "medgive",
+    "præsens": "medgiver",
+    "præteritum": "medgav",
+    "perfektum_participium": "medgivet"
+  },
+  {
+    "infinitiv": "medgå",
+    "præsens": "medgår",
+    "præteritum": "medgik",
+    "perfektum_participium": "medgået"
+  },
+  {
+    "infinitiv": "medtage",
+    "præsens": "medtager",
+    "præteritum": "medtog",
+    "perfektum_participium": "medtaget"
+  },
+  {
+    "infinitiv": "menneskeliggøre",
+    "præsens": "menneskeliggør",
+    "præteritum": "menneskeliggjorde",
+    "perfektum_participium": "menneskeliggjort"
+  },
+  {
+    "infinitiv": "minestryge",
+    "præsens": "minestryger",
+    "præteritum": "minestrøg",
+    "perfektum_participium": "minestrøget"
+  },
+  {
+    "infinitiv": "misforstå",
+    "præsens": "misforstår",
+    "præteritum": "misforstod",
+    "perfektum_participium": "misforstået"
+  },
+  {
+    "infinitiv": "misligholde",
+    "præsens": "misligholder",
+    "præteritum": "misligholdt",
+    "perfektum_participium": "misligholdt"
+  },
+  {
+    "infinitiv": "mistænkeliggøre",
+    "præsens": "mistænkeliggør",
+    "præteritum": "mistænkeliggjorde",
+    "perfektum_participium": "mistænkeliggjort"
+  },
+  {
+    "infinitiv": "modgå",
+    "præsens": "modgår",
+    "præteritum": "modgik",
+    "perfektum_participium": "modgået"
+  },
+  {
+    "infinitiv": "modsige",
+    "præsens": "modsiger",
+    "præteritum": "modsagde",
+    "perfektum_participium": "modsagt"
+  },
+  {
+    "infinitiv": "modstå",
+    "præsens": "modstår",
+    "præteritum": "modstod",
+    "perfektum_participium": "modstået"
+  },
+  {
+    "infinitiv": "modtage",
+    "præsens": "modtager",
+    "præteritum": "modtog",
+    "perfektum_participium": "modtaget"
+  },
+  {
+    "infinitiv": "momsbelægge",
+    "præsens": "momsbelægger",
+    "præteritum": "momsbelagde",
+    "perfektum_participium": "momsbelagt"
+  },
+  {
+    "infinitiv": "muliggøre",
+    "præsens": "muliggør",
+    "præteritum": "muliggjorde",
+    "perfektum_participium": "muliggjort"
+  },
+  {
+    "infinitiv": "mørklægge",
+    "præsens": "mørklægger",
+    "præteritum": "mørklagde",
+    "perfektum_participium": "mørklagt"
+  },
+  {
+    "infinitiv": "navngive",
+    "præsens": "navngiver",
+    "præteritum": "navngav",
+    "perfektum_participium": "navngivet"
+  },
+  {
+    "infinitiv": "nedbryde",
+    "præsens": "nedbryder",
+    "præteritum": "nedbrød",
+    "perfektum_participium": "nedbrudt"
+  },
+  {
+    "infinitiv": "nedfalde",
+    "præsens": "nedfalder",
+    "præteritum": "nedfaldt",
+    "perfektum_participium": "nedfaldet"
+  },
+  {
+    "infinitiv": "nedfare",
+    "præsens": "nedfarer",
+    "præteritum": "nedfor",
+    "perfektum_participium": "nedfaret"
+  },
+  {
+    "infinitiv": "nedfryse",
+    "præsens": "nedfryser",
+    "præteritum": "nedfrøs",
+    "perfektum_participium": "nedfrosset"
+  },
+  {
+    "infinitiv": "nedgøre",
+    "præsens": "nedgør",
+    "præteritum": "nedgjorde",
+    "perfektum_participium": "nedgjort"
+  },
+  {
+    "infinitiv": "nedkomme",
+    "præsens": "nedkommer",
+    "præteritum": "nedkom",
+    "perfektum_participium": "nedkommet"
+  },
+  {
+    "infinitiv": "nedlade",
+    "præsens": "nedlader",
+    "præteritum": "nedlod",
+    "perfektum_participium": "nedladt"
+  },
+  {
+    "infinitiv": "nedlægge",
+    "præsens": "nedlægger",
+    "præteritum": "nedlagde",
+    "perfektum_participium": "nedlagt"
+  },
+  {
+    "infinitiv": "nedrive",
+    "præsens": "nedriver",
+    "præteritum": "nedrev",
+    "perfektum_participium": "nedrevet"
+  },
+  {
+    "infinitiv": "nedskrive",
+    "præsens": "nedskriver",
+    "præteritum": "nedskrev",
+    "perfektum_participium": "nedskrevet"
+  },
+  {
+    "infinitiv": "nedskyde",
+    "præsens": "nedskyder",
+    "præteritum": "nedskød",
+    "perfektum_participium": "nedskudt"
+  },
+  {
+    "infinitiv": "nedskære",
+    "præsens": "nedskærer",
+    "præteritum": "nedskar",
+    "perfektum_participium": "nedskåret"
+  },
+  {
+    "infinitiv": "nedslide",
+    "præsens": "nedslider",
+    "præteritum": "nedsled",
+    "perfektum_participium": "nedslidt"
+  },
+  {
+    "infinitiv": "nedslå",
+    "præsens": "nedslår",
+    "præteritum": "nedslog",
+    "perfektum_participium": "nedslået"
+  },
+  {
+    "infinitiv": "nedstige",
+    "præsens": "nedstiger",
+    "præteritum": "nedsteg",
+    "perfektum_participium": "nedsteget"
+  },
+  {
+    "infinitiv": "nedsynke",
+    "præsens": "nedsynker",
+    "præteritum": "nedsank",
+    "perfektum_participium": "nedsunket"
+  },
+  {
+    "infinitiv": "nedtage",
+    "præsens": "nedtager",
+    "præteritum": "nedtog",
+    "perfektum_participium": "nedtaget"
+  },
+  {
+    "infinitiv": "nive",
+    "præsens": "niver",
+    "præteritum": "nev",
+    "perfektum_participium": "nevet"
+  },
+  {
+    "infinitiv": "nyde",
+    "præsens": "nyder",
+    "præteritum": "nød",
+    "perfektum_participium": "nydt"
+  },
+  {
+    "infinitiv": "nyse",
+    "præsens": "nyser",
+    "præteritum": "nøs",
+    "perfektum_participium": "nyst"
+  },
+  {
+    "infinitiv": "nyttiggøre",
+    "præsens": "nyttiggør",
+    "præteritum": "nyttiggjorde",
+    "perfektum_participium": "nyttiggjort"
+  },
+  {
+    "infinitiv": "nødvendiggøre",
+    "præsens": "nødvendiggør",
+    "præteritum": "nødvendiggjorde",
+    "perfektum_participium": "nødvendiggjort"
+  },
+  {
+    "infinitiv": "offentliggøre",
+    "præsens": "offentliggør",
+    "præteritum": "offentliggjorde",
+    "perfektum_participium": "offentliggjort"
+  },
+  {
+    "infinitiv": "ombetrække",
+    "præsens": "ombetrækker",
+    "præteritum": "ombetrak",
+    "perfektum_participium": "ombetrukket"
+  },
+  {
+    "infinitiv": "ombinde",
+    "præsens": "ombinder",
+    "præteritum": "ombandt",
+    "perfektum_participium": "ombundet"
+  },
+  {
+    "infinitiv": "ombryde",
+    "præsens": "ombryder",
+    "præteritum": "ombrød",
+    "perfektum_participium": "ombrudt"
+  },
+  {
+    "infinitiv": "ombære",
+    "præsens": "ombærer",
+    "præteritum": "ombar",
+    "perfektum_participium": "ombåret"
+  },
+  {
+    "infinitiv": "omgive",
+    "præsens": "omgiver",
+    "præteritum": "omgav",
+    "perfektum_participium": "omgivet"
+  },
+  {
+    "infinitiv": "omgøre",
+    "præsens": "omgør",
+    "præteritum": "omgjorde",
+    "perfektum_participium": "omgjort"
+  },
+  {
+    "infinitiv": "omgå",
+    "præsens": "omgår",
+    "præteritum": "omgik",
+    "perfektum_participium": "omgået"
+  },
+  {
+    "infinitiv": "omgås",
+    "præsens": "omgås",
+    "præteritum": "omgikkes",
+    "perfektum_participium": "omgåedes"
+  },
+  {
+    "infinitiv": "omkomme",
+    "præsens": "omkommer",
+    "præteritum": "omkom",
+    "perfektum_participium": "omkommet"
+  },
+  {
+    "infinitiv": "omlægge",
+    "præsens": "omlægger",
+    "præteritum": "omlagde",
+    "perfektum_participium": "omlagt"
+  },
+  {
+    "infinitiv": "omskrive",
+    "præsens": "omskriver",
+    "præteritum": "omskrev",
+    "perfektum_participium": "omskrevet"
+  },
+  {
+    "infinitiv": "omskære",
+    "præsens": "omskærer",
+    "præteritum": "omskar",
+    "perfektum_participium": "omskåret"
+  },
+  {
+    "infinitiv": "opbinde",
+    "præsens": "opbinder",
+    "præteritum": "opbandt",
+    "perfektum_participium": "opbundet"
+  },
+  {
+    "infinitiv": "opbryde",
+    "præsens": "opbryder",
+    "præteritum": "opbrød",
+    "perfektum_participium": "opbrudt"
+  },
+  {
+    "infinitiv": "opbyde",
+    "præsens": "opbyder",
+    "præteritum": "opbød",
+    "perfektum_participium": "opbudt"
+  },
+  {
+    "infinitiv": "opdrage",
+    "præsens": "opdrager",
+    "præteritum": "opdrog",
+    "perfektum_participium": "opdraget"
+  },
+  {
+    "infinitiv": "opdrive",
+    "præsens": "opdriver",
+    "præteritum": "opdrev",
+    "perfektum_participium": "opdrevet"
+  },
+  {
+    "infinitiv": "opfinde",
+    "præsens": "opfinder",
+    "præteritum": "opfandt",
+    "perfektum_participium": "opfundet"
+  },
+  {
+    "infinitiv": "opgive",
+    "præsens": "opgiver",
+    "præteritum": "opgav",
+    "perfektum_participium": "opgivet"
+  },
+  {
+    "infinitiv": "opgøre",
+    "præsens": "opgør",
+    "præteritum": "opgjorde",
+    "perfektum_participium": "opgjort"
+  },
+  {
+    "infinitiv": "ophjælpe",
+    "præsens": "ophjælper",
+    "præteritum": "ophjalp",
+    "perfektum_participium": "ophjulpet"
+  },
+  {
+    "infinitiv": "opholde",
+    "præsens": "opholder",
+    "præteritum": "opholdt",
+    "perfektum_participium": "opholdt"
+  },
+  {
+    "infinitiv": "opkomme",
+    "præsens": "opkommer",
+    "præteritum": "opkom",
+    "perfektum_participium": "opkommet"
+  },
+  {
+    "infinitiv": "oplade",
+    "præsens": "oplader",
+    "præteritum": "oplod",
+    "perfektum_participium": "opladt"
+  },
+  {
+    "infinitiv": "oplægge",
+    "præsens": "oplægger",
+    "præteritum": "oplagde",
+    "perfektum_participium": "oplagt"
+  },
+  {
+    "infinitiv": "oppebære",
+    "præsens": "oppebærer",
+    "præteritum": "oppebar",
+    "perfektum_participium": "oppebåret"
+  },
+  {
+    "infinitiv": "opretholde",
+    "præsens": "opretholder",
+    "præteritum": "opretholdt",
+    "perfektum_participium": "opretholdt"
+  },
+  {
+    "infinitiv": "oprinde",
+    "præsens": "oprinder",
+    "præteritum": "oprandt",
+    "perfektum_participium": "oprundet"
+  },
+  {
+    "infinitiv": "opsige",
+    "præsens": "opsiger",
+    "præteritum": "opsagde",
+    "perfektum_participium": "opsagt"
+  },
+  {
+    "infinitiv": "opskrive",
+    "præsens": "opskriver",
+    "præteritum": "opskrev",
+    "perfektum_participium": "opskrevet"
+  },
+  {
+    "infinitiv": "opskære",
+    "præsens": "opskærer",
+    "præteritum": "opskar",
+    "perfektum_participium": "opskåret"
+  },
+  {
+    "infinitiv": "opslå",
+    "præsens": "opslår",
+    "præteritum": "opslog",
+    "perfektum_participium": "opslået"
+  },
+  {
+    "infinitiv": "opspinde",
+    "præsens": "opspinder",
+    "præteritum": "opspandt",
+    "perfektum_participium": "opspundet"
+  },
+  {
+    "infinitiv": "opstige",
+    "præsens": "opstiger",
+    "præteritum": "opsteg",
+    "perfektum_participium": "opsteget"
+  },
+  {
+    "infinitiv": "opstå",
+    "præsens": "opstår",
+    "præteritum": "opstod",
+    "perfektum_participium": "opstået"
+  },
+  {
+    "infinitiv": "optage",
+    "præsens": "optager",
+    "præteritum": "optog",
+    "perfektum_participium": "optaget"
+  },
+  {
+    "infinitiv": "optrække",
+    "præsens": "optrækker",
+    "præteritum": "optrak",
+    "perfektum_participium": "optrukket"
+  },
+  {
+    "infinitiv": "opvride",
+    "præsens": "opvrider",
+    "præteritum": "opvred",
+    "perfektum_participium": "opvredet"
+  },
+  {
+    "infinitiv": "opæde",
+    "præsens": "opæder",
+    "præteritum": "opåd",
+    "perfektum_participium": "opædt"
+  },
+  {
+    "infinitiv": "overbelægge",
+    "præsens": "overbelægger",
+    "præteritum": "overbelagde",
+    "perfektum_participium": "overbelagt"
+  },
+  {
+    "infinitiv": "overbyde",
+    "præsens": "overbyder",
+    "præteritum": "overbød",
+    "perfektum_participium": "overbudt"
+  },
+  {
+    "infinitiv": "overdrage",
+    "præsens": "overdrager",
+    "præteritum": "overdrog",
+    "perfektum_participium": "overdraget"
+  },
+  {
+    "infinitiv": "overdrive",
+    "præsens": "overdriver",
+    "præteritum": "overdrev",
+    "perfektum_participium": "overdrevet"
+  },
+  {
+    "infinitiv": "overfalde",
+    "præsens": "overfalder",
+    "præteritum": "overfaldt",
+    "perfektum_participium": "overfaldet"
+  },
+  {
+    "infinitiv": "overflyve",
+    "præsens": "overflyver",
+    "præteritum": "overfløj",
+    "perfektum_participium": "overfløjet"
+  },
+  {
+    "infinitiv": "overflødiggøre",
+    "præsens": "overflødiggør",
+    "præteritum": "overflødiggjorde",
+    "perfektum_participium": "overflødiggjort"
+  },
+  {
+    "infinitiv": "overgive",
+    "præsens": "overgiver",
+    "præteritum": "overgav",
+    "perfektum_participium": "overgivet"
+  },
+  {
+    "infinitiv": "overgå",
+    "præsens": "overgår",
+    "præteritum": "overgik",
+    "perfektum_participium": "overgået"
+  },
+  {
+    "infinitiv": "overholde",
+    "præsens": "overholder",
+    "præteritum": "overholdt",
+    "perfektum_participium": "overholdt"
+  },
+  {
+    "infinitiv": "overkomme",
+    "præsens": "overkommer",
+    "præteritum": "overkom",
+    "perfektum_participium": "overkommet"
+  },
+  {
+    "infinitiv": "overlade",
+    "præsens": "overlader",
+    "præteritum": "overlod",
+    "perfektum_participium": "overladt"
+  },
+  {
+    "infinitiv": "overlægge",
+    "præsens": "overlægger",
+    "præteritum": "overlagde",
+    "perfektum_participium": "overlagt"
+  },
+  {
+    "infinitiv": "overse",
+    "præsens": "overser",
+    "præteritum": "overså",
+    "perfektum_participium": "overset"
+  },
+  {
+    "infinitiv": "overskride",
+    "præsens": "overskrider",
+    "præteritum": "overskred",
+    "perfektum_participium": "overskredet"
+  },
+  {
+    "infinitiv": "overskrive",
+    "præsens": "overskriver",
+    "præteritum": "overskrev",
+    "perfektum_participium": "overskrevet"
+  },
+  {
+    "infinitiv": "overskære",
+    "præsens": "overskærer",
+    "præteritum": "overskar",
+    "perfektum_participium": "overskåret"
+  },
+  {
+    "infinitiv": "overspringe",
+    "præsens": "overspringer",
+    "præteritum": "oversprang",
+    "perfektum_participium": "oversprunget"
+  },
+  {
+    "infinitiv": "overstige",
+    "præsens": "overstiger",
+    "præteritum": "oversteg",
+    "perfektum_participium": "oversteget"
+  },
+  {
+    "infinitiv": "overstryge",
+    "præsens": "overstryger",
+    "præteritum": "overstrøg",
+    "perfektum_participium": "overstrøget"
+  },
+  {
+    "infinitiv": "overstå",
+    "præsens": "overstår",
+    "præteritum": "overstod",
+    "perfektum_participium": "overstået"
+  },
+  {
+    "infinitiv": "overtage",
+    "præsens": "overtager",
+    "præteritum": "overtog",
+    "perfektum_participium": "overtaget"
+  },
+  {
+    "infinitiv": "overtræffe",
+    "præsens": "overtræffer",
+    "præteritum": "overtraf",
+    "perfektum_participium": "overtruffet"
+  },
+  {
+    "infinitiv": "overtrække",
+    "præsens": "overtrækker",
+    "præteritum": "overtrak",
+    "perfektum_participium": "overtrukket"
+  },
+  {
+    "infinitiv": "overvinde",
+    "præsens": "overvinder",
+    "præteritum": "overvandt",
+    "perfektum_participium": "overvundet"
+  },
+  {
+    "infinitiv": "personliggøre",
+    "præsens": "personliggør",
+    "præteritum": "personliggjorde",
+    "perfektum_participium": "personliggjort"
+  },
+  {
+    "infinitiv": "pive",
+    "præsens": "piver",
+    "præteritum": "pev",
+    "perfektum_participium": "pevet"
+  },
+  {
+    "infinitiv": "planlægge",
+    "præsens": "planlægger",
+    "præteritum": "planlagde",
+    "perfektum_participium": "planlagt"
+  },
+  {
+    "infinitiv": "planslibe",
+    "præsens": "plansliber",
+    "præteritum": "plansleb",
+    "perfektum_participium": "planslebet"
+  },
+  {
+    "infinitiv": "prisgive",
+    "præsens": "prisgiver",
+    "præteritum": "prisgav",
+    "perfektum_participium": "prisgivet"
+  },
+  {
+    "infinitiv": "programlægge",
+    "præsens": "programlægger",
+    "præteritum": "programlagde",
+    "perfektum_participium": "programlagt"
+  },
+  {
+    "infinitiv": "prøveflyve",
+    "præsens": "prøveflyver",
+    "præteritum": "prøvefløj",
+    "perfektum_participium": "prøvefløjet"
+  },
+  {
+    "infinitiv": "prøveløslade",
+    "præsens": "prøveløslader",
+    "præteritum": "prøveløslod",
+    "perfektum_participium": "prøveløsladt"
+  },
+  {
+    "infinitiv": "påbyde",
+    "præsens": "påbyder",
+    "præteritum": "påbød",
+    "perfektum_participium": "påbudt"
+  },
+  {
+    "infinitiv": "pådrage",
+    "præsens": "pådrager",
+    "præteritum": "pådrog",
+    "perfektum_participium": "pådraget"
+  },
+  {
+    "infinitiv": "pågribe",
+    "præsens": "pågriber",
+    "præteritum": "pågreb",
+    "perfektum_participium": "pågrebet"
+  },
+  {
+    "infinitiv": "pågå",
+    "præsens": "pågår",
+    "præteritum": "pågik",
+    "perfektum_participium": "pågået"
+  },
+  {
+    "infinitiv": "påkomme",
+    "præsens": "påkommer",
+    "præteritum": "påkom",
+    "perfektum_participium": "påkommet"
+  },
+  {
+    "infinitiv": "påligge",
+    "præsens": "påligger",
+    "præteritum": "pålå",
+    "perfektum_participium": "påligget"
+  },
+  {
+    "infinitiv": "pålægge",
+    "præsens": "pålægger",
+    "præteritum": "pålagde",
+    "perfektum_participium": "pålagt"
+  },
+  {
+    "infinitiv": "påløbe",
+    "præsens": "påløber",
+    "præteritum": "påløb",
+    "perfektum_participium": "påløbet"
+  },
+  {
+    "infinitiv": "påse",
+    "præsens": "påser",
+    "præteritum": "påså",
+    "perfektum_participium": "påset"
+  },
+  {
+    "infinitiv": "påskrive",
+    "præsens": "påskriver",
+    "præteritum": "påskrev",
+    "perfektum_participium": "påskrevet"
+  },
+  {
+    "infinitiv": "påstå",
+    "præsens": "påstår",
+    "præteritum": "påstod",
+    "perfektum_participium": "påstået"
+  },
+  {
+    "infinitiv": "påtage",
+    "præsens": "påtager",
+    "præteritum": "påtog",
+    "perfektum_participium": "påtaget"
+  },
+  {
+    "infinitiv": "påtræffe",
+    "præsens": "påtræffer",
+    "præteritum": "påtraf",
+    "perfektum_participium": "påtruffet"
+  },
+  {
+    "infinitiv": "påtvinge",
+    "præsens": "påtvinger",
+    "præteritum": "påtvang",
+    "perfektum_participium": "påtvunget"
+  },
+  {
+    "infinitiv": "redegøre",
+    "præsens": "redegør",
+    "præteritum": "redegjorde",
+    "perfektum_participium": "redegjort"
+  },
+  {
+    "infinitiv": "rengøre",
+    "præsens": "rengør",
+    "præteritum": "rengjorde",
+    "perfektum_participium": "rengjort"
+  },
+  {
+    "infinitiv": "renholde",
+    "præsens": "renholder",
+    "præteritum": "renholdt",
+    "perfektum_participium": "renholdt"
+  },
+  {
+    "infinitiv": "renskrive",
+    "præsens": "renskriver",
+    "præteritum": "renskrev",
+    "perfektum_participium": "renskrevet"
+  },
+  {
+    "infinitiv": "renskære",
+    "præsens": "renskærer",
+    "præteritum": "renskar",
+    "perfektum_participium": "renskåret"
+  },
+  {
+    "infinitiv": "retfærdiggøre",
+    "præsens": "retfærdiggør",
+    "præteritum": "retfærdiggjorde",
+    "perfektum_participium": "retfærdiggjort"
+  },
+  {
+    "infinitiv": "ride",
+    "præsens": "rider",
+    "præteritum": "red",
+    "perfektum_participium": "redet"
+  },
+  {
+    "infinitiv": "rimeliggøre",
+    "præsens": "rimeliggør",
+    "præteritum": "rimeliggjorde",
+    "perfektum_participium": "rimeliggjort"
+  },
+  {
+    "infinitiv": "rinde",
+    "præsens": "rinder",
+    "præteritum": "randt",
+    "perfektum_participium": "rundet"
+  },
+  {
+    "infinitiv": "rive",
+    "præsens": "river",
+    "præteritum": "rev",
+    "perfektum_participium": "revet"
+  },
+  {
+    "infinitiv": "rives",
+    "præsens": "rives",
+    "præteritum": "reves",
+    "perfektum_participium": "reves"
+  },
+  {
+    "infinitiv": "ryge",
+    "præsens": "ryger",
+    "præteritum": "røg",
+    "perfektum_participium": "røget"
+  },
+  {
+    "infinitiv": "rørlægge",
+    "præsens": "rørlægger",
+    "præteritum": "rørlagde",
+    "perfektum_participium": "rørlagt"
+  },
+  {
+    "infinitiv": "rådgive",
+    "præsens": "rådgiver",
+    "præteritum": "rådgav",
+    "perfektum_participium": "rådgivet"
+  },
+  {
+    "infinitiv": "rådslå",
+    "præsens": "rådslår",
+    "præteritum": "rådslog",
+    "perfektum_participium": "rådslået"
+  },
+  {
+    "infinitiv": "sammenbinde",
+    "præsens": "sammenbinder",
+    "præteritum": "sammenbandt",
+    "perfektum_participium": "sammenbundet"
+  },
+  {
+    "infinitiv": "sammendrage",
+    "præsens": "sammendrager",
+    "præteritum": "sammendrog",
+    "perfektum_participium": "sammendraget"
+  },
+  {
+    "infinitiv": "sammenfalde",
+    "præsens": "sammenfalder",
+    "præteritum": "sammenfaldt",
+    "perfektum_participium": "sammenfaldet"
+  },
+  {
+    "infinitiv": "sammenholde",
+    "præsens": "sammenholder",
+    "præteritum": "sammenholdt",
+    "perfektum_participium": "sammenholdt"
+  },
+  {
+    "infinitiv": "sammenlægge",
+    "præsens": "sammenlægger",
+    "præteritum": "sammenlagde",
+    "perfektum_participium": "sammenlagt"
+  },
+  {
+    "infinitiv": "sammenskrive",
+    "præsens": "sammenskriver",
+    "præteritum": "sammenskrev",
+    "perfektum_participium": "sammenskrevet"
+  },
+  {
+    "infinitiv": "sammenstikke",
+    "præsens": "sammenstikker",
+    "præteritum": "sammenstak",
+    "perfektum_participium": "sammenstukket"
+  },
+  {
+    "infinitiv": "sammensværge",
+    "præsens": "sammensværger",
+    "præteritum": "sammensvor",
+    "perfektum_participium": "sammensvoret"
+  },
+  {
+    "infinitiv": "sammentrække",
+    "præsens": "sammentrækker",
+    "præteritum": "sammentrak",
+    "perfektum_participium": "sammentrukket"
+  },
+  {
+    "infinitiv": "sandsynliggøre",
+    "præsens": "sandsynliggør",
+    "præteritum": "sandsynliggjorde",
+    "perfektum_participium": "sandsynliggjort"
+  },
+  {
+    "infinitiv": "se",
+    "præsens": "ser",
+    "præteritum": "så",
+    "perfektum_participium": "set"
+  },
+  {
+    "infinitiv": "sejtrække",
+    "præsens": "sejtrækker",
+    "præteritum": "sejtrak",
+    "perfektum_participium": "sejtrukket"
+  },
+  {
+    "infinitiv": "selvangive",
+    "præsens": "selvangiver",
+    "præteritum": "selvangav",
+    "perfektum_participium": "selvangivet"
+  },
+  {
+    "infinitiv": "selvstændiggøre",
+    "præsens": "selvstændiggør",
+    "præteritum": "selvstændiggjorde",
+    "perfektum_participium": "selvstændiggjort"
+  },
+  {
+    "infinitiv": "serieforbinde",
+    "præsens": "serieforbinder",
+    "præteritum": "serieforbandt",
+    "perfektum_participium": "serieforbundet"
+  },
+  {
+    "infinitiv": "ses",
+    "præsens": "ses",
+    "præteritum": "sås",
+    "perfektum_participium": "setes"
+  },
+  {
+    "infinitiv": "sidde",
+    "præsens": "sidder",
+    "præteritum": "sad",
+    "perfektum_participium": "siddet"
+  },
+  {
+    "infinitiv": "sige",
+    "præsens": "siger",
+    "præteritum": "sagde",
+    "perfektum_participium": "sagt"
+  },
+  {
+    "infinitiv": "skambide",
+    "præsens": "skambider",
+    "præteritum": "skambed",
+    "perfektum_participium": "skambidt"
+  },
+  {
+    "infinitiv": "skamride",
+    "præsens": "skamrider",
+    "præteritum": "skamred",
+    "perfektum_participium": "skamredet"
+  },
+  {
+    "infinitiv": "skamskyde",
+    "præsens": "skamskyder",
+    "præteritum": "skamskød",
+    "perfektum_participium": "skamskudt"
+  },
+  {
+    "infinitiv": "skamslå",
+    "præsens": "skamslår",
+    "præteritum": "skamslog",
+    "perfektum_participium": "skamslået"
+  },
+  {
+    "infinitiv": "skarpslibe",
+    "præsens": "skarpsliber",
+    "præteritum": "skarpsleb",
+    "perfektum_participium": "skarpslebet"
+  },
+  {
+    "infinitiv": "skemalægge",
+    "præsens": "skemalægger",
+    "præteritum": "skemalagde",
+    "perfektum_participium": "skemalagt"
+  },
+  {
+    "infinitiv": "skide",
+    "præsens": "skider",
+    "præteritum": "sked",
+    "perfektum_participium": "skidt"
+  },
+  {
+    "infinitiv": "skoggerle",
+    "præsens": "skoggerler",
+    "præteritum": "skoggerlo",
+    "perfektum_participium": "skoggerleet"
+  },
+  {
+    "infinitiv": "skride",
+    "præsens": "skrider",
+    "præteritum": "skred",
+    "perfektum_participium": "skredet"
+  },
+  {
+    "infinitiv": "skrige",
+    "præsens": "skriger",
+    "præteritum": "skreg",
+    "perfektum_participium": "skreget"
+  },
+  {
+    "infinitiv": "skrinlægge",
+    "præsens": "skrinlægger",
+    "præteritum": "skrinlagde",
+    "perfektum_participium": "skrinlagt"
+  },
+  {
+    "infinitiv": "skrive",
+    "præsens": "skriver",
+    "præteritum": "skrev",
+    "perfektum_participium": "skrevet"
+  },
+  {
+    "infinitiv": "skryde",
+    "præsens": "skryder",
+    "præteritum": "skrød",
+    "perfektum_participium": "skrydet"
+  },
+  {
+    "infinitiv": "skulle",
+    "præsens": "skal",
+    "præteritum": "skulle",
+    "perfektum_participium": "skullet"
+  },
+  {
+    "infinitiv": "skyde",
+    "præsens": "skyder",
+    "præteritum": "skød",
+    "perfektum_participium": "skudt"
+  },
+  {
+    "infinitiv": "skælve",
+    "præsens": "skælver",
+    "præteritum": "skjalv",
+    "perfektum_participium": "skælvet"
+  },
+  {
+    "infinitiv": "skære",
+    "præsens": "skærer",
+    "præteritum": "skar",
+    "perfektum_participium": "skåret"
+  },
+  {
+    "infinitiv": "skævvride",
+    "præsens": "skævvrider",
+    "præteritum": "skævvred",
+    "perfektum_participium": "skævvredet"
+  },
+  {
+    "infinitiv": "slavebinde",
+    "præsens": "slavebinder",
+    "præteritum": "slavebandt",
+    "perfektum_participium": "slavebundet"
+  },
+  {
+    "infinitiv": "slibe",
+    "præsens": "sliber",
+    "præteritum": "sleb",
+    "perfektum_participium": "slebet"
+  },
+  {
+    "infinitiv": "slide",
+    "præsens": "slider",
+    "præteritum": "sled",
+    "perfektum_participium": "slidt"
+  },
+  {
+    "infinitiv": "slippe",
+    "præsens": "slipper",
+    "præteritum": "slap",
+    "perfektum_participium": "sluppet"
+  },
+  {
+    "infinitiv": "slå",
+    "præsens": "slår",
+    "præteritum": "slog",
+    "perfektum_participium": "slået"
+  },
+  {
+    "infinitiv": "slås",
+    "præsens": "slås",
+    "præteritum": "sloges",
+    "perfektum_participium": "sloges"
+  },
+  {
+    "infinitiv": "smide",
+    "præsens": "smider",
+    "præteritum": "smed",
+    "perfektum_participium": "smidt"
+  },
+  {
+    "infinitiv": "smidiggøre",
+    "præsens": "smidiggør",
+    "præteritum": "smidiggjorde",
+    "perfektum_participium": "smidiggjort"
+  },
+  {
+    "infinitiv": "smugdrikke",
+    "præsens": "smugdrikker",
+    "præteritum": "smugdrak",
+    "perfektum_participium": "smugdrukket"
+  },
+  {
+    "infinitiv": "smugryge",
+    "præsens": "smugryger",
+    "præteritum": "smugrøg",
+    "perfektum_participium": "smugrøget"
+  },
+  {
+    "infinitiv": "smyge",
+    "præsens": "smyger",
+    "præteritum": "smøg",
+    "perfektum_participium": "smøget"
+  },
+  {
+    "infinitiv": "smække",
+    "præsens": "smækker",
+    "præteritum": "smak",
+    "perfektum_participium": "smækket"
+  },
+  {
+    "infinitiv": "småfryse",
+    "præsens": "småfryser",
+    "præteritum": "småfrøs",
+    "perfektum_participium": "småfrosset"
+  },
+  {
+    "infinitiv": "snige",
+    "præsens": "sniger",
+    "præteritum": "sneg",
+    "perfektum_participium": "sneget"
+  },
+  {
+    "infinitiv": "snigløbe",
+    "præsens": "snigløber",
+    "præteritum": "snigløb",
+    "perfektum_participium": "snigløbet"
+  },
+  {
+    "infinitiv": "snorksove",
+    "præsens": "snorksover",
+    "præteritum": "snorksov",
+    "perfektum_participium": "snorksovet"
+  },
+  {
+    "infinitiv": "snyde",
+    "præsens": "snyder",
+    "præteritum": "snød",
+    "perfektum_participium": "snydt"
+  },
+  {
+    "infinitiv": "sove",
+    "præsens": "sover",
+    "præteritum": "sov",
+    "perfektum_participium": "sovet"
+  },
+  {
+    "infinitiv": "spinde",
+    "præsens": "spinder",
+    "præteritum": "spandt",
+    "perfektum_participium": "spundet"
+  },
+  {
+    "infinitiv": "springe",
+    "præsens": "springer",
+    "præteritum": "sprang",
+    "perfektum_participium": "sprunget"
+  },
+  {
+    "infinitiv": "sprække",
+    "præsens": "sprækker",
+    "præteritum": "sprak",
+    "perfektum_participium": "sprukket"
+  },
+  {
+    "infinitiv": "stande",
+    "præsens": "stander",
+    "præteritum": "stod",
+    "perfektum_participium": "standet"
+  },
+  {
+    "infinitiv": "stavnsbinde",
+    "præsens": "stavnsbinder",
+    "præteritum": "stavnsbandt",
+    "perfektum_participium": "stavnsbundet"
+  },
+  {
+    "infinitiv": "stige",
+    "præsens": "stiger",
+    "præteritum": "steg",
+    "perfektum_participium": "steget"
+  },
+  {
+    "infinitiv": "stikke",
+    "præsens": "stikker",
+    "præteritum": "stak",
+    "perfektum_participium": "stukket"
+  },
+  {
+    "infinitiv": "stinke",
+    "præsens": "stinker",
+    "præteritum": "stank",
+    "perfektum_participium": "stinket"
+  },
+  {
+    "infinitiv": "stjæle",
+    "præsens": "stjæler",
+    "præteritum": "stjal",
+    "perfektum_participium": "stjålet"
+  },
+  {
+    "infinitiv": "stride",
+    "præsens": "strider",
+    "præteritum": "stred",
+    "perfektum_participium": "stridt"
+  },
+  {
+    "infinitiv": "stryge",
+    "præsens": "stryger",
+    "præteritum": "strøg",
+    "perfektum_participium": "strøget"
+  },
+  {
+    "infinitiv": "stå",
+    "præsens": "står",
+    "præteritum": "stod",
+    "perfektum_participium": "stået"
+  },
+  {
+    "infinitiv": "svide",
+    "præsens": "svider",
+    "præteritum": "sved",
+    "perfektum_participium": "svedet"
+  },
+  {
+    "infinitiv": "svige",
+    "præsens": "sviger",
+    "præteritum": "sveg",
+    "perfektum_participium": "sveget"
+  },
+  {
+    "infinitiv": "svinde",
+    "præsens": "svinder",
+    "præteritum": "svandt",
+    "perfektum_participium": "svundet"
+  },
+  {
+    "infinitiv": "svinebinde",
+    "præsens": "svinebinder",
+    "præteritum": "svinebandt",
+    "perfektum_participium": "svinebundet"
+  },
+  {
+    "infinitiv": "sværge",
+    "præsens": "sværger",
+    "præteritum": "svor",
+    "perfektum_participium": "svoret"
+  },
+  {
+    "infinitiv": "sygehusindlægge",
+    "præsens": "sygehusindlægger",
+    "præteritum": "sygehusindlagde",
+    "perfektum_participium": "sygehusindlagt"
+  },
+  {
+    "infinitiv": "sygeliggøre",
+    "præsens": "sygeliggør",
+    "præteritum": "sygeliggjorde",
+    "perfektum_participium": "sygeliggjort"
+  },
+  {
+    "infinitiv": "synge",
+    "præsens": "synger",
+    "præteritum": "sang",
+    "perfektum_participium": "sunget"
+  },
+  {
+    "infinitiv": "synke",
+    "præsens": "synker",
+    "præteritum": "sank",
+    "perfektum_participium": "sunket"
+  },
+  {
+    "infinitiv": "synliggøre",
+    "præsens": "synliggør",
+    "præteritum": "synliggjorde",
+    "perfektum_participium": "synliggjort"
+  },
+  {
+    "infinitiv": "særskrive",
+    "præsens": "særskriver",
+    "præteritum": "særskrev",
+    "perfektum_participium": "særskrevet"
+  },
+  {
+    "infinitiv": "sønderrive",
+    "præsens": "sønderriver",
+    "præteritum": "sønderrev",
+    "perfektum_participium": "sønderrevet"
+  },
+  {
+    "infinitiv": "tage",
+    "præsens": "tager",
+    "præteritum": "tog",
+    "perfektum_participium": "taget"
+  },
+  {
+    "infinitiv": "tapløbe",
+    "præsens": "tapløber",
+    "præteritum": "tapløb",
+    "perfektum_participium": "tapløbet"
+  },
+  {
+    "infinitiv": "tie",
+    "præsens": "tier",
+    "præteritum": "tav",
+    "perfektum_participium": "tiet"
+  },
+  {
+    "infinitiv": "tilbageblive",
+    "præsens": "tilbagebliver",
+    "præteritum": "tilbageblev",
+    "perfektum_participium": "tilbageblevet"
+  },
+  {
+    "infinitiv": "tilbageholde",
+    "præsens": "tilbageholder",
+    "præteritum": "tilbageholdt",
+    "perfektum_participium": "tilbageholdt"
+  },
+  {
+    "infinitiv": "tilbagelægge",
+    "præsens": "tilbagelægger",
+    "præteritum": "tilbagelagde",
+    "perfektum_participium": "tilbagelagt"
+  },
+  {
+    "infinitiv": "tilbagetrække",
+    "præsens": "tilbagetrækker",
+    "præteritum": "tilbagetrak",
+    "perfektum_participium": "tilbagetrukket"
+  },
+  {
+    "infinitiv": "tilbede",
+    "præsens": "tilbeder",
+    "præteritum": "tilbad",
+    "perfektum_participium": "tilbedt"
+  },
+  {
+    "infinitiv": "tilbinde",
+    "præsens": "tilbinder",
+    "præteritum": "tilbandt",
+    "perfektum_participium": "tilbundet"
+  },
+  {
+    "infinitiv": "tilbyde",
+    "præsens": "tilbyder",
+    "præteritum": "tilbød",
+    "perfektum_participium": "tilbudt"
+  },
+  {
+    "infinitiv": "tildrage",
+    "præsens": "tildrager",
+    "præteritum": "tildrog",
+    "perfektum_participium": "tildraget"
+  },
+  {
+    "infinitiv": "tilfalde",
+    "præsens": "tilfalder",
+    "præteritum": "tilfaldt",
+    "perfektum_participium": "tilfaldet"
+  },
+  {
+    "infinitiv": "tilfangetage",
+    "præsens": "tilfangetager",
+    "præteritum": "tilfangetog",
+    "perfektum_participium": "tilfangetaget"
+  },
+  {
+    "infinitiv": "tilflyde",
+    "præsens": "tilflyder",
+    "præteritum": "tilflød",
+    "perfektum_participium": "tilflydt"
+  },
+  {
+    "infinitiv": "tilgive",
+    "præsens": "tilgiver",
+    "præteritum": "tilgav",
+    "perfektum_participium": "tilgivet"
+  },
+  {
+    "infinitiv": "tilgodese",
+    "præsens": "tilgodeser",
+    "præteritum": "tilgodeså",
+    "perfektum_participium": "tilgodeset"
+  },
+  {
+    "infinitiv": "tilgodeskrive",
+    "præsens": "tilgodeskriver",
+    "præteritum": "tilgodeskrev",
+    "perfektum_participium": "tilgodeskrevet"
+  },
+  {
+    "infinitiv": "tilgængeliggøre",
+    "præsens": "tilgængeliggør",
+    "præteritum": "tilgængeliggjorde",
+    "perfektum_participium": "tilgængeliggjort"
+  },
+  {
+    "infinitiv": "tilgå",
+    "præsens": "tilgår",
+    "præteritum": "tilgik",
+    "perfektum_participium": "tilgået"
+  },
+  {
+    "infinitiv": "tilintetgøre",
+    "præsens": "tilintetgør",
+    "præteritum": "tilintetgjorde",
+    "perfektum_participium": "tilintetgjort"
+  },
+  {
+    "infinitiv": "tilkendegive",
+    "præsens": "tilkendegiver",
+    "præteritum": "tilkendegav",
+    "perfektum_participium": "tilkendegivet"
+  },
+  {
+    "infinitiv": "tilkomme",
+    "præsens": "tilkommer",
+    "præteritum": "tilkom",
+    "perfektum_participium": "tilkommet"
+  },
+  {
+    "infinitiv": "tillade",
+    "præsens": "tillader",
+    "præteritum": "tillod",
+    "perfektum_participium": "tilladt"
+  },
+  {
+    "infinitiv": "tillægge",
+    "præsens": "tillægger",
+    "præteritum": "tillagde",
+    "perfektum_participium": "tillagt"
+  },
+  {
+    "infinitiv": "tilrettelægge",
+    "præsens": "tilrettelægger",
+    "præteritum": "tilrettelagde",
+    "perfektum_participium": "tilrettelagt"
+  },
+  {
+    "infinitiv": "tilride",
+    "præsens": "tilrider",
+    "præteritum": "tilred",
+    "perfektum_participium": "tilredet"
+  },
+  {
+    "infinitiv": "tilrive",
+    "præsens": "tilriver",
+    "præteritum": "tilrev",
+    "perfektum_participium": "tilrevet"
+  },
+  {
+    "infinitiv": "tilryge",
+    "præsens": "tilryger",
+    "præteritum": "tilrøg",
+    "perfektum_participium": "tilrøget"
+  },
+  {
+    "infinitiv": "tilse",
+    "præsens": "tilser",
+    "præteritum": "tilså",
+    "perfektum_participium": "tilset"
+  },
+  {
+    "infinitiv": "tilsige",
+    "præsens": "tilsiger",
+    "præteritum": "tilsagde",
+    "perfektum_participium": "tilsagt"
+  },
+  {
+    "infinitiv": "tilskrive",
+    "præsens": "tilskriver",
+    "præteritum": "tilskrev",
+    "perfektum_participium": "tilskrevet"
+  },
+  {
+    "infinitiv": "tilskære",
+    "præsens": "tilskærer",
+    "præteritum": "tilskar",
+    "perfektum_participium": "tilskåret"
+  },
+  {
+    "infinitiv": "tilsnige",
+    "præsens": "tilsniger",
+    "præteritum": "tilsneg",
+    "perfektum_participium": "tilsneget"
+  },
+  {
+    "infinitiv": "tilstå",
+    "præsens": "tilstår",
+    "præteritum": "tilstod",
+    "perfektum_participium": "tilstået"
+  },
+  {
+    "infinitiv": "tilsværge",
+    "præsens": "tilsværger",
+    "præteritum": "tilsvor",
+    "perfektum_participium": "tilsvoret"
+  },
+  {
+    "infinitiv": "tiltage",
+    "præsens": "tiltager",
+    "præteritum": "tiltog",
+    "perfektum_participium": "tiltaget"
+  },
+  {
+    "infinitiv": "tiltrække",
+    "præsens": "tiltrækker",
+    "præteritum": "tiltrak",
+    "perfektum_participium": "tiltrukket"
+  },
+  {
+    "infinitiv": "tiltvinge",
+    "præsens": "tiltvinger",
+    "præteritum": "tiltvang",
+    "perfektum_participium": "tiltvunget"
+  },
+  {
+    "infinitiv": "tingsliggøre",
+    "præsens": "tingsliggør",
+    "præteritum": "tingsliggjorde",
+    "perfektum_participium": "tingsliggjort"
+  },
+  {
+    "infinitiv": "tjenstgøre",
+    "præsens": "tjenstgør",
+    "præteritum": "tjenstgjorde",
+    "perfektum_participium": "tjenstgjort"
+  },
+  {
+    "infinitiv": "totalforbyde",
+    "præsens": "totalforbyder",
+    "præteritum": "totalforbød",
+    "perfektum_participium": "totalforbudt"
+  },
+  {
+    "infinitiv": "trine",
+    "præsens": "triner",
+    "præteritum": "tren",
+    "perfektum_participium": "trinet"
+  },
+  {
+    "infinitiv": "troldbinde",
+    "præsens": "troldbinder",
+    "præteritum": "troldbandt",
+    "perfektum_participium": "troldbundet"
+  },
+  {
+    "infinitiv": "tryllebinde",
+    "præsens": "tryllebinder",
+    "præteritum": "tryllebandt",
+    "perfektum_participium": "tryllebundet"
+  },
+  {
+    "infinitiv": "træffe",
+    "præsens": "træffer",
+    "præteritum": "traf",
+    "perfektum_participium": "truffet"
+  },
+  {
+    "infinitiv": "træffes",
+    "præsens": "træffes",
+    "præteritum": "traffes",
+    "perfektum_participium": "træffedes"
+  },
+  {
+    "infinitiv": "trække",
+    "præsens": "trækker",
+    "præteritum": "trak",
+    "perfektum_participium": "trukket"
+  },
+  {
+    "infinitiv": "trækkes",
+    "præsens": "trækkes",
+    "præteritum": "trakkes",
+    "perfektum_participium": "trækkedes"
+  },
+  {
+    "infinitiv": "trælbinde",
+    "præsens": "trælbinder",
+    "præteritum": "trælbandt",
+    "perfektum_participium": "trælbundet"
+  },
+  {
+    "infinitiv": "turde",
+    "præsens": "tør",
+    "præteritum": "turde",
+    "perfektum_participium": "turdet"
+  },
+  {
+    "infinitiv": "tvangsindlægge",
+    "præsens": "tvangsindlægger",
+    "præteritum": "tvangsindlagde",
+    "perfektum_participium": "tvangsindlagt"
+  },
+  {
+    "infinitiv": "tvangsudskrive",
+    "præsens": "tvangsudskriver",
+    "præteritum": "tvangsudskrev",
+    "perfektum_participium": "tvangsudskrevet"
+  },
+  {
+    "infinitiv": "tvinde",
+    "præsens": "tvinder",
+    "præteritum": "tvandt",
+    "perfektum_participium": "tvundet"
+  },
+  {
+    "infinitiv": "tvinge",
+    "præsens": "tvinger",
+    "præteritum": "tvang",
+    "perfektum_participium": "tvunget"
+  },
+  {
+    "infinitiv": "tydeliggøre",
+    "præsens": "tydeliggør",
+    "præteritum": "tydeliggjorde",
+    "perfektum_participium": "tydeliggjort"
+  },
+  {
+    "infinitiv": "tyndslide",
+    "præsens": "tyndslider",
+    "præteritum": "tyndsled",
+    "perfektum_participium": "tyndslidt"
+  },
+  {
+    "infinitiv": "tyvstjæle",
+    "præsens": "tyvstjæler",
+    "præteritum": "tyvstjal",
+    "perfektum_participium": "tyvstjålet"
+  },
+  {
+    "infinitiv": "tørlægge",
+    "præsens": "tørlægger",
+    "præteritum": "tørlagde",
+    "perfektum_participium": "tørlagt"
+  },
+  {
+    "infinitiv": "udbede",
+    "præsens": "udbeder",
+    "præteritum": "udbad",
+    "perfektum_participium": "udbedt"
+  },
+  {
+    "infinitiv": "udbinde",
+    "præsens": "udbinder",
+    "præteritum": "udbandt",
+    "perfektum_participium": "udbundet"
+  },
+  {
+    "infinitiv": "udbryde",
+    "præsens": "udbryder",
+    "præteritum": "udbrød",
+    "perfektum_participium": "udbrudt"
+  },
+  {
+    "infinitiv": "udbyde",
+    "præsens": "udbyder",
+    "præteritum": "udbød",
+    "perfektum_participium": "udbudt"
+  },
+  {
+    "infinitiv": "udbære",
+    "præsens": "udbærer",
+    "præteritum": "udbar",
+    "perfektum_participium": "udbåret"
+  },
+  {
+    "infinitiv": "uddrage",
+    "præsens": "uddrager",
+    "præteritum": "uddrog",
+    "perfektum_participium": "uddraget"
+  },
+  {
+    "infinitiv": "uddrive",
+    "præsens": "uddriver",
+    "præteritum": "uddrev",
+    "perfektum_participium": "uddrevet"
+  },
+  {
+    "infinitiv": "uddø",
+    "præsens": "uddør",
+    "præteritum": "uddøde",
+    "perfektum_participium": "uddøet"
+  },
+  {
+    "infinitiv": "udeblive",
+    "præsens": "udebliver",
+    "præteritum": "udeblev",
+    "perfektum_participium": "udeblevet"
+  },
+  {
+    "infinitiv": "udelade",
+    "præsens": "udelader",
+    "præteritum": "udelod",
+    "perfektum_participium": "udeladt"
+  },
+  {
+    "infinitiv": "udestå",
+    "præsens": "udestår",
+    "præteritum": "udestod",
+    "perfektum_participium": "udestået"
+  },
+  {
+    "infinitiv": "udfinde",
+    "præsens": "udfinder",
+    "præteritum": "udfandt",
+    "perfektum_participium": "udfundet"
+  },
+  {
+    "infinitiv": "udgive",
+    "præsens": "udgiver",
+    "præteritum": "udgav",
+    "perfektum_participium": "udgivet"
+  },
+  {
+    "infinitiv": "udgyde",
+    "præsens": "udgyder",
+    "præteritum": "udgød",
+    "perfektum_participium": "udgydt"
+  },
+  {
+    "infinitiv": "udgøre",
+    "præsens": "udgør",
+    "præteritum": "udgjorde",
+    "perfektum_participium": "udgjort"
+  },
+  {
+    "infinitiv": "udgå",
+    "præsens": "udgår",
+    "præteritum": "udgik",
+    "perfektum_participium": "udgået"
+  },
+  {
+    "infinitiv": "udholde",
+    "præsens": "udholder",
+    "præteritum": "udholdt",
+    "perfektum_participium": "udholdt"
+  },
+  {
+    "infinitiv": "udjage",
+    "præsens": "udjager",
+    "præteritum": "udjog",
+    "perfektum_participium": "udjaget"
+  },
+  {
+    "infinitiv": "udkomme",
+    "præsens": "udkommer",
+    "præteritum": "udkom",
+    "perfektum_participium": "udkommet"
+  },
+  {
+    "infinitiv": "udle",
+    "præsens": "udler",
+    "præteritum": "udlo",
+    "perfektum_participium": "udleet"
+  },
+  {
+    "infinitiv": "udlægge",
+    "præsens": "udlægger",
+    "præteritum": "udlagde",
+    "perfektum_participium": "udlagt"
+  },
+  {
+    "infinitiv": "udløbe",
+    "præsens": "udløber",
+    "præteritum": "udløb",
+    "perfektum_participium": "udløbet"
+  },
+  {
+    "infinitiv": "udpibe",
+    "præsens": "udpiber",
+    "præteritum": "udpeb",
+    "perfektum_participium": "udpebet"
+  },
+  {
+    "infinitiv": "udrinde",
+    "præsens": "udrinder",
+    "præteritum": "udrandt",
+    "perfektum_participium": "udrundet"
+  },
+  {
+    "infinitiv": "udrive",
+    "præsens": "udriver",
+    "præteritum": "udrev",
+    "perfektum_participium": "udrevet"
+  },
+  {
+    "infinitiv": "udse",
+    "præsens": "udser",
+    "præteritum": "udså",
+    "perfektum_participium": "udset"
+  },
+  {
+    "infinitiv": "udsige",
+    "præsens": "udsiger",
+    "præteritum": "udsagde",
+    "perfektum_participium": "udsagt"
+  },
+  {
+    "infinitiv": "udskrige",
+    "præsens": "udskriger",
+    "præteritum": "udskreg",
+    "perfektum_participium": "udskreget"
+  },
+  {
+    "infinitiv": "udskrive",
+    "præsens": "udskriver",
+    "præteritum": "udskrev",
+    "perfektum_participium": "udskrevet"
+  },
+  {
+    "infinitiv": "udskyde",
+    "præsens": "udskyder",
+    "præteritum": "udskød",
+    "perfektum_participium": "udskudt"
+  },
+  {
+    "infinitiv": "udskære",
+    "præsens": "udskærer",
+    "præteritum": "udskar",
+    "perfektum_participium": "udskåret"
+  },
+  {
+    "infinitiv": "udsmide",
+    "præsens": "udsmider",
+    "præteritum": "udsmed",
+    "perfektum_participium": "udsmidt"
+  },
+  {
+    "infinitiv": "udspinde",
+    "præsens": "udspinder",
+    "præteritum": "udspandt",
+    "perfektum_participium": "udspundet"
+  },
+  {
+    "infinitiv": "udspringe",
+    "præsens": "udspringer",
+    "præteritum": "udsprang",
+    "perfektum_participium": "udsprunget"
+  },
+  {
+    "infinitiv": "udstikke",
+    "præsens": "udstikker",
+    "præteritum": "udstak",
+    "perfektum_participium": "udstukket"
+  },
+  {
+    "infinitiv": "udstå",
+    "præsens": "udstår",
+    "præteritum": "udstod",
+    "perfektum_participium": "udstået"
+  },
+  {
+    "infinitiv": "udtage",
+    "præsens": "udtager",
+    "præteritum": "udtog",
+    "perfektum_participium": "udtaget"
+  },
+  {
+    "infinitiv": "udtrække",
+    "præsens": "udtrækker",
+    "præteritum": "udtrak",
+    "perfektum_participium": "udtrukket"
+  },
+  {
+    "infinitiv": "udvinde",
+    "præsens": "udvinder",
+    "præteritum": "udvandt",
+    "perfektum_participium": "udvundet"
+  },
+  {
+    "infinitiv": "udødeliggøre",
+    "præsens": "udødeliggør",
+    "præteritum": "udødeliggjorde",
+    "perfektum_participium": "udødeliggjort"
+  },
+  {
+    "infinitiv": "umenneskeliggøre",
+    "præsens": "umenneskeliggør",
+    "præteritum": "umenneskeliggjorde",
+    "perfektum_participium": "umenneskeliggjort"
+  },
+  {
+    "infinitiv": "umuliggøre",
+    "præsens": "umuliggør",
+    "præteritum": "umuliggjorde",
+    "perfektum_participium": "umuliggjort"
+  },
+  {
+    "infinitiv": "umyndiggøre",
+    "præsens": "umyndiggør",
+    "præteritum": "umyndiggjorde",
+    "perfektum_participium": "umyndiggjort"
+  },
+  {
+    "infinitiv": "unddrage",
+    "præsens": "unddrager",
+    "præteritum": "unddrog",
+    "perfektum_participium": "unddraget"
+  },
+  {
+    "infinitiv": "underbinde",
+    "præsens": "underbinder",
+    "præteritum": "underbandt",
+    "perfektum_participium": "underbundet"
+  },
+  {
+    "infinitiv": "underbyde",
+    "præsens": "underbyder",
+    "præteritum": "underbød",
+    "perfektum_participium": "underbudt"
+  },
+  {
+    "infinitiv": "underdrive",
+    "præsens": "underdriver",
+    "præteritum": "underdrev",
+    "perfektum_participium": "underdrevet"
+  },
+  {
+    "infinitiv": "underforstå",
+    "præsens": "underforstår",
+    "præteritum": "underforstod",
+    "perfektum_participium": "underforstået"
+  },
+  {
+    "infinitiv": "undergive",
+    "præsens": "undergiver",
+    "præteritum": "undergav",
+    "perfektum_participium": "undergivet"
+  },
+  {
+    "infinitiv": "undergå",
+    "præsens": "undergår",
+    "præteritum": "undergik",
+    "perfektum_participium": "undergået"
+  },
+  {
+    "infinitiv": "underholde",
+    "præsens": "underholder",
+    "præteritum": "underholdt",
+    "perfektum_participium": "underholdt"
+  },
+  {
+    "infinitiv": "underlægge",
+    "præsens": "underlægger",
+    "præteritum": "underlagde",
+    "perfektum_participium": "underlagt"
+  },
+  {
+    "infinitiv": "underløbe",
+    "præsens": "underløber",
+    "præteritum": "underløb",
+    "perfektum_participium": "underløbet"
+  },
+  {
+    "infinitiv": "underskride",
+    "præsens": "underskrider",
+    "præteritum": "underskred",
+    "perfektum_participium": "underskredet"
+  },
+  {
+    "infinitiv": "underskrive",
+    "præsens": "underskriver",
+    "præteritum": "underskrev",
+    "perfektum_participium": "underskrevet"
+  },
+  {
+    "infinitiv": "underslå",
+    "præsens": "underslår",
+    "præteritum": "underslog",
+    "perfektum_participium": "underslået"
+  },
+  {
+    "infinitiv": "understryge",
+    "præsens": "understryger",
+    "præteritum": "understrøg",
+    "perfektum_participium": "understrøget"
+  },
+  {
+    "infinitiv": "understå",
+    "præsens": "understår",
+    "præteritum": "understod",
+    "perfektum_participium": "understået"
+  },
+  {
+    "infinitiv": "undertvinge",
+    "præsens": "undertvinger",
+    "præteritum": "undertvang",
+    "perfektum_participium": "undertvunget"
+  },
+  {
+    "infinitiv": "undgå",
+    "præsens": "undgår",
+    "præteritum": "undgik",
+    "perfektum_participium": "undgået"
+  },
+  {
+    "infinitiv": "undkomme",
+    "præsens": "undkommer",
+    "præteritum": "undkom",
+    "perfektum_participium": "undkommet"
+  },
+  {
+    "infinitiv": "undlade",
+    "præsens": "undlader",
+    "præteritum": "undlod",
+    "perfektum_participium": "undladt"
+  },
+  {
+    "infinitiv": "undløbe",
+    "præsens": "undløber",
+    "præteritum": "undløb",
+    "perfektum_participium": "undløbet"
+  },
+  {
+    "infinitiv": "undse",
+    "præsens": "undser",
+    "præteritum": "undså",
+    "perfektum_participium": "undset"
+  },
+  {
+    "infinitiv": "undsige",
+    "præsens": "undsiger",
+    "præteritum": "undsagde",
+    "perfektum_participium": "undsagt"
+  },
+  {
+    "infinitiv": "undslippe",
+    "præsens": "undslipper",
+    "præteritum": "undslap",
+    "perfektum_participium": "undsluppet"
+  },
+  {
+    "infinitiv": "undslå",
+    "præsens": "undslår",
+    "præteritum": "undslog",
+    "perfektum_participium": "undslået"
+  },
+  {
+    "infinitiv": "undtage",
+    "præsens": "undtager",
+    "præteritum": "undtog",
+    "perfektum_participium": "undtaget"
+  },
+  {
+    "infinitiv": "undvige",
+    "præsens": "undviger",
+    "præteritum": "undveg",
+    "perfektum_participium": "undveget"
+  },
+  {
+    "infinitiv": "upersonliggøre",
+    "præsens": "upersonliggør",
+    "præteritum": "upersonliggjorde",
+    "perfektum_participium": "upersonliggjort"
+  },
+  {
+    "infinitiv": "uskadeliggøre",
+    "præsens": "uskadeliggør",
+    "præteritum": "uskadeliggjorde",
+    "perfektum_participium": "uskadeliggjort"
+  },
+  {
+    "infinitiv": "vanskeliggøre",
+    "præsens": "vanskeliggør",
+    "præteritum": "vanskeliggjorde",
+    "perfektum_participium": "vanskeliggjort"
+  },
+  {
+    "infinitiv": "varetage",
+    "præsens": "varetager",
+    "præteritum": "varetog",
+    "perfektum_participium": "varetaget"
+  },
+  {
+    "infinitiv": "vedblive",
+    "præsens": "vedbliver",
+    "præteritum": "vedblev",
+    "perfektum_participium": "vedblevet"
+  },
+  {
+    "infinitiv": "vederlægge",
+    "præsens": "vederlægger",
+    "præteritum": "vederlagde",
+    "perfektum_participium": "vederlagt"
+  },
+  {
+    "infinitiv": "vedgå",
+    "præsens": "vedgår",
+    "præteritum": "vedgik",
+    "perfektum_participium": "vedgået"
+  },
+  {
+    "infinitiv": "vedkomme",
+    "præsens": "vedkommer",
+    "præteritum": "vedkom",
+    "perfektum_participium": "vedkommet"
+  },
+  {
+    "infinitiv": "vedligeholde",
+    "præsens": "vedligeholder",
+    "præteritum": "vedligeholdt",
+    "perfektum_participium": "vedligeholdt"
+  },
+  {
+    "infinitiv": "vedlægge",
+    "præsens": "vedlægger",
+    "præteritum": "vedlagde",
+    "perfektum_participium": "vedlagt"
+  },
+  {
+    "infinitiv": "vedstå",
+    "præsens": "vedstår",
+    "præteritum": "vedstod",
+    "perfektum_participium": "vedstået"
+  },
+  {
+    "infinitiv": "vedtage",
+    "præsens": "vedtager",
+    "præteritum": "vedtog",
+    "perfektum_participium": "vedtaget"
+  },
+  {
+    "infinitiv": "verdsliggøre",
+    "præsens": "verdsliggør",
+    "præteritum": "verdsliggjorde",
+    "perfektum_participium": "verdsliggjort"
+  },
+  {
+    "infinitiv": "vestliggøre",
+    "præsens": "vestliggør",
+    "præteritum": "vestliggjorde",
+    "perfektum_participium": "vestliggjort"
+  },
+  {
+    "infinitiv": "videnskabeliggøre",
+    "præsens": "videnskabeliggør",
+    "præteritum": "videnskabeliggjorde",
+    "perfektum_participium": "videnskabeliggjort"
+  },
+  {
+    "infinitiv": "videregive",
+    "præsens": "videregiver",
+    "præteritum": "videregav",
+    "perfektum_participium": "videregivet"
+  },
+  {
+    "infinitiv": "vige",
+    "præsens": "viger",
+    "præteritum": "veg",
+    "perfektum_participium": "veget"
+  },
+  {
+    "infinitiv": "ville",
+    "præsens": "vil",
+    "præteritum": "ville",
+    "perfektum_participium": "villet"
+  },
+  {
+    "infinitiv": "vinde",
+    "præsens": "vinder",
+    "præteritum": "vandt",
+    "perfektum_participium": "vundet"
+  },
+  {
+    "infinitiv": "virkeliggøre",
+    "præsens": "virkeliggør",
+    "præteritum": "virkeliggjorde",
+    "perfektum_participium": "virkeliggjort"
+  },
+  {
+    "infinitiv": "voldtage",
+    "præsens": "voldtager",
+    "præteritum": "voldtog",
+    "perfektum_participium": "voldtaget"
+  },
+  {
+    "infinitiv": "vride",
+    "præsens": "vrider",
+    "præteritum": "vred",
+    "perfektum_participium": "vredet"
+  },
+  {
+    "infinitiv": "være",
+    "præsens": "er",
+    "præteritum": "var",
+    "perfektum_participium": "været"
+  },
+  {
+    "infinitiv": "æde",
+    "præsens": "æder",
+    "præteritum": "åd",
+    "perfektum_participium": "ædt"
+  },
+  {
+    "infinitiv": "ødelægge",
+    "præsens": "ødelægger",
+    "præteritum": "ødelagde",
+    "perfektum_participium": "ødelagt"
+  },
+  {
+    "infinitiv": "åndeliggøre",
+    "præsens": "åndeliggør",
+    "præteritum": "åndeliggjorde",
+    "perfektum_participium": "åndeliggjort"
+  },
+  {
+    "infinitiv": "årelade",
+    "præsens": "årelader",
+    "præteritum": "årelod",
+    "perfektum_participium": "åreladet"
+  }
+]

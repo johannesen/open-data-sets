@@ -1,0 +1,2357 @@
+[
+  {
+    "ord_1": "senegals",
+    "ord_2": "slagenes",
+    "laengde": 8
+  },
+  {
+    "ord_1": "gildets",
+    "ord_2": "stedlig",
+    "laengde": 7
+  },
+  {
+    "ord_1": "lagenes",
+    "ord_2": "senegal",
+    "laengde": 7
+  },
+  {
+    "ord_1": "rallets",
+    "ord_2": "stellar",
+    "laengde": 7
+  },
+  {
+    "ord_1": "ressort",
+    "ord_2": "trosser",
+    "laengde": 7
+  },
+  {
+    "ord_1": "sneglat",
+    "ord_2": "talgens",
+    "laengde": 7
+  },
+  {
+    "ord_1": "eksils",
+    "ord_2": "sliske",
+    "laengde": 6
+  },
+  {
+    "ord_1": "elgens",
+    "ord_2": "snegle",
+    "laengde": 6
+  },
+  {
+    "ord_1": "enebær",
+    "ord_2": "ræbene",
+    "laengde": 6
+  },
+  {
+    "ord_1": "entals",
+    "ord_2": "slatne",
+    "laengde": 6
+  },
+  {
+    "ord_1": "eremit",
+    "ord_2": "timere",
+    "laengde": 6
+  },
+  {
+    "ord_1": "fjerts",
+    "ord_2": "strejf",
+    "laengde": 6
+  },
+  {
+    "ord_1": "gælden",
+    "ord_2": "nedlæg",
+    "laengde": 6
+  },
+  {
+    "ord_1": "lakajs",
+    "ord_2": "sjakal",
+    "laengde": 6
+  },
+  {
+    "ord_1": "livres",
+    "ord_2": "servil",
+    "laengde": 6
+  },
+  {
+    "ord_1": "nedrev",
+    "ord_2": "verden",
+    "laengde": 6
+  },
+  {
+    "ord_1": "negets",
+    "ord_2": "stegen",
+    "laengde": 6
+  },
+  {
+    "ord_1": "nemmer",
+    "ord_2": "remmen",
+    "laengde": 6
+  },
+  {
+    "ord_1": "netter",
+    "ord_2": "retten",
+    "laengde": 6
+  },
+  {
+    "ord_1": "oksens",
+    "ord_2": "snesko",
+    "laengde": 6
+  },
+  {
+    "ord_1": "pennes",
+    "ord_2": "sennep",
+    "laengde": 6
+  },
+  {
+    "ord_1": "regals",
+    "ord_2": "slager",
+    "laengde": 6
+  },
+  {
+    "ord_1": "retros",
+    "ord_2": "sorter",
+    "laengde": 6
+  },
+  {
+    "ord_1": "rettes",
+    "ord_2": "setter",
+    "laengde": 6
+  },
+  {
+    "ord_1": "rullet",
+    "ord_2": "tellur",
+    "laengde": 6
+  },
+  {
+    "ord_1": "segnes",
+    "ord_2": "senges",
+    "laengde": 6
+  },
+  {
+    "ord_1": "semits",
+    "ord_2": "stimes",
+    "laengde": 6
+  },
+  {
+    "ord_1": "skrots",
+    "ord_2": "storks",
+    "laengde": 6
+  },
+  {
+    "ord_1": "sports",
+    "ord_2": "strops",
+    "laengde": 6
+  },
+  {
+    "ord_1": "teamet",
+    "ord_2": "temaet",
+    "laengde": 6
+  },
+  {
+    "ord_1": "tebrev",
+    "ord_2": "verbet",
+    "laengde": 6
+  },
+  {
+    "ord_1": "agnat",
+    "ord_2": "tanga",
+    "laengde": 5
+  },
+  {
+    "ord_1": "annam",
+    "ord_2": "manna",
+    "laengde": 5
+  },
+  {
+    "ord_1": "barks",
+    "ord_2": "skrab",
+    "laengde": 5
+  },
+  {
+    "ord_1": "dirks",
+    "ord_2": "skrid",
+    "laengde": 5
+  },
+  {
+    "ord_1": "dørks",
+    "ord_2": "skrød",
+    "laengde": 5
+  },
+  {
+    "ord_1": "edder",
+    "ord_2": "redde",
+    "laengde": 5
+  },
+  {
+    "ord_1": "egnes",
+    "ord_2": "senge",
+    "laengde": 5
+  },
+  {
+    "ord_1": "ekset",
+    "ord_2": "teske",
+    "laengde": 5
+  },
+  {
+    "ord_1": "elgen",
+    "ord_2": "negle",
+    "laengde": 5
+  },
+  {
+    "ord_1": "elges",
+    "ord_2": "segle",
+    "laengde": 5
+  },
+  {
+    "ord_1": "elver",
+    "ord_2": "revle",
+    "laengde": 5
+  },
+  {
+    "ord_1": "emmen",
+    "ord_2": "nemme",
+    "laengde": 5
+  },
+  {
+    "ord_1": "emmer",
+    "ord_2": "remme",
+    "laengde": 5
+  },
+  {
+    "ord_1": "ender",
+    "ord_2": "redne",
+    "laengde": 5
+  },
+  {
+    "ord_1": "enges",
+    "ord_2": "segne",
+    "laengde": 5
+  },
+  {
+    "ord_1": "erots",
+    "ord_2": "store",
+    "laengde": 5
+  },
+  {
+    "ord_1": "esrom",
+    "ord_2": "morse",
+    "laengde": 5
+  },
+  {
+    "ord_1": "ettal",
+    "ord_2": "latte",
+    "laengde": 5
+  },
+  {
+    "ord_1": "etter",
+    "ord_2": "rette",
+    "laengde": 5
+  },
+  {
+    "ord_1": "fares",
+    "ord_2": "seraf",
+    "laengde": 5
+  },
+  {
+    "ord_1": "farts",
+    "ord_2": "straf",
+    "laengde": 5
+  },
+  {
+    "ord_1": "fires",
+    "ord_2": "serif",
+    "laengde": 5
+  },
+  {
+    "ord_1": "gnavs",
+    "ord_2": "svang",
+    "laengde": 5
+  },
+  {
+    "ord_1": "klats",
+    "ord_2": "stalk",
+    "laengde": 5
+  },
+  {
+    "ord_1": "klits",
+    "ord_2": "stilk",
+    "laengde": 5
+  },
+  {
+    "ord_1": "kluks",
+    "ord_2": "skulk",
+    "laengde": 5
+  },
+  {
+    "ord_1": "knaps",
+    "ord_2": "spank",
+    "laengde": 5
+  },
+  {
+    "ord_1": "knark",
+    "ord_2": "krank",
+    "laengde": 5
+  },
+  {
+    "ord_1": "knips",
+    "ord_2": "spink",
+    "laengde": 5
+  },
+  {
+    "ord_1": "knæks",
+    "ord_2": "skænk",
+    "laengde": 5
+  },
+  {
+    "ord_1": "kraps",
+    "ord_2": "spark",
+    "laengde": 5
+  },
+  {
+    "ord_1": "kruks",
+    "ord_2": "skurk",
+    "laengde": 5
+  },
+  {
+    "ord_1": "lager",
+    "ord_2": "regal",
+    "laengde": 5
+  },
+  {
+    "ord_1": "latin",
+    "ord_2": "nital",
+    "laengde": 5
+  },
+  {
+    "ord_1": "leger",
+    "ord_2": "regel",
+    "laengde": 5
+  },
+  {
+    "ord_1": "lines",
+    "ord_2": "senil",
+    "laengde": 5
+  },
+  {
+    "ord_1": "lærks",
+    "ord_2": "skræl",
+    "laengde": 5
+  },
+  {
+    "ord_1": "marks",
+    "ord_2": "skram",
+    "laengde": 5
+  },
+  {
+    "ord_1": "marts",
+    "ord_2": "stram",
+    "laengde": 5
+  },
+  {
+    "ord_1": "mases",
+    "ord_2": "sesam",
+    "laengde": 5
+  },
+  {
+    "ord_1": "moden",
+    "ord_2": "nedom",
+    "laengde": 5
+  },
+  {
+    "ord_1": "mures",
+    "ord_2": "serum",
+    "laengde": 5
+  },
+  {
+    "ord_1": "nedis",
+    "ord_2": "siden",
+    "laengde": 5
+  },
+  {
+    "ord_1": "nejer",
+    "ord_2": "rejen",
+    "laengde": 5
+  },
+  {
+    "ord_1": "nejes",
+    "ord_2": "sejen",
+    "laengde": 5
+  },
+  {
+    "ord_1": "netop",
+    "ord_2": "poten",
+    "laengde": 5
+  },
+  {
+    "ord_1": "nitis",
+    "ord_2": "sitin",
+    "laengde": 5
+  },
+  {
+    "ord_1": "parks",
+    "ord_2": "skrap",
+    "laengde": 5
+  },
+  {
+    "ord_1": "plaks",
+    "ord_2": "skalp",
+    "laengde": 5
+  },
+  {
+    "ord_1": "plots",
+    "ord_2": "stolp",
+    "laengde": 5
+  },
+  {
+    "ord_1": "ports",
+    "ord_2": "strop",
+    "laengde": 5
+  },
+  {
+    "ord_1": "prens",
+    "ord_2": "snerp",
+    "laengde": 5
+  },
+  {
+    "ord_1": "præks",
+    "ord_2": "skærp",
+    "laengde": 5
+  },
+  {
+    "ord_1": "regis",
+    "ord_2": "siger",
+    "laengde": 5
+  },
+  {
+    "ord_1": "rejes",
+    "ord_2": "sejer",
+    "laengde": 5
+  },
+  {
+    "ord_1": "relæs",
+    "ord_2": "sæler",
+    "laengde": 5
+  },
+  {
+    "ord_1": "reset",
+    "ord_2": "teser",
+    "laengde": 5
+  },
+  {
+    "ord_1": "retor",
+    "ord_2": "roter",
+    "laengde": 5
+  },
+  {
+    "ord_1": "retur",
+    "ord_2": "ruter",
+    "laengde": 5
+  },
+  {
+    "ord_1": "revir",
+    "ord_2": "river",
+    "laengde": 5
+  },
+  {
+    "ord_1": "revys",
+    "ord_2": "syver",
+    "laengde": 5
+  },
+  {
+    "ord_1": "semit",
+    "ord_2": "times",
+    "laengde": 5
+  },
+  {
+    "ord_1": "senet",
+    "ord_2": "tenes",
+    "laengde": 5
+  },
+  {
+    "ord_1": "silos",
+    "ord_2": "solis",
+    "laengde": 5
+  },
+  {
+    "ord_1": "sjavs",
+    "ord_2": "svajs",
+    "laengde": 5
+  },
+  {
+    "ord_1": "skats",
+    "ord_2": "staks",
+    "laengde": 5
+  },
+  {
+    "ord_1": "skots",
+    "ord_2": "stoks",
+    "laengde": 5
+  },
+  {
+    "ord_1": "skræv",
+    "ord_2": "værks",
+    "laengde": 5
+  },
+  {
+    "ord_1": "skyts",
+    "ord_2": "styks",
+    "laengde": 5
+  },
+  {
+    "ord_1": "skært",
+    "ord_2": "træks",
+    "laengde": 5
+  },
+  {
+    "ord_1": "slims",
+    "ord_2": "smils",
+    "laengde": 5
+  },
+  {
+    "ord_1": "slips",
+    "ord_2": "spils",
+    "laengde": 5
+  },
+  {
+    "ord_1": "slots",
+    "ord_2": "stols",
+    "laengde": 5
+  },
+  {
+    "ord_1": "snart",
+    "ord_2": "trans",
+    "laengde": 5
+  },
+  {
+    "ord_1": "snavs",
+    "ord_2": "svans",
+    "laengde": 5
+  },
+  {
+    "ord_1": "sneet",
+    "ord_2": "teens",
+    "laengde": 5
+  },
+  {
+    "ord_1": "snips",
+    "ord_2": "spins",
+    "laengde": 5
+  },
+  {
+    "ord_1": "snært",
+    "ord_2": "træns",
+    "laengde": 5
+  },
+  {
+    "ord_1": "sport",
+    "ord_2": "trops",
+    "laengde": 5
+  },
+  {
+    "ord_1": "spots",
+    "ord_2": "stops",
+    "laengde": 5
+  },
+  {
+    "ord_1": "spurt",
+    "ord_2": "trups",
+    "laengde": 5
+  },
+  {
+    "ord_1": "svart",
+    "ord_2": "travs",
+    "laengde": 5
+  },
+  {
+    "ord_1": "agil",
+    "ord_2": "liga",
+    "laengde": 4
+  },
+  {
+    "ord_1": "amok",
+    "ord_2": "koma",
+    "laengde": 4
+  },
+  {
+    "ord_1": "baks",
+    "ord_2": "skab",
+    "laengde": 4
+  },
+  {
+    "ord_1": "bark",
+    "ord_2": "krab",
+    "laengde": 4
+  },
+  {
+    "ord_1": "bats",
+    "ord_2": "stab",
+    "laengde": 4
+  },
+  {
+    "ord_1": "bels",
+    "ord_2": "sleb",
+    "laengde": 4
+  },
+  {
+    "ord_1": "biks",
+    "ord_2": "skib",
+    "laengde": 4
+  },
+  {
+    "ord_1": "bils",
+    "ord_2": "slib",
+    "laengde": 4
+  },
+  {
+    "ord_1": "bons",
+    "ord_2": "snob",
+    "laengde": 4
+  },
+  {
+    "ord_1": "buks",
+    "ord_2": "skub",
+    "laengde": 4
+  },
+  {
+    "ord_1": "bulk",
+    "ord_2": "klub",
+    "laengde": 4
+  },
+  {
+    "ord_1": "buls",
+    "ord_2": "slub",
+    "laengde": 4
+  },
+  {
+    "ord_1": "bøvs",
+    "ord_2": "svøb",
+    "laengde": 4
+  },
+  {
+    "ord_1": "dels",
+    "ord_2": "sled",
+    "laengde": 4
+  },
+  {
+    "ord_1": "dens",
+    "ord_2": "sned",
+    "laengde": 4
+  },
+  {
+    "ord_1": "diks",
+    "ord_2": "skid",
+    "laengde": 4
+  },
+  {
+    "ord_1": "dims",
+    "ord_2": "smid",
+    "laengde": 4
+  },
+  {
+    "ord_1": "ding",
+    "ord_2": "gnid",
+    "laengde": 4
+  },
+  {
+    "ord_1": "dips",
+    "ord_2": "spid",
+    "laengde": 4
+  },
+  {
+    "ord_1": "doks",
+    "ord_2": "skod",
+    "laengde": 4
+  },
+  {
+    "ord_1": "dræg",
+    "ord_2": "gærd",
+    "laengde": 4
+  },
+  {
+    "ord_1": "dræv",
+    "ord_2": "værd",
+    "laengde": 4
+  },
+  {
+    "ord_1": "drøn",
+    "ord_2": "nørd",
+    "laengde": 4
+  },
+  {
+    "ord_1": "duks",
+    "ord_2": "skud",
+    "laengde": 4
+  },
+  {
+    "ord_1": "duts",
+    "ord_2": "stud",
+    "laengde": 4
+  },
+  {
+    "ord_1": "dyks",
+    "ord_2": "skyd",
+    "laengde": 4
+  },
+  {
+    "ord_1": "dyns",
+    "ord_2": "snyd",
+    "laengde": 4
+  },
+  {
+    "ord_1": "dyps",
+    "ord_2": "spyd",
+    "laengde": 4
+  },
+  {
+    "ord_1": "dølg",
+    "ord_2": "glød",
+    "laengde": 4
+  },
+  {
+    "ord_1": "døns",
+    "ord_2": "snød",
+    "laengde": 4
+  },
+  {
+    "ord_1": "dørg",
+    "ord_2": "grød",
+    "laengde": 4
+  },
+  {
+    "ord_1": "eden",
+    "ord_2": "nede",
+    "laengde": 4
+  },
+  {
+    "ord_1": "eder",
+    "ord_2": "rede",
+    "laengde": 4
+  },
+  {
+    "ord_1": "egal",
+    "ord_2": "lage",
+    "laengde": 4
+  },
+  {
+    "ord_1": "egne",
+    "ord_2": "enge",
+    "laengde": 4
+  },
+  {
+    "ord_1": "ejer",
+    "ord_2": "reje",
+    "laengde": 4
+  },
+  {
+    "ord_1": "ejes",
+    "ord_2": "seje",
+    "laengde": 4
+  },
+  {
+    "ord_1": "emir",
+    "ord_2": "rime",
+    "laengde": 4
+  },
+  {
+    "ord_1": "ener",
+    "ord_2": "rene",
+    "laengde": 4
+  },
+  {
+    "ord_1": "enes",
+    "ord_2": "sene",
+    "laengde": 4
+  },
+  {
+    "ord_1": "enig",
+    "ord_2": "gine",
+    "laengde": 4
+  },
+  {
+    "ord_1": "evig",
+    "ord_2": "give",
+    "laengde": 4
+  },
+  {
+    "ord_1": "fart",
+    "ord_2": "traf",
+    "laengde": 4
+  },
+  {
+    "ord_1": "fjer",
+    "ord_2": "rejf",
+    "laengde": 4
+  },
+  {
+    "ord_1": "flov",
+    "ord_2": "volf",
+    "laengde": 4
+  },
+  {
+    "ord_1": "from",
+    "ord_2": "morf",
+    "laengde": 4
+  },
+  {
+    "ord_1": "fuks",
+    "ord_2": "skuf",
+    "laengde": 4
+  },
+  {
+    "ord_1": "fært",
+    "ord_2": "træf",
+    "laengde": 4
+  },
+  {
+    "ord_1": "galp",
+    "ord_2": "plag",
+    "laengde": 4
+  },
+  {
+    "ord_1": "gals",
+    "ord_2": "slag",
+    "laengde": 4
+  },
+  {
+    "ord_1": "garv",
+    "ord_2": "vrag",
+    "laengde": 4
+  },
+  {
+    "ord_1": "gats",
+    "ord_2": "stag",
+    "laengde": 4
+  },
+  {
+    "ord_1": "gens",
+    "ord_2": "sneg",
+    "laengde": 4
+  },
+  {
+    "ord_1": "gins",
+    "ord_2": "snig",
+    "laengde": 4
+  },
+  {
+    "ord_1": "glas",
+    "ord_2": "salg",
+    "laengde": 4
+  },
+  {
+    "ord_1": "glat",
+    "ord_2": "talg",
+    "laengde": 4
+  },
+  {
+    "ord_1": "gnav",
+    "ord_2": "vang",
+    "laengde": 4
+  },
+  {
+    "ord_1": "gnys",
+    "ord_2": "syng",
+    "laengde": 4
+  },
+  {
+    "ord_1": "gnæg",
+    "ord_2": "gæng",
+    "laengde": 4
+  },
+  {
+    "ord_1": "goms",
+    "ord_2": "smog",
+    "laengde": 4
+  },
+  {
+    "ord_1": "gros",
+    "ord_2": "sorg",
+    "laengde": 4
+  },
+  {
+    "ord_1": "gæks",
+    "ord_2": "skæg",
+    "laengde": 4
+  },
+  {
+    "ord_1": "kajs",
+    "ord_2": "sjak",
+    "laengde": 4
+  },
+  {
+    "ord_1": "kams",
+    "ord_2": "smak",
+    "laengde": 4
+  },
+  {
+    "ord_1": "kart",
+    "ord_2": "trak",
+    "laengde": 4
+  },
+  {
+    "ord_1": "kats",
+    "ord_2": "stak",
+    "laengde": 4
+  },
+  {
+    "ord_1": "kiks",
+    "ord_2": "skik",
+    "laengde": 4
+  },
+  {
+    "ord_1": "kits",
+    "ord_2": "stik",
+    "laengde": 4
+  },
+  {
+    "ord_1": "klam",
+    "ord_2": "malk",
+    "laengde": 4
+  },
+  {
+    "ord_1": "klat",
+    "ord_2": "talk",
+    "laengde": 4
+  },
+  {
+    "ord_1": "klip",
+    "ord_2": "pilk",
+    "laengde": 4
+  },
+  {
+    "ord_1": "klup",
+    "ord_2": "pulk",
+    "laengde": 4
+  },
+  {
+    "ord_1": "klæk",
+    "ord_2": "kælk",
+    "laengde": 4
+  },
+  {
+    "ord_1": "knas",
+    "ord_2": "sank",
+    "laengde": 4
+  },
+  {
+    "ord_1": "kniv",
+    "ord_2": "vink",
+    "laengde": 4
+  },
+  {
+    "ord_1": "knyr",
+    "ord_2": "rynk",
+    "laengde": 4
+  },
+  {
+    "ord_1": "knys",
+    "ord_2": "synk",
+    "laengde": 4
+  },
+  {
+    "ord_1": "knæl",
+    "ord_2": "lænk",
+    "laengde": 4
+  },
+  {
+    "ord_1": "knæs",
+    "ord_2": "sænk",
+    "laengde": 4
+  },
+  {
+    "ord_1": "koks",
+    "ord_2": "skok",
+    "laengde": 4
+  },
+  {
+    "ord_1": "kram",
+    "ord_2": "mark",
+    "laengde": 4
+  },
+  {
+    "ord_1": "krap",
+    "ord_2": "park",
+    "laengde": 4
+  },
+  {
+    "ord_1": "kril",
+    "ord_2": "lirk",
+    "laengde": 4
+  },
+  {
+    "ord_1": "kræs",
+    "ord_2": "særk",
+    "laengde": 4
+  },
+  {
+    "ord_1": "kræv",
+    "ord_2": "værk",
+    "laengde": 4
+  },
+  {
+    "ord_1": "kuls",
+    "ord_2": "sluk",
+    "laengde": 4
+  },
+  {
+    "ord_1": "kæps",
+    "ord_2": "spæk",
+    "laengde": 4
+  },
+  {
+    "ord_1": "kært",
+    "ord_2": "træk",
+    "laengde": 4
+  },
+  {
+    "ord_1": "laer",
+    "ord_2": "real",
+    "laengde": 4
+  },
+  {
+    "ord_1": "laks",
+    "ord_2": "skal",
+    "laengde": 4
+  },
+  {
+    "ord_1": "lams",
+    "ord_2": "smal",
+    "laengde": 4
+  },
+  {
+    "ord_1": "lavs",
+    "ord_2": "sval",
+    "laengde": 4
+  },
+  {
+    "ord_1": "leer",
+    "ord_2": "reel",
+    "laengde": 4
+  },
+  {
+    "ord_1": "lims",
+    "ord_2": "smil",
+    "laengde": 4
+  },
+  {
+    "ord_1": "loer",
+    "ord_2": "reol",
+    "laengde": 4
+  },
+  {
+    "ord_1": "loks",
+    "ord_2": "skol",
+    "laengde": 4
+  },
+  {
+    "ord_1": "loop",
+    "ord_2": "pool",
+    "laengde": 4
+  },
+  {
+    "ord_1": "lups",
+    "ord_2": "spul",
+    "laengde": 4
+  },
+  {
+    "ord_1": "læks",
+    "ord_2": "skæl",
+    "laengde": 4
+  },
+  {
+    "ord_1": "lært",
+    "ord_2": "træl",
+    "laengde": 4
+  },
+  {
+    "ord_1": "mats",
+    "ord_2": "stam",
+    "laengde": 4
+  },
+  {
+    "ord_1": "mels",
+    "ord_2": "slem",
+    "laengde": 4
+  },
+  {
+    "ord_1": "miks",
+    "ord_2": "skim",
+    "laengde": 4
+  },
+  {
+    "ord_1": "mils",
+    "ord_2": "slim",
+    "laengde": 4
+  },
+  {
+    "ord_1": "muks",
+    "ord_2": "skum",
+    "laengde": 4
+  },
+  {
+    "ord_1": "nets",
+    "ord_2": "sten",
+    "laengde": 4
+  },
+  {
+    "ord_1": "niks",
+    "ord_2": "skin",
+    "laengde": 4
+  },
+  {
+    "ord_1": "nips",
+    "ord_2": "spin",
+    "laengde": 4
+  },
+  {
+    "ord_1": "nært",
+    "ord_2": "træn",
+    "laengde": 4
+  },
+  {
+    "ord_1": "nøks",
+    "ord_2": "skøn",
+    "laengde": 4
+  },
+  {
+    "ord_1": "pals",
+    "ord_2": "slap",
+    "laengde": 4
+  },
+  {
+    "ord_1": "part",
+    "ord_2": "trap",
+    "laengde": 4
+  },
+  {
+    "ord_1": "piks",
+    "ord_2": "skip",
+    "laengde": 4
+  },
+  {
+    "ord_1": "pils",
+    "ord_2": "slip",
+    "laengde": 4
+  },
+  {
+    "ord_1": "port",
+    "ord_2": "trop",
+    "laengde": 4
+  },
+  {
+    "ord_1": "pots",
+    "ord_2": "stop",
+    "laengde": 4
+  },
+  {
+    "ord_1": "puls",
+    "ord_2": "slup",
+    "laengde": 4
+  },
+  {
+    "ord_1": "purt",
+    "ord_2": "trup",
+    "laengde": 4
+  },
+  {
+    "ord_1": "puts",
+    "ord_2": "stup",
+    "laengde": 4
+  },
+  {
+    "ord_1": "raks",
+    "ord_2": "skar",
+    "laengde": 4
+  },
+  {
+    "ord_1": "rans",
+    "ord_2": "snar",
+    "laengde": 4
+  },
+  {
+    "ord_1": "raps",
+    "ord_2": "spar",
+    "laengde": 4
+  },
+  {
+    "ord_1": "rast",
+    "ord_2": "tsar",
+    "laengde": 4
+  },
+  {
+    "ord_1": "rats",
+    "ord_2": "star",
+    "laengde": 4
+  },
+  {
+    "ord_1": "ravs",
+    "ord_2": "svar",
+    "laengde": 4
+  },
+  {
+    "ord_1": "reet",
+    "ord_2": "teer",
+    "laengde": 4
+  },
+  {
+    "ord_1": "rens",
+    "ord_2": "sner",
+    "laengde": 4
+  },
+  {
+    "ord_1": "revy",
+    "ord_2": "yver",
+    "laengde": 4
+  },
+  {
+    "ord_1": "rivs",
+    "ord_2": "svir",
+    "laengde": 4
+  },
+  {
+    "ord_1": "roks",
+    "ord_2": "skor",
+    "laengde": 4
+  },
+  {
+    "ord_1": "rovs",
+    "ord_2": "svor",
+    "laengde": 4
+  },
+  {
+    "ord_1": "runs",
+    "ord_2": "snur",
+    "laengde": 4
+  },
+  {
+    "ord_1": "ryks",
+    "ord_2": "skyr",
+    "laengde": 4
+  },
+  {
+    "ord_1": "rævs",
+    "ord_2": "svær",
+    "laengde": 4
+  },
+  {
+    "ord_1": "røns",
+    "ord_2": "snør",
+    "laengde": 4
+  },
+  {
+    "ord_1": "sans",
+    "ord_2": "snas",
+    "laengde": 4
+  },
+  {
+    "ord_1": "seks",
+    "ord_2": "skes",
+    "laengde": 4
+  },
+  {
+    "ord_1": "skat",
+    "ord_2": "taks",
+    "laengde": 4
+  },
+  {
+    "ord_1": "skav",
+    "ord_2": "vaks",
+    "laengde": 4
+  },
+  {
+    "ord_1": "skiv",
+    "ord_2": "viks",
+    "laengde": 4
+  },
+  {
+    "ord_1": "skos",
+    "ord_2": "soks",
+    "laengde": 4
+  },
+  {
+    "ord_1": "skov",
+    "ord_2": "voks",
+    "laengde": 4
+  },
+  {
+    "ord_1": "slat",
+    "ord_2": "tals",
+    "laengde": 4
+  },
+  {
+    "ord_1": "slav",
+    "ord_2": "vals",
+    "laengde": 4
+  },
+  {
+    "ord_1": "slev",
+    "ord_2": "vels",
+    "laengde": 4
+  },
+  {
+    "ord_1": "slus",
+    "ord_2": "suls",
+    "laengde": 4
+  },
+  {
+    "ord_1": "slås",
+    "ord_2": "såls",
+    "laengde": 4
+  },
+  {
+    "ord_1": "snav",
+    "ord_2": "vans",
+    "laengde": 4
+  },
+  {
+    "ord_1": "snit",
+    "ord_2": "tins",
+    "laengde": 4
+  },
+  {
+    "ord_1": "snot",
+    "ord_2": "tons",
+    "laengde": 4
+  },
+  {
+    "ord_1": "snut",
+    "ord_2": "tuns",
+    "laengde": 4
+  },
+  {
+    "ord_1": "sort",
+    "ord_2": "tros",
+    "laengde": 4
+  },
+  {
+    "ord_1": "spat",
+    "ord_2": "taps",
+    "laengde": 4
+  },
+  {
+    "ord_1": "spot",
+    "ord_2": "tops",
+    "laengde": 4
+  },
+  {
+    "ord_1": "stav",
+    "ord_2": "vats",
+    "laengde": 4
+  },
+  {
+    "ord_1": "stiv",
+    "ord_2": "vits",
+    "laengde": 4
+  },
+  {
+    "ord_1": "stæs",
+    "ord_2": "sæts",
+    "laengde": 4
+  },
+  {
+    "ord_1": "stås",
+    "ord_2": "såts",
+    "laengde": 4
+  },
+  {
+    "ord_1": "svæv",
+    "ord_2": "vævs",
+    "laengde": 4
+  },
+  {
+    "ord_1": "sært",
+    "ord_2": "træs",
+    "laengde": 4
+  },
+  {
+    "ord_1": "trav",
+    "ord_2": "vart",
+    "laengde": 4
+  },
+  {
+    "ord_1": "and",
+    "ord_2": "dna",
+    "laengde": 3
+  },
+  {
+    "ord_1": "api",
+    "ord_2": "ipa",
+    "laengde": 3
+  },
+  {
+    "ord_1": "aps",
+    "ord_2": "spa",
+    "laengde": 3
+  },
+  {
+    "ord_1": "bad",
+    "ord_2": "dab",
+    "laengde": 3
+  },
+  {
+    "ord_1": "bag",
+    "ord_2": "gab",
+    "laengde": 3
+  },
+  {
+    "ord_1": "bal",
+    "ord_2": "lab",
+    "laengde": 3
+  },
+  {
+    "ord_1": "bat",
+    "ord_2": "tab",
+    "laengde": 3
+  },
+  {
+    "ord_1": "bip",
+    "ord_2": "pib",
+    "laengde": 3
+  },
+  {
+    "ord_1": "bol",
+    "ord_2": "lob",
+    "laengde": 3
+  },
+  {
+    "ord_1": "bom",
+    "ord_2": "mob",
+    "laengde": 3
+  },
+  {
+    "ord_1": "bud",
+    "ord_2": "dub",
+    "laengde": 3
+  },
+  {
+    "ord_1": "buh",
+    "ord_2": "hub",
+    "laengde": 3
+  },
+  {
+    "ord_1": "bur",
+    "ord_2": "rub",
+    "laengde": 3
+  },
+  {
+    "ord_1": "byd",
+    "ord_2": "dyb",
+    "laengde": 3
+  },
+  {
+    "ord_1": "bær",
+    "ord_2": "ræb",
+    "laengde": 3
+  },
+  {
+    "ord_1": "bæs",
+    "ord_2": "sæb",
+    "laengde": 3
+  },
+  {
+    "ord_1": "bød",
+    "ord_2": "døb",
+    "laengde": 3
+  },
+  {
+    "ord_1": "bør",
+    "ord_2": "røb",
+    "laengde": 3
+  },
+  {
+    "ord_1": "bøs",
+    "ord_2": "søb",
+    "laengde": 3
+  },
+  {
+    "ord_1": "båd",
+    "ord_2": "dåb",
+    "laengde": 3
+  },
+  {
+    "ord_1": "cis",
+    "ord_2": "sic",
+    "laengde": 3
+  },
+  {
+    "ord_1": "dag",
+    "ord_2": "gad",
+    "laengde": 3
+  },
+  {
+    "ord_1": "dal",
+    "ord_2": "lad",
+    "laengde": 3
+  },
+  {
+    "ord_1": "dam",
+    "ord_2": "mad",
+    "laengde": 3
+  },
+  {
+    "ord_1": "das",
+    "ord_2": "sad",
+    "laengde": 3
+  },
+  {
+    "ord_1": "dav",
+    "ord_2": "vad",
+    "laengde": 3
+  },
+  {
+    "ord_1": "del",
+    "ord_2": "led",
+    "laengde": 3
+  },
+  {
+    "ord_1": "dem",
+    "ord_2": "med",
+    "laengde": 3
+  },
+  {
+    "ord_1": "den",
+    "ord_2": "ned",
+    "laengde": 3
+  },
+  {
+    "ord_1": "der",
+    "ord_2": "red",
+    "laengde": 3
+  },
+  {
+    "ord_1": "die",
+    "ord_2": "eid",
+    "laengde": 3
+  },
+  {
+    "ord_1": "dig",
+    "ord_2": "gid",
+    "laengde": 3
+  },
+  {
+    "ord_1": "dik",
+    "ord_2": "kid",
+    "laengde": 3
+  },
+  {
+    "ord_1": "din",
+    "ord_2": "nid",
+    "laengde": 3
+  },
+  {
+    "ord_1": "dir",
+    "ord_2": "rid",
+    "laengde": 3
+  },
+  {
+    "ord_1": "dis",
+    "ord_2": "sid",
+    "laengde": 3
+  },
+  {
+    "ord_1": "dit",
+    "ord_2": "tid",
+    "laengde": 3
+  },
+  {
+    "ord_1": "dog",
+    "ord_2": "god",
+    "laengde": 3
+  },
+  {
+    "ord_1": "dok",
+    "ord_2": "kod",
+    "laengde": 3
+  },
+  {
+    "ord_1": "dom",
+    "ord_2": "mod",
+    "laengde": 3
+  },
+  {
+    "ord_1": "dos",
+    "ord_2": "sod",
+    "laengde": 3
+  },
+  {
+    "ord_1": "due",
+    "ord_2": "eud",
+    "laengde": 3
+  },
+  {
+    "ord_1": "dug",
+    "ord_2": "gud",
+    "laengde": 3
+  },
+  {
+    "ord_1": "dul",
+    "ord_2": "lud",
+    "laengde": 3
+  },
+  {
+    "ord_1": "dut",
+    "ord_2": "tud",
+    "laengde": 3
+  },
+  {
+    "ord_1": "dyn",
+    "ord_2": "nyd",
+    "laengde": 3
+  },
+  {
+    "ord_1": "dyr",
+    "ord_2": "ryd",
+    "laengde": 3
+  },
+  {
+    "ord_1": "dys",
+    "ord_2": "syd",
+    "laengde": 3
+  },
+  {
+    "ord_1": "dyt",
+    "ord_2": "tyd",
+    "laengde": 3
+  },
+  {
+    "ord_1": "dæk",
+    "ord_2": "kæd",
+    "laengde": 3
+  },
+  {
+    "ord_1": "døl",
+    "ord_2": "lød",
+    "laengde": 3
+  },
+  {
+    "ord_1": "døm",
+    "ord_2": "mød",
+    "laengde": 3
+  },
+  {
+    "ord_1": "døn",
+    "ord_2": "nød",
+    "laengde": 3
+  },
+  {
+    "ord_1": "dør",
+    "ord_2": "rød",
+    "laengde": 3
+  },
+  {
+    "ord_1": "døs",
+    "ord_2": "sød",
+    "laengde": 3
+  },
+  {
+    "ord_1": "dån",
+    "ord_2": "nåd",
+    "laengde": 3
+  },
+  {
+    "ord_1": "dår",
+    "ord_2": "råd",
+    "laengde": 3
+  },
+  {
+    "ord_1": "egu",
+    "ord_2": "uge",
+    "laengde": 3
+  },
+  {
+    "ord_1": "eks",
+    "ord_2": "ske",
+    "laengde": 3
+  },
+  {
+    "ord_1": "ens",
+    "ord_2": "sne",
+    "laengde": 3
+  },
+  {
+    "ord_1": "fag",
+    "ord_2": "gaf",
+    "laengde": 3
+  },
+  {
+    "ord_1": "fip",
+    "ord_2": "pif",
+    "laengde": 3
+  },
+  {
+    "ord_1": "fug",
+    "ord_2": "guf",
+    "laengde": 3
+  },
+  {
+    "ord_1": "ful",
+    "ord_2": "luf",
+    "laengde": 3
+  },
+  {
+    "ord_1": "fup",
+    "ord_2": "puf",
+    "laengde": 3
+  },
+  {
+    "ord_1": "fur",
+    "ord_2": "ruf",
+    "laengde": 3
+  },
+  {
+    "ord_1": "fut",
+    "ord_2": "tuf",
+    "laengde": 3
+  },
+  {
+    "ord_1": "gak",
+    "ord_2": "kag",
+    "laengde": 3
+  },
+  {
+    "ord_1": "gal",
+    "ord_2": "lag",
+    "laengde": 3
+  },
+  {
+    "ord_1": "gas",
+    "ord_2": "sag",
+    "laengde": 3
+  },
+  {
+    "ord_1": "gat",
+    "ord_2": "tag",
+    "laengde": 3
+  },
+  {
+    "ord_1": "gav",
+    "ord_2": "vag",
+    "laengde": 3
+  },
+  {
+    "ord_1": "gel",
+    "ord_2": "leg",
+    "laengde": 3
+  },
+  {
+    "ord_1": "gen",
+    "ord_2": "neg",
+    "laengde": 3
+  },
+  {
+    "ord_1": "gik",
+    "ord_2": "kig",
+    "laengde": 3
+  },
+  {
+    "ord_1": "gir",
+    "ord_2": "rig",
+    "laengde": 3
+  },
+  {
+    "ord_1": "gis",
+    "ord_2": "sig",
+    "laengde": 3
+  },
+  {
+    "ord_1": "giv",
+    "ord_2": "vig",
+    "laengde": 3
+  },
+  {
+    "ord_1": "gnu",
+    "ord_2": "ung",
+    "laengde": 3
+  },
+  {
+    "ord_1": "gok",
+    "ord_2": "kog",
+    "laengde": 3
+  },
+  {
+    "ord_1": "gul",
+    "ord_2": "lug",
+    "laengde": 3
+  },
+  {
+    "ord_1": "gus",
+    "ord_2": "sug",
+    "laengde": 3
+  },
+  {
+    "ord_1": "gys",
+    "ord_2": "syg",
+    "laengde": 3
+  },
+  {
+    "ord_1": "gæl",
+    "ord_2": "læg",
+    "laengde": 3
+  },
+  {
+    "ord_1": "gæv",
+    "ord_2": "væg",
+    "laengde": 3
+  },
+  {
+    "ord_1": "gør",
+    "ord_2": "røg",
+    "laengde": 3
+  },
+  {
+    "ord_1": "gøs",
+    "ord_2": "søg",
+    "laengde": 3
+  },
+  {
+    "ord_1": "haj",
+    "ord_2": "jah",
+    "laengde": 3
+  },
+  {
+    "ord_1": "hum",
+    "ord_2": "muh",
+    "laengde": 3
+  },
+  {
+    "ord_1": "hyp",
+    "ord_2": "pyh",
+    "laengde": 3
+  },
+  {
+    "ord_1": "hæm",
+    "ord_2": "mæh",
+    "laengde": 3
+  },
+  {
+    "ord_1": "hån",
+    "ord_2": "nåh",
+    "laengde": 3
+  },
+  {
+    "ord_1": "jam",
+    "ord_2": "maj",
+    "laengde": 3
+  },
+  {
+    "ord_1": "jan",
+    "ord_2": "naj",
+    "laengde": 3
+  },
+  {
+    "ord_1": "kam",
+    "ord_2": "mak",
+    "laengde": 3
+  },
+  {
+    "ord_1": "kan",
+    "ord_2": "nak",
+    "laengde": 3
+  },
+  {
+    "ord_1": "kap",
+    "ord_2": "pak",
+    "laengde": 3
+  },
+  {
+    "ord_1": "kar",
+    "ord_2": "rak",
+    "laengde": 3
+  },
+  {
+    "ord_1": "kat",
+    "ord_2": "tak",
+    "laengde": 3
+  },
+  {
+    "ord_1": "kip",
+    "ord_2": "pik",
+    "laengde": 3
+  },
+  {
+    "ord_1": "kit",
+    "ord_2": "tik",
+    "laengde": 3
+  },
+  {
+    "ord_1": "kny",
+    "ord_2": "ynk",
+    "laengde": 3
+  },
+  {
+    "ord_1": "kom",
+    "ord_2": "mok",
+    "laengde": 3
+  },
+  {
+    "ord_1": "kor",
+    "ord_2": "rok",
+    "laengde": 3
+  },
+  {
+    "ord_1": "kos",
+    "ord_2": "sok",
+    "laengde": 3
+  },
+  {
+    "ord_1": "kro",
+    "ord_2": "ork",
+    "laengde": 3
+  },
+  {
+    "ord_1": "kul",
+    "ord_2": "luk",
+    "laengde": 3
+  },
+  {
+    "ord_1": "kup",
+    "ord_2": "puk",
+    "laengde": 3
+  },
+  {
+    "ord_1": "kæl",
+    "ord_2": "læk",
+    "laengde": 3
+  },
+  {
+    "ord_1": "kær",
+    "ord_2": "ræk",
+    "laengde": 3
+  },
+  {
+    "ord_1": "kæv",
+    "ord_2": "væk",
+    "laengde": 3
+  },
+  {
+    "ord_1": "køn",
+    "ord_2": "nøk",
+    "laengde": 3
+  },
+  {
+    "ord_1": "lam",
+    "ord_2": "mal",
+    "laengde": 3
+  },
+  {
+    "ord_1": "lap",
+    "ord_2": "pal",
+    "laengde": 3
+  },
+  {
+    "ord_1": "las",
+    "ord_2": "sal",
+    "laengde": 3
+  },
+  {
+    "ord_1": "lav",
+    "ord_2": "val",
+    "laengde": 3
+  },
+  {
+    "ord_1": "lem",
+    "ord_2": "mel",
+    "laengde": 3
+  },
+  {
+    "ord_1": "lev",
+    "ord_2": "vel",
+    "laengde": 3
+  },
+  {
+    "ord_1": "lim",
+    "ord_2": "mil",
+    "laengde": 3
+  },
+  {
+    "ord_1": "lir",
+    "ord_2": "ril",
+    "laengde": 3
+  },
+  {
+    "ord_1": "lis",
+    "ord_2": "sil",
+    "laengde": 3
+  },
+  {
+    "ord_1": "liv",
+    "ord_2": "vil",
+    "laengde": 3
+  },
+  {
+    "ord_1": "lom",
+    "ord_2": "mol",
+    "laengde": 3
+  },
+  {
+    "ord_1": "lop",
+    "ord_2": "pol",
+    "laengde": 3
+  },
+  {
+    "ord_1": "los",
+    "ord_2": "sol",
+    "laengde": 3
+  },
+  {
+    "ord_1": "lun",
+    "ord_2": "nul",
+    "laengde": 3
+  },
+  {
+    "ord_1": "lup",
+    "ord_2": "pul",
+    "laengde": 3
+  },
+  {
+    "ord_1": "lur",
+    "ord_2": "rul",
+    "laengde": 3
+  },
+  {
+    "ord_1": "lus",
+    "ord_2": "sul",
+    "laengde": 3
+  },
+  {
+    "ord_1": "lut",
+    "ord_2": "tul",
+    "laengde": 3
+  },
+  {
+    "ord_1": "lys",
+    "ord_2": "syl",
+    "laengde": 3
+  },
+  {
+    "ord_1": "lyt",
+    "ord_2": "tyl",
+    "laengde": 3
+  },
+  {
+    "ord_1": "læm",
+    "ord_2": "mæl",
+    "laengde": 3
+  },
+  {
+    "ord_1": "læs",
+    "ord_2": "sæl",
+    "laengde": 3
+  },
+  {
+    "ord_1": "løn",
+    "ord_2": "nøl",
+    "laengde": 3
+  },
+  {
+    "ord_1": "løs",
+    "ord_2": "søl",
+    "laengde": 3
+  },
+  {
+    "ord_1": "lån",
+    "ord_2": "nål",
+    "laengde": 3
+  },
+  {
+    "ord_1": "lås",
+    "ord_2": "sål",
+    "laengde": 3
+  },
+  {
+    "ord_1": "mat",
+    "ord_2": "tam",
+    "laengde": 3
+  },
+  {
+    "ord_1": "men",
+    "ord_2": "nem",
+    "laengde": 3
+  },
+  {
+    "ord_1": "mor",
+    "ord_2": "rom",
+    "laengde": 3
+  },
+  {
+    "ord_1": "mos",
+    "ord_2": "som",
+    "laengde": 3
+  },
+  {
+    "ord_1": "mur",
+    "ord_2": "rum",
+    "laengde": 3
+  },
+  {
+    "ord_1": "mus",
+    "ord_2": "sum",
+    "laengde": 3
+  },
+  {
+    "ord_1": "mæt",
+    "ord_2": "tæm",
+    "laengde": 3
+  },
+  {
+    "ord_1": "mør",
+    "ord_2": "røm",
+    "laengde": 3
+  },
+  {
+    "ord_1": "møs",
+    "ord_2": "søm",
+    "laengde": 3
+  },
+  {
+    "ord_1": "nar",
+    "ord_2": "ran",
+    "laengde": 3
+  },
+  {
+    "ord_1": "nat",
+    "ord_2": "tan",
+    "laengde": 3
+  },
+  {
+    "ord_1": "nav",
+    "ord_2": "van",
+    "laengde": 3
+  },
+  {
+    "ord_1": "net",
+    "ord_2": "ten",
+    "laengde": 3
+  },
+  {
+    "ord_1": "nev",
+    "ord_2": "ven",
+    "laengde": 3
+  },
+  {
+    "ord_1": "nip",
+    "ord_2": "pin",
+    "laengde": 3
+  },
+  {
+    "ord_1": "nis",
+    "ord_2": "sin",
+    "laengde": 3
+  },
+  {
+    "ord_1": "nit",
+    "ord_2": "tin",
+    "laengde": 3
+  },
+  {
+    "ord_1": "niv",
+    "ord_2": "vin",
+    "laengde": 3
+  },
+  {
+    "ord_1": "nos",
+    "ord_2": "son",
+    "laengde": 3
+  },
+  {
+    "ord_1": "not",
+    "ord_2": "ton",
+    "laengde": 3
+  },
+  {
+    "ord_1": "nys",
+    "ord_2": "syn",
+    "laengde": 3
+  },
+  {
+    "ord_1": "nøs",
+    "ord_2": "søn",
+    "laengde": 3
+  },
+  {
+    "ord_1": "oks",
+    "ord_2": "sko",
+    "laengde": 3
+  },
+  {
+    "ord_1": "par",
+    "ord_2": "rap",
+    "laengde": 3
+  },
+  {
+    "ord_1": "pat",
+    "ord_2": "tap",
+    "laengde": 3
+  },
+  {
+    "ord_1": "pir",
+    "ord_2": "rip",
+    "laengde": 3
+  },
+  {
+    "ord_1": "pis",
+    "ord_2": "sip",
+    "laengde": 3
+  },
+  {
+    "ord_1": "pit",
+    "ord_2": "tip",
+    "laengde": 3
+  },
+  {
+    "ord_1": "piv",
+    "ord_2": "vip",
+    "laengde": 3
+  },
+  {
+    "ord_1": "pos",
+    "ord_2": "sop",
+    "laengde": 3
+  },
+  {
+    "ord_1": "pot",
+    "ord_2": "top",
+    "laengde": 3
+  },
+  {
+    "ord_1": "pus",
+    "ord_2": "sup",
+    "laengde": 3
+  },
+  {
+    "ord_1": "ras",
+    "ord_2": "sar",
+    "laengde": 3
+  },
+  {
+    "ord_1": "rav",
+    "ord_2": "var",
+    "laengde": 3
+  },
+  {
+    "ord_1": "res",
+    "ord_2": "ser",
+    "laengde": 3
+  },
+  {
+    "ord_1": "ret",
+    "ord_2": "ter",
+    "laengde": 3
+  },
+  {
+    "ord_1": "ris",
+    "ord_2": "sir",
+    "laengde": 3
+  },
+  {
+    "ord_1": "rit",
+    "ord_2": "tir",
+    "laengde": 3
+  },
+  {
+    "ord_1": "riv",
+    "ord_2": "vir",
+    "laengde": 3
+  },
+  {
+    "ord_1": "rot",
+    "ord_2": "tor",
+    "laengde": 3
+  },
+  {
+    "ord_1": "rov",
+    "ord_2": "vor",
+    "laengde": 3
+  },
+  {
+    "ord_1": "rus",
+    "ord_2": "sur",
+    "laengde": 3
+  },
+  {
+    "ord_1": "rut",
+    "ord_2": "tur",
+    "laengde": 3
+  },
+  {
+    "ord_1": "rys",
+    "ord_2": "syr",
+    "laengde": 3
+  },
+  {
+    "ord_1": "ræs",
+    "ord_2": "sær",
+    "laengde": 3
+  },
+  {
+    "ord_1": "ræv",
+    "ord_2": "vær",
+    "laengde": 3
+  },
+  {
+    "ord_1": "rås",
+    "ord_2": "sår",
+    "laengde": 3
+  },
+  {
+    "ord_1": "råt",
+    "ord_2": "tår",
+    "laengde": 3
+  },
+  {
+    "ord_1": "set",
+    "ord_2": "tes",
+    "laengde": 3
+  },
+  {
+    "ord_1": "sit",
+    "ord_2": "tis",
+    "laengde": 3
+  },
+  {
+    "ord_1": "siv",
+    "ord_2": "vis",
+    "laengde": 3
+  },
+  {
+    "ord_1": "slå",
+    "ord_2": "åls",
+    "laengde": 3
+  },
+  {
+    "ord_1": "sot",
+    "ord_2": "tos",
+    "laengde": 3
+  },
+  {
+    "ord_1": "sut",
+    "ord_2": "tus",
+    "laengde": 3
+  },
+  {
+    "ord_1": "syv",
+    "ord_2": "vys",
+    "laengde": 3
+  },
+  {
+    "ord_1": "såt",
+    "ord_2": "tås",
+    "laengde": 3
+  },
+  {
+    "ord_1": "tav",
+    "ord_2": "vat",
+    "laengde": 3
+  },
+  {
+    "ord_1": "tru",
+    "ord_2": "urt",
+    "laengde": 3
+  },
+  {
+    "ord_1": "træ",
+    "ord_2": "ært",
+    "laengde": 3
+  }
+]

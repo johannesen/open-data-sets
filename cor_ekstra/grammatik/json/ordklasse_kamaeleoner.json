@@ -1,0 +1,7317 @@
+[
+  {
+    "lemma": "i",
+    "antal_ordklasser": 5,
+    "ordklasser": "adv|pron|præp|romertal|sb"
+  },
+  {
+    "lemma": "så",
+    "antal_ordklasser": 5,
+    "ordklasser": "adj|adv|konj|udråbsord|vb"
+  },
+  {
+    "lemma": "blot",
+    "antal_ordklasser": 4,
+    "ordklasser": "adj|adv|konj|sb"
+  },
+  {
+    "lemma": "for",
+    "antal_ordklasser": 4,
+    "ordklasser": "adv|konj|præp|sb"
+  },
+  {
+    "lemma": "før",
+    "antal_ordklasser": 4,
+    "ordklasser": "adj|adv|konj|præp"
+  },
+  {
+    "lemma": "nul",
+    "antal_ordklasser": 4,
+    "ordklasser": "pron|sb|talord|udråbsord"
+  },
+  {
+    "lemma": "ad",
+    "antal_ordklasser": 3,
+    "ordklasser": "adv|præp|sb"
+  },
+  {
+    "lemma": "apropos",
+    "antal_ordklasser": 3,
+    "ordklasser": "adj|præp|sb"
+  },
+  {
+    "lemma": "ave",
+    "antal_ordklasser": 3,
+    "ordklasser": "iflerord|sb|vb"
+  },
+  {
+    "lemma": "bag",
+    "antal_ordklasser": 3,
+    "ordklasser": "adv|præp|sb"
+  },
+  {
+    "lemma": "bare",
+    "antal_ordklasser": 3,
+    "ordklasser": "adv|konj|vb"
+  },
+  {
+    "lemma": "des",
+    "antal_ordklasser": 3,
+    "ordklasser": "adv|konj|sb"
+  },
+  {
+    "lemma": "efter",
+    "antal_ordklasser": 3,
+    "ordklasser": "adv|konj|præp"
+  },
+  {
+    "lemma": "en",
+    "antal_ordklasser": 3,
+    "ordklasser": "art|pron|talord"
+  },
+  {
+    "lemma": "fake",
+    "antal_ordklasser": 3,
+    "ordklasser": "adj|sb|vb"
+  },
+  {
+    "lemma": "forinden",
+    "antal_ordklasser": 3,
+    "ordklasser": "adv|konj|præp"
+  },
+  {
+    "lemma": "fra",
+    "antal_ordklasser": 3,
+    "ordklasser": "adv|konj|præp"
+  },
+  {
+    "lemma": "fremme",
+    "antal_ordklasser": 3,
+    "ordklasser": "adv|sb|vb"
+  },
+  {
+    "lemma": "fri",
+    "antal_ordklasser": 3,
+    "ordklasser": "adj|iflerord|vb"
+  },
+  {
+    "lemma": "føje",
+    "antal_ordklasser": 3,
+    "ordklasser": "adj|sb|vb"
+  },
+  {
+    "lemma": "få",
+    "antal_ordklasser": 3,
+    "ordklasser": "adj|iflerord|vb"
+  },
+  {
+    "lemma": "gram",
+    "antal_ordklasser": 3,
+    "ordklasser": "adj|fork|sb"
+  },
+  {
+    "lemma": "højre",
+    "antal_ordklasser": 3,
+    "ordklasser": "adj|iflerord|sb"
+  },
+  {
+    "lemma": "inden",
+    "antal_ordklasser": 3,
+    "ordklasser": "adv|konj|præp"
+  },
+  {
+    "lemma": "jo",
+    "antal_ordklasser": 3,
+    "ordklasser": "adv|konj|udråbsord"
+  },
+  {
+    "lemma": "kende",
+    "antal_ordklasser": 3,
+    "ordklasser": "iflerord|sb|vb"
+  },
+  {
+    "lemma": "klokke",
+    "antal_ordklasser": 3,
+    "ordklasser": "fork|sb|vb"
+  },
+  {
+    "lemma": "knap",
+    "antal_ordklasser": 3,
+    "ordklasser": "adj|adv|sb"
+  },
+  {
+    "lemma": "kontra",
+    "antal_ordklasser": 3,
+    "ordklasser": "adv|præp|sb"
+  },
+  {
+    "lemma": "krone",
+    "antal_ordklasser": 3,
+    "ordklasser": "fork|sb|vb"
+  },
+  {
+    "lemma": "kæmpe",
+    "antal_ordklasser": 3,
+    "ordklasser": "adj|sb|vb"
+  },
+  {
+    "lemma": "lige",
+    "antal_ordklasser": 3,
+    "ordklasser": "adj|adv|sb"
+  },
+  {
+    "lemma": "læ",
+    "antal_ordklasser": 3,
+    "ordklasser": "adj|sb|vb"
+  },
+  {
+    "lemma": "mage",
+    "antal_ordklasser": 3,
+    "ordklasser": "adj|sb|vb"
+  },
+  {
+    "lemma": "med",
+    "antal_ordklasser": 3,
+    "ordklasser": "adv|iflerord|præp"
+  },
+  {
+    "lemma": "mod",
+    "antal_ordklasser": 3,
+    "ordklasser": "iflerord|præp|sb"
+  },
+  {
+    "lemma": "mærke",
+    "antal_ordklasser": 3,
+    "ordklasser": "fork|sb|vb"
+  },
+  {
+    "lemma": "nok",
+    "antal_ordklasser": 3,
+    "ordklasser": "adj|adv|sb"
+  },
+  {
+    "lemma": "nord",
+    "antal_ordklasser": 3,
+    "ordklasser": "adv|fork|sb"
+  },
+  {
+    "lemma": "nordvest",
+    "antal_ordklasser": 3,
+    "ordklasser": "adv|fork|sb"
+  },
+  {
+    "lemma": "nordøst",
+    "antal_ordklasser": 3,
+    "ordklasser": "adv|fork|sb"
+  },
+  {
+    "lemma": "notabene",
+    "antal_ordklasser": 3,
+    "ordklasser": "adv|fork|sb"
+  },
+  {
+    "lemma": "nu",
+    "antal_ordklasser": 3,
+    "ordklasser": "adv|konj|sb"
+  },
+  {
+    "lemma": "nys",
+    "antal_ordklasser": 3,
+    "ordklasser": "adv|iflerord|sb"
+  },
+  {
+    "lemma": "nær",
+    "antal_ordklasser": 3,
+    "ordklasser": "adj|adv|præp"
+  },
+  {
+    "lemma": "næste",
+    "antal_ordklasser": 3,
+    "ordklasser": "adj|sb|vb"
+  },
+  {
+    "lemma": "om",
+    "antal_ordklasser": 3,
+    "ordklasser": "adv|konj|præp"
+  },
+  {
+    "lemma": "over",
+    "antal_ordklasser": 3,
+    "ordklasser": "adv|præp|sb"
+  },
+  {
+    "lemma": "pist",
+    "antal_ordklasser": 3,
+    "ordklasser": "iflerord|sb|udråbsord"
+  },
+  {
+    "lemma": "plump",
+    "antal_ordklasser": 3,
+    "ordklasser": "adj|lydord|sb"
+  },
+  {
+    "lemma": "ram",
+    "antal_ordklasser": 3,
+    "ordklasser": "adj|iflerord|sb"
+  },
+  {
+    "lemma": "ranke",
+    "antal_ordklasser": 3,
+    "ordklasser": "iflerord|sb|vb"
+  },
+  {
+    "lemma": "rap",
+    "antal_ordklasser": 3,
+    "ordklasser": "adj|lydord|sb"
+  },
+  {
+    "lemma": "rede",
+    "antal_ordklasser": 3,
+    "ordklasser": "adj|sb|vb"
+  },
+  {
+    "lemma": "ret",
+    "antal_ordklasser": 3,
+    "ordklasser": "adj|adv|sb"
+  },
+  {
+    "lemma": "selv",
+    "antal_ordklasser": 3,
+    "ordklasser": "adv|pron|sb"
+  },
+  {
+    "lemma": "siden",
+    "antal_ordklasser": 3,
+    "ordklasser": "adv|konj|præp"
+  },
+  {
+    "lemma": "skive",
+    "antal_ordklasser": 3,
+    "ordklasser": "prop|sb|vb"
+  },
+  {
+    "lemma": "skrå",
+    "antal_ordklasser": 3,
+    "ordklasser": "adj|sb|vb"
+  },
+  {
+    "lemma": "sky",
+    "antal_ordklasser": 3,
+    "ordklasser": "adj|sb|vb"
+  },
+  {
+    "lemma": "stille",
+    "antal_ordklasser": 3,
+    "ordklasser": "adj|sb|vb"
+  },
+  {
+    "lemma": "stykke",
+    "antal_ordklasser": 3,
+    "ordklasser": "fork|sb|vb"
+  },
+  {
+    "lemma": "sur",
+    "antal_ordklasser": 3,
+    "ordklasser": "adj|iflerord|sb"
+  },
+  {
+    "lemma": "syd",
+    "antal_ordklasser": 3,
+    "ordklasser": "adv|fork|sb"
+  },
+  {
+    "lemma": "sydvest",
+    "antal_ordklasser": 3,
+    "ordklasser": "adv|fork|sb"
+  },
+  {
+    "lemma": "sydøst",
+    "antal_ordklasser": 3,
+    "ordklasser": "adv|fork|sb"
+  },
+  {
+    "lemma": "til",
+    "antal_ordklasser": 3,
+    "ordklasser": "adv|konj|præp"
+  },
+  {
+    "lemma": "time",
+    "antal_ordklasser": 3,
+    "ordklasser": "fork|sb|vb"
+  },
+  {
+    "lemma": "tot",
+    "antal_ordklasser": 3,
+    "ordklasser": "adj|iflerord|sb"
+  },
+  {
+    "lemma": "tro",
+    "antal_ordklasser": 3,
+    "ordklasser": "adj|sb|vb"
+  },
+  {
+    "lemma": "uden",
+    "antal_ordklasser": 3,
+    "ordklasser": "adv|konj|præp"
+  },
+  {
+    "lemma": "umage",
+    "antal_ordklasser": 3,
+    "ordklasser": "adj|sb|vb"
+  },
+  {
+    "lemma": "under",
+    "antal_ordklasser": 3,
+    "ordklasser": "adv|præp|sb"
+  },
+  {
+    "lemma": "vare",
+    "antal_ordklasser": 3,
+    "ordklasser": "iflerord|sb|vb"
+  },
+  {
+    "lemma": "ved",
+    "antal_ordklasser": 3,
+    "ordklasser": "adv|præp|sb"
+  },
+  {
+    "lemma": "vedkommende",
+    "antal_ordklasser": 3,
+    "ordklasser": "adj|fork|sb"
+  },
+  {
+    "lemma": "venstre",
+    "antal_ordklasser": 3,
+    "ordklasser": "adj|iflerord|sb"
+  },
+  {
+    "lemma": "vest",
+    "antal_ordklasser": 3,
+    "ordklasser": "adv|fork|sb"
+  },
+  {
+    "lemma": "vi",
+    "antal_ordklasser": 3,
+    "ordklasser": "pron|sb|vb"
+  },
+  {
+    "lemma": "vind",
+    "antal_ordklasser": 3,
+    "ordklasser": "adj|iflerord|sb"
+  },
+  {
+    "lemma": "ægte",
+    "antal_ordklasser": 3,
+    "ordklasser": "adj|iflerord|vb"
+  },
+  {
+    "lemma": "øde",
+    "antal_ordklasser": 3,
+    "ordklasser": "adj|sb|vb"
+  },
+  {
+    "lemma": "øst",
+    "antal_ordklasser": 3,
+    "ordklasser": "adv|fork|sb"
+  },
+  {
+    "lemma": "a",
+    "antal_ordklasser": 2,
+    "ordklasser": "præp|sb"
+  },
+  {
+    "lemma": "abe",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "absolut",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "abstrakt",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "adagio",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|sb"
+  },
+  {
+    "lemma": "additiv",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "administration",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "administrativ",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|fork"
+  },
+  {
+    "lemma": "administrere",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|vb"
+  },
+  {
+    "lemma": "adresse",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "af",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|præp"
+  },
+  {
+    "lemma": "afdeling",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "afdød",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|fork"
+  },
+  {
+    "lemma": "aflukke",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "afrejse",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "afsender",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "afsky",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "aftale",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "agrar",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "akkurat",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|adv"
+  },
+  {
+    "lemma": "aktieselskab",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "aktiv",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "akvifer",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "al",
+    "antal_ordklasser": 2,
+    "ordklasser": "pron|sb"
+  },
+  {
+    "lemma": "albue",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "allegretto",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|sb"
+  },
+  {
+    "lemma": "allegro",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|sb"
+  },
+  {
+    "lemma": "allergen",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "almindelig",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|fork"
+  },
+  {
+    "lemma": "alt",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|sb"
+  },
+  {
+    "lemma": "alternativ",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "alting",
+    "antal_ordklasser": 2,
+    "ordklasser": "pron|sb"
+  },
+  {
+    "lemma": "amager",
+    "antal_ordklasser": 2,
+    "ordklasser": "prop|sb"
+  },
+  {
+    "lemma": "ambient",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "amme",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "ampere",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "amplitudemodulation",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "andante",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|sb"
+  },
+  {
+    "lemma": "andantino",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|sb"
+  },
+  {
+    "lemma": "anden",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|talord"
+  },
+  {
+    "lemma": "ane",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "angst",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "angående",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|præp"
+  },
+  {
+    "lemma": "anke",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "anklage",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "anpartsselskab",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "antik",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "antonym",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "antropocæn",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "apokryf",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "arbejde",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "arbejdsmarkedsbidrag",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "arbejdsmarkedsuddannelse",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "arbejdsmiljørepræsentant",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "arm",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "artdirector",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "arve",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "aske",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "at",
+    "antal_ordklasser": 2,
+    "ordklasser": "infmærke|konj"
+  },
+  {
+    "lemma": "atmosfære",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "attention",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "attrå",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "audiovisuel",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|fork"
+  },
+  {
+    "lemma": "august",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "autodidakt",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "autoritetstro",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "bagbord",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|sb"
+  },
+  {
+    "lemma": "bagefter",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|præp"
+  },
+  {
+    "lemma": "bagi",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|præp"
+  },
+  {
+    "lemma": "bagom",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|præp"
+  },
+  {
+    "lemma": "bagpå",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|præp"
+  },
+  {
+    "lemma": "bagved",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|præp"
+  },
+  {
+    "lemma": "baisse",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "bak",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|sb"
+  },
+  {
+    "lemma": "bakke",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "bande",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "bane",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "bank",
+    "antal_ordklasser": 2,
+    "ordklasser": "iflerord|sb"
+  },
+  {
+    "lemma": "banke",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "bankerot",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "bar",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "barok",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "baskisk",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "bede",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "begyndelse",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "behov",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|sb"
+  },
+  {
+    "lemma": "bejdse",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "bekendt",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "bero",
+    "antal_ordklasser": 2,
+    "ordklasser": "iflerord|vb"
+  },
+  {
+    "lemma": "bet",
+    "antal_ordklasser": 2,
+    "ordklasser": "iflerord|sb"
+  },
+  {
+    "lemma": "bi",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|sb"
+  },
+  {
+    "lemma": "bibeltro",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "bibliofil",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "bidevind",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|sb"
+  },
+  {
+    "lemma": "bilabial",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "bind",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "bingo",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|udråbsord"
+  },
+  {
+    "lemma": "bisse",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "bitter",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "blende",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "blinde",
+    "antal_ordklasser": 2,
+    "ordklasser": "iflerord|vb"
+  },
+  {
+    "lemma": "blues",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "bly",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "blænde",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "blære",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "blød",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|iflerord"
+  },
+  {
+    "lemma": "bløde",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "blå",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "bo",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "boble",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "bold",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "bolle",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "bombe",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "bordeaux",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "bort",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|sb"
+  },
+  {
+    "lemma": "bowle",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "brak",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "bred",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "bremse",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "bretonsk",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "brevstemme",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "brillant",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "bringe",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "brodde",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "brokke",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "bruttonationalindkomst",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "bruttonationalprodukt",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "brygge",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "bræmme",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "brænde",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "brændemærke",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "bue",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "bule",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "bump",
+    "antal_ordklasser": 2,
+    "ordklasser": "lydord|sb"
+  },
+  {
+    "lemma": "bums",
+    "antal_ordklasser": 2,
+    "ordklasser": "lydord|sb"
+  },
+  {
+    "lemma": "bundt",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "bunke",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "busket",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "bytte",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "bøde",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "bøje",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "bølge",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "børste",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "bøsse",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "c",
+    "antal_ordklasser": 2,
+    "ordklasser": "romertal|sb"
+  },
+  {
+    "lemma": "candela",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "celsius",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "cent",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "centigram",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "centiliter",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "centimeter",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "central",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "ceremoniel",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "chamois",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "chance",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "charme",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "chartreuse",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "cirka",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|fork"
+  },
+  {
+    "lemma": "clairvoyant",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "compactdisk",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "cosinus",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "cotangens",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "creme",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "crescendo",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|sb"
+  },
+  {
+    "lemma": "cruise",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "d",
+    "antal_ordklasser": 2,
+    "ordklasser": "romertal|sb"
+  },
+  {
+    "lemma": "da",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|konj"
+  },
+  {
+    "lemma": "daglig",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|fork"
+  },
+  {
+    "lemma": "dansant",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "dansk",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "date",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "december",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "decibel",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "decigram",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "deciliter",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "decimal",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "decimeter",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "decrescendo",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|sb"
+  },
+  {
+    "lemma": "defekt",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "defensiv",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "demonstrativ",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "den",
+    "antal_ordklasser": 2,
+    "ordklasser": "art|pron"
+  },
+  {
+    "lemma": "dengang",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|konj"
+  },
+  {
+    "lemma": "dennes",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "dental",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "der",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|formsubj"
+  },
+  {
+    "lemma": "derivativ",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "desktoppublishing",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "desto",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|konj"
+  },
+  {
+    "lemma": "diagonal",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "diameter",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "die",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "dik",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|udråbsord"
+  },
+  {
+    "lemma": "diminuendo",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|sb"
+  },
+  {
+    "lemma": "diminutiv",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "direkte",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|fork"
+  },
+  {
+    "lemma": "direktorat",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "direktør",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "dirigent",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "discjockey",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "diskofil",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "ditto",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|fork"
+  },
+  {
+    "lemma": "doktor",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "dominant",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "dope",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "douche",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "drage",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "drikke",
+    "antal_ordklasser": 2,
+    "ordklasser": "iflerord|vb"
+  },
+  {
+    "lemma": "drive",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "dræ",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "du",
+    "antal_ordklasser": 2,
+    "ordklasser": "pron|vb"
+  },
+  {
+    "lemma": "dukke",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "dulle",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "dump",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "dus",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|iflerord"
+  },
+  {
+    "lemma": "dyb",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "dynge",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "dyr",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "dysse",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "dyt",
+    "antal_ordklasser": 2,
+    "ordklasser": "iflerord|sb"
+  },
+  {
+    "lemma": "dække",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "død",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "døje",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "dåre",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "ebbe",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "ed",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "egentlig",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|adv"
+  },
+  {
+    "lemma": "ej",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|udråbsord"
+  },
+  {
+    "lemma": "eje",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "eksaminere",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|vb"
+  },
+  {
+    "lemma": "eksklusive",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|præp"
+  },
+  {
+    "lemma": "eksplosiv",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "ekspres",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|sb"
+  },
+  {
+    "lemma": "ekstemporal",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "ekstrem",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "elastomer",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "elektroencefalogram",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "elektrokardiogram",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "eller",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|konj"
+  },
+  {
+    "lemma": "end",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|konj"
+  },
+  {
+    "lemma": "ende",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "endelig",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|adv"
+  },
+  {
+    "lemma": "ene",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "energimærke",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "engang",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|konj"
+  },
+  {
+    "lemma": "engelsk",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "enten",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|konj"
+  },
+  {
+    "lemma": "erhvervsgrunduddannelse",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "erhvervsuddannelse",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "erhvervsuddannelseseksamen",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "erotoman",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "eruptiv",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "eufoman",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "europamesterskab",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "europid",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "eventuel",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|fork"
+  },
+  {
+    "lemma": "evne",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "exit",
+    "antal_ordklasser": 2,
+    "ordklasser": "iflerord|sb"
+  },
+  {
+    "lemma": "fad",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "fahrenheit",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "faldera",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|udråbsord"
+  },
+  {
+    "lemma": "fallit",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "fals",
+    "antal_ordklasser": 2,
+    "ordklasser": "iflerord|sb"
+  },
+  {
+    "lemma": "falsk",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "fange",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "fare",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "farve",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "farvel",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|udråbsord"
+  },
+  {
+    "lemma": "faryngal",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "fase",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "fast",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|adv"
+  },
+  {
+    "lemma": "faste",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "faxe",
+    "antal_ordklasser": 2,
+    "ordklasser": "prop|vb"
+  },
+  {
+    "lemma": "februar",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "fed",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "fejde",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "fejl",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "figur",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "finit",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "finlandssvensk",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "finmark",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "finsk",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "finte",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "fire",
+    "antal_ordklasser": 2,
+    "ordklasser": "talord|vb"
+  },
+  {
+    "lemma": "firma",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "fjante",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "flade",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "flage",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "flak",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "flamme",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "flane",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "flaske",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "flomme",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "fluid",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "fly",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "flække",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "flænge",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "fløde",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "fløjte",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "flåde",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "fole",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "foran",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|præp"
+  },
+  {
+    "lemma": "forarbejde",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "forbi",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|præp"
+  },
+  {
+    "lemma": "forhenværende",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|fork"
+  },
+  {
+    "lemma": "forklæde",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "forkorte",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|vb"
+  },
+  {
+    "lemma": "forkortelse",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "formel",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "formelig",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|adv"
+  },
+  {
+    "lemma": "foromtale",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "fort",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|sb"
+  },
+  {
+    "lemma": "fortale",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "forudsat",
+    "antal_ordklasser": 2,
+    "ordklasser": "konj|præp"
+  },
+  {
+    "lemma": "fossil",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "fraktal",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "franc",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "franchise",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "frankofil",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "fransk",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "fredløs",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "freelance",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|vb"
+  },
+  {
+    "lemma": "frekvensmodulation",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "frelse",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "fremleje",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "fremmedangst",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "fremmøde",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "frikativ",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "fritte",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "frynse",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "frøken",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "fråde",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "fuge",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "fuldkommen",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|adv"
+  },
+  {
+    "lemma": "fungicid",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "funke",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "fure",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "fut",
+    "antal_ordklasser": 2,
+    "ordklasser": "lydord|sb"
+  },
+  {
+    "lemma": "fylde",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "fylke",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "fynsk",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "fælde",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "færge",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "færøsk",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "fæste",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "føde",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "følge",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "følgende",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|fork"
+  },
+  {
+    "lemma": "føre",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "førend",
+    "antal_ordklasser": 2,
+    "ordklasser": "konj|præp"
+  },
+  {
+    "lemma": "første",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|talord"
+  },
+  {
+    "lemma": "gal",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "game",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "gammeldansk",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "gange",
+    "antal_ordklasser": 2,
+    "ordklasser": "konj|vb"
+  },
+  {
+    "lemma": "gebærde",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "gejl",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "gemme",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "genmæle",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "gennemrejse",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "gennemsnit",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "gi",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "gift",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "gigabit",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "gigabyte",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "gigahertz",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "gilde",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "gimpe",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "glemme",
+    "antal_ordklasser": 2,
+    "ordklasser": "iflerord|vb"
+  },
+  {
+    "lemma": "glissando",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|sb"
+  },
+  {
+    "lemma": "glæde",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "godte",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "grabbe",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "grad",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "grave",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|vb"
+  },
+  {
+    "lemma": "greje",
+    "antal_ordklasser": 2,
+    "ordklasser": "iflerord|vb"
+  },
+  {
+    "lemma": "greve",
+    "antal_ordklasser": 2,
+    "ordklasser": "prop|sb"
+  },
+  {
+    "lemma": "grille",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "grotesk",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "grund",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "grundlægge",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|vb"
+  },
+  {
+    "lemma": "gry",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "grænse",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "græsk",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "guide",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "guttural",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "gyde",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "gylden",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "gymnasieklasse",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "gynge",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "gælle",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "gærde",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "gære",
+    "antal_ordklasser": 2,
+    "ordklasser": "iflerord|vb"
+  },
+  {
+    "lemma": "ha",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|udråbsord"
+  },
+  {
+    "lemma": "hage",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "hakke",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "hale",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "hallucinogen",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "halløj",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|udråbsord"
+  },
+  {
+    "lemma": "han",
+    "antal_ordklasser": 2,
+    "ordklasser": "pron|sb"
+  },
+  {
+    "lemma": "haps",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|udråbsord"
+  },
+  {
+    "lemma": "harm",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "harme",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "harve",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "has",
+    "antal_ordklasser": 2,
+    "ordklasser": "iflerord|sb"
+  },
+  {
+    "lemma": "haspe",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "hausse",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "have",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "hegle",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "hejre",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "hektar",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "hektogram",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "hektoliter",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "hektometer",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "hektopascal",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "hektowatt",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "hele",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "helle",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|udråbsord"
+  },
+  {
+    "lemma": "henholdsvis",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|fork"
+  },
+  {
+    "lemma": "henry",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "her",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|formsubj"
+  },
+  {
+    "lemma": "hertz",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "hestekraft",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "hike",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "hikke",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "hinsides",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|præp"
+  },
+  {
+    "lemma": "hip",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|iflerord"
+  },
+  {
+    "lemma": "hit",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|sb"
+  },
+  {
+    "lemma": "hjem",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|sb"
+  },
+  {
+    "lemma": "hjernedød",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "hjertedød",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "holdt",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|udråbsord"
+  },
+  {
+    "lemma": "holocæn",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "homofon",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "homograf",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "homonym",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "hopla",
+    "antal_ordklasser": 2,
+    "ordklasser": "iflerord|udråbsord"
+  },
+  {
+    "lemma": "hoppe",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "hopsa",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|udråbsord"
+  },
+  {
+    "lemma": "hora",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "hore",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "hoste",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "hov",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|udråbsord"
+  },
+  {
+    "lemma": "hu",
+    "antal_ordklasser": 2,
+    "ordklasser": "iflerord|sb"
+  },
+  {
+    "lemma": "hue",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "hug",
+    "antal_ordklasser": 2,
+    "ordklasser": "iflerord|sb"
+  },
+  {
+    "lemma": "hul",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "huld",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "hule",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "hun",
+    "antal_ordklasser": 2,
+    "ordklasser": "pron|sb"
+  },
+  {
+    "lemma": "hundred",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|talord"
+  },
+  {
+    "lemma": "hurra",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|udråbsord"
+  },
+  {
+    "lemma": "hvid",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "hvile",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "hvis",
+    "antal_ordklasser": 2,
+    "ordklasser": "konj|pron"
+  },
+  {
+    "lemma": "hybrid",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "hygge",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "hylde",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "hymen",
+    "antal_ordklasser": 2,
+    "ordklasser": "prop|sb"
+  },
+  {
+    "lemma": "hype",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "hypokonder",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "hyre",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "hytte",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "hæfte",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "hægte",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "hæmme",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "hænde",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "hæs",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "høj",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "højdeskræk",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "højesteretssagfører",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "hør",
+    "antal_ordklasser": 2,
+    "ordklasser": "iflerord|sb"
+  },
+  {
+    "lemma": "ibidem",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|fork"
+  },
+  {
+    "lemma": "iblandt",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|præp"
+  },
+  {
+    "lemma": "ideal",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "identifikation",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "identitetskort",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "ifølge",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|præp"
+  },
+  {
+    "lemma": "igennem",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|præp"
+  },
+  {
+    "lemma": "ignorant",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "ilte",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "imedens",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|konj"
+  },
+  {
+    "lemma": "imellem",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|præp"
+  },
+  {
+    "lemma": "imod",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|præp"
+  },
+  {
+    "lemma": "imperativ",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "indenfor",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|præp"
+  },
+  {
+    "lemma": "indeni",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|præp"
+  },
+  {
+    "lemma": "indenom",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|præp"
+  },
+  {
+    "lemma": "indenunder",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|præp"
+  },
+  {
+    "lemma": "indgift",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "indgifte",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "indigo",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "indre",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "indrejse",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "indtil",
+    "antal_ordklasser": 2,
+    "ordklasser": "konj|præp"
+  },
+  {
+    "lemma": "infinit",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "informationsteknologi",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "initial",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "inklusive",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|præp"
+  },
+  {
+    "lemma": "inkognito",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|sb"
+  },
+  {
+    "lemma": "interessentskab",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "interrogativ",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "intransitiv",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "invalid",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "invariabel",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "invariant",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "islandsk",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "isotop",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "ja",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|udråbsord"
+  },
+  {
+    "lemma": "januar",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "jeg",
+    "antal_ordklasser": 2,
+    "ordklasser": "pron|sb"
+  },
+  {
+    "lemma": "jiddisch",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "joke",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "jolle",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "joule",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "journalnummer",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "junior",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "junke",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "jysk",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "jævnføre",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|vb"
+  },
+  {
+    "lemma": "jævnsides",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|præp"
+  },
+  {
+    "lemma": "kainsmærke",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "kalke",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "kanon",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "kap",
+    "antal_ordklasser": 2,
+    "ordklasser": "iflerord|sb"
+  },
+  {
+    "lemma": "kapital",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "kappe",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "karat",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "karcinogen",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "karte",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "kaste",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "kaukasid",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "kausativ",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "kelvin",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "kilde",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "kile",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "kilo",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "kilobit",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "kilobyte",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "kilogram",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "kilogrammeter",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "kilohertz",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "kilojoule",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "kilokalorie",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "kilometer",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "kilopond",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "kilopondmeter",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "kiloton",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "kilovolt",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "kilowatt",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "kilowatttime",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "klage",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "klampe",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "klask",
+    "antal_ordklasser": 2,
+    "ordklasser": "lydord|sb"
+  },
+  {
+    "lemma": "klasse",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "klemme",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "kleptoman",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "klinge",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "klink",
+    "antal_ordklasser": 2,
+    "ordklasser": "iflerord|sb"
+  },
+  {
+    "lemma": "klinke",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "klippe",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "kluk",
+    "antal_ordklasser": 2,
+    "ordklasser": "lydord|sb"
+  },
+  {
+    "lemma": "klynge",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "klæde",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "klæg",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "klø",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "knage",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "knibe",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "knippel",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "kny",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "kode",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "kogle",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "kollektiv",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "kolloid",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "kolonial",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "kommanditselskab",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "komme",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "komparativ",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "kompleks",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "komposit",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "kompres",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "kongelig",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|fork"
+  },
+  {
+    "lemma": "konkret",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "konkurs",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "konsistorial",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "konstant",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "konstituere",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|vb"
+  },
+  {
+    "lemma": "kontingent",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "konto",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "kontor",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "kooperativ",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "kornet",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "kort",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "krabbe",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "krampe",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "krank",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "krap",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "kringle",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "kro",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "krukke",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "krumme",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "kryptogam",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "krølle",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "kubikcentimeter",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "kubikmeter",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "kuk",
+    "antal_ordklasser": 2,
+    "ordklasser": "lydord|sb"
+  },
+  {
+    "lemma": "kule",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "kuplet",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "kurre",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "kursiv",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "kurve",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "kvadratcentimeter",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "kvadratkilometer",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "kvadratmeter",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "kvalm",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "kvalme",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "kvart",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "kvase",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "kvie",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "kvik",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "kvæde",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "kyse",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "kæde",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "kælder",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "kær",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "kære",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "kæreste",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "kærne",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "kævle",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "køn",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "kønsstereotyp",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "køre",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "l",
+    "antal_ordklasser": 2,
+    "ordklasser": "romertal|sb"
+  },
+  {
+    "lemma": "labial",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "labiodental",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "lad",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "lade",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "lam",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "landsretssagfører",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "lange",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "langs",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|præp"
+  },
+  {
+    "lemma": "largo",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|sb"
+  },
+  {
+    "lemma": "laryngal",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "laske",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "lateral",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "lav",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "lave",
+    "antal_ordklasser": 2,
+    "ordklasser": "iflerord|vb"
+  },
+  {
+    "lemma": "le",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "led",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "lede",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "leje",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "lejre",
+    "antal_ordklasser": 2,
+    "ordklasser": "prop|vb"
+  },
+  {
+    "lemma": "lempe",
+    "antal_ordklasser": 2,
+    "ordklasser": "iflerord|vb"
+  },
+  {
+    "lemma": "lette",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "leve",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "lig",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "ligefrem",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|adv"
+  },
+  {
+    "lemma": "ligesom",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|konj"
+  },
+  {
+    "lemma": "like",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "likvid",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "lille",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|fork"
+  },
+  {
+    "lemma": "lime",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "lind",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "line",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "linje",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "linned",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "lire",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "liste",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "liter",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "live",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|vb"
+  },
+  {
+    "lemma": "lodde",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "logaritme",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "loppe",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "los",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "lov",
+    "antal_ordklasser": 2,
+    "ordklasser": "iflerord|sb"
+  },
+  {
+    "lemma": "love",
+    "antal_ordklasser": 2,
+    "ordklasser": "iflerord|vb"
+  },
+  {
+    "lemma": "lovlig",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|adv"
+  },
+  {
+    "lemma": "ludoman",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "lue",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "luffe",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "luge",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "lukke",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "lund",
+    "antal_ordklasser": 2,
+    "ordklasser": "prop|sb"
+  },
+  {
+    "lemma": "lune",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "lunke",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "lunte",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "lur",
+    "antal_ordklasser": 2,
+    "ordklasser": "iflerord|sb"
+  },
+  {
+    "lemma": "lurmærke",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "luv",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "lyde",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "lys",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "lyske",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "læg",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "læge",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "lægte",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "læk",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "længe",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|sb"
+  },
+  {
+    "lemma": "lænke",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "lære",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "løbe",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "løfte",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "løje",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "løn",
+    "antal_ordklasser": 2,
+    "ordklasser": "iflerord|sb"
+  },
+  {
+    "lemma": "m",
+    "antal_ordklasser": 2,
+    "ordklasser": "romertal|sb"
+  },
+  {
+    "lemma": "macho",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "mager",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "mageskifte",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "magister",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "maksimal",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|fork"
+  },
+  {
+    "lemma": "maksimum",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "malapropos",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "man",
+    "antal_ordklasser": 2,
+    "ordklasser": "pron|sb"
+  },
+  {
+    "lemma": "mandlig",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|fork"
+  },
+  {
+    "lemma": "mangefold",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "manifest",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "manuskript",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "marginal",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "maribo",
+    "antal_ordklasser": 2,
+    "ordklasser": "prop|sb"
+  },
+  {
+    "lemma": "maske",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "maskinel",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "massiv",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "mat",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "materiel",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "matrikelnummer",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "mave",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "mede",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "megabit",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "megabyte",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "megahertz",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "megaloman",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "megavolt",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "megawatt",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "mellem",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|præp"
+  },
+  {
+    "lemma": "mellemproportional",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "men",
+    "antal_ordklasser": 2,
+    "ordklasser": "konj|sb"
+  },
+  {
+    "lemma": "messe",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "meter",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "mezzanin",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "middel",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "militær",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "miljømærke",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "milliard",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "millibar",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "milligram",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "milliliter",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "millimeter",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "million",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "millisekund",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "mime",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "minde",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "minimal",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|fork"
+  },
+  {
+    "lemma": "minimum",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "minus",
+    "antal_ordklasser": 2,
+    "ordklasser": "konj|sb"
+  },
+  {
+    "lemma": "minut",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "misogyn",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "mistro",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "mobil",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "mokke",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "mongolid",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "moppe",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "mose",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "motorskib",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "motortankskib",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "mule",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "mus",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "muse",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "mutagen",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "myg",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "myre",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "mytoman",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "mæle",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "møde",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "månedlig",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|fork"
+  },
+  {
+    "lemma": "månelys",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "måtte",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "nagle",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "nakke",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "nap",
+    "antal_ordklasser": 2,
+    "ordklasser": "iflerord|sb"
+  },
+  {
+    "lemma": "narkoman",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "narrativ",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "nas",
+    "antal_ordklasser": 2,
+    "ordklasser": "iflerord|sb"
+  },
+  {
+    "lemma": "nasal",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "naturel",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "navle",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "nedenfor",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|præp"
+  },
+  {
+    "lemma": "nedenom",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|præp"
+  },
+  {
+    "lemma": "nedenunder",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|præp"
+  },
+  {
+    "lemma": "nedertysk",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "nedstrøms",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|præp"
+  },
+  {
+    "lemma": "negativ",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "negrid",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "nej",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|udråbsord"
+  },
+  {
+    "lemma": "nemme",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "net",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "newton",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "newtonmeter",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "nikke",
+    "antal_ordklasser": 2,
+    "ordklasser": "iflerord|vb"
+  },
+  {
+    "lemma": "nitte",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "nominal",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "noppe",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "norden",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|sb"
+  },
+  {
+    "lemma": "nordnordost",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|sb"
+  },
+  {
+    "lemma": "nordnordvest",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|sb"
+  },
+  {
+    "lemma": "nordnordøst",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|sb"
+  },
+  {
+    "lemma": "nordost",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|sb"
+  },
+  {
+    "lemma": "normal",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "norsk",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "nosse",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "note",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "november",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "nudansk",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "nummer",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "ny",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "nydansk",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "nygræsk",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "nymfoman",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "nynorsk",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "nytte",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "næ",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|udråbsord"
+  },
+  {
+    "lemma": "næst",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|præp"
+  },
+  {
+    "lemma": "nødig",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|adv"
+  },
+  {
+    "lemma": "nøje",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|iflerord"
+  },
+  {
+    "lemma": "nørrejysk",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "nå",
+    "antal_ordklasser": 2,
+    "ordklasser": "udråbsord|vb"
+  },
+  {
+    "lemma": "nåde",
+    "antal_ordklasser": 2,
+    "ordklasser": "iflerord|sb"
+  },
+  {
+    "lemma": "når",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|konj"
+  },
+  {
+    "lemma": "o",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|udråbsord"
+  },
+  {
+    "lemma": "objektiv",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "observant",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "observere",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|vb"
+  },
+  {
+    "lemma": "odder",
+    "antal_ordklasser": 2,
+    "ordklasser": "prop|sb"
+  },
+  {
+    "lemma": "offensiv",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "offside",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "ok",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|udråbsord"
+  },
+  {
+    "lemma": "okay",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|udråbsord"
+  },
+  {
+    "lemma": "okse",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "oktober",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "ol",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "oldgræsk",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "omkring",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|præp"
+  },
+  {
+    "lemma": "omprøve",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "omtale",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "oppe",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|vb"
+  },
+  {
+    "lemma": "opstrøms",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|præp"
+  },
+  {
+    "lemma": "oral",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "orange",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "original",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "ork",
+    "antal_ordklasser": 2,
+    "ordklasser": "iflerord|sb"
+  },
+  {
+    "lemma": "ost",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|sb"
+  },
+  {
+    "lemma": "ostinat",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "ostnordost",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|sb"
+  },
+  {
+    "lemma": "ostsydost",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|sb"
+  },
+  {
+    "lemma": "oval",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "oven",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|præp"
+  },
+  {
+    "lemma": "ovenfor",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|præp"
+  },
+  {
+    "lemma": "oveni",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|præp"
+  },
+  {
+    "lemma": "ovenom",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|præp"
+  },
+  {
+    "lemma": "ovenover",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|præp"
+  },
+  {
+    "lemma": "ovenpå",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|præp"
+  },
+  {
+    "lemma": "overarbejde",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "overfor",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|præp"
+  },
+  {
+    "lemma": "overtone",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "ovre",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|præp"
+  },
+  {
+    "lemma": "pace",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "paf",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|lydord"
+  },
+  {
+    "lemma": "pagina",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "pakke",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "palatal",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "palle",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "palliativ",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "pande",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "paradoks",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "paragraf",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "parallel",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "pardon",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|udråbsord"
+  },
+  {
+    "lemma": "parlando",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|sb"
+  },
+  {
+    "lemma": "pascal",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "passiv",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "pause",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "per",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|præp"
+  },
+  {
+    "lemma": "perle",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "permanent",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "perpendikulær",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "perse",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "personel",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "piano",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|sb"
+  },
+  {
+    "lemma": "pibe",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "pif",
+    "antal_ordklasser": 2,
+    "ordklasser": "lydord|sb"
+  },
+  {
+    "lemma": "pift",
+    "antal_ordklasser": 2,
+    "ordklasser": "lydord|sb"
+  },
+  {
+    "lemma": "pik",
+    "antal_ordklasser": 2,
+    "ordklasser": "iflerord|sb"
+  },
+  {
+    "lemma": "pille",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "pine",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "pip",
+    "antal_ordklasser": 2,
+    "ordklasser": "lydord|sb"
+  },
+  {
+    "lemma": "pizzicato",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|sb"
+  },
+  {
+    "lemma": "pladask",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|udråbsord"
+  },
+  {
+    "lemma": "plaf",
+    "antal_ordklasser": 2,
+    "ordklasser": "lydord|sb"
+  },
+  {
+    "lemma": "plage",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "plan",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "planke",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "plante",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "plantefarve",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "plask",
+    "antal_ordklasser": 2,
+    "ordklasser": "lydord|sb"
+  },
+  {
+    "lemma": "plat",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "platte",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "plattysk",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "pleistocæn",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "pleje",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "pludselig",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|adv"
+  },
+  {
+    "lemma": "plus",
+    "antal_ordklasser": 2,
+    "ordklasser": "konj|sb"
+  },
+  {
+    "lemma": "pløre",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "pode",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "polyglot",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "polygon",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "polymer",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "polyvinylklorid",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "pond",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "pose",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "positiv",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "possessiv",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "postscriptum",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "potentiel",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "potte",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "presse",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "presto",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|sb"
+  },
+  {
+    "lemma": "principal",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "prise",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "prismærke",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "procent",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "prof",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "promille",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "prompte",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|vb"
+  },
+  {
+    "lemma": "proportional",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "præcis",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|adv"
+  },
+  {
+    "lemma": "prædikativ",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "præventiv",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "prøve",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "pseudonym",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "puds",
+    "antal_ordklasser": 2,
+    "ordklasser": "iflerord|sb"
+  },
+  {
+    "lemma": "pulje",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "pumpe",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "punkt",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "pur",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "putte",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "pyt",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|udråbsord"
+  },
+  {
+    "lemma": "på",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|præp"
+  },
+  {
+    "lemma": "påklage",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "pålydende",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "påtale",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "radikal",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "ramme",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "rangle",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "rangliste",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "rate",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "rave",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "reel",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "refleksiv",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "rejse",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "rekommanderet",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|fork"
+  },
+  {
+    "lemma": "relativ",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "release",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "remis",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "remse",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "ren",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "rende",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "renonce",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "resident",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "retro",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "rette",
+    "antal_ordklasser": 2,
+    "ordklasser": "iflerord|vb"
+  },
+  {
+    "lemma": "retur",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|sb"
+  },
+  {
+    "lemma": "revne",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "ribbe",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "ride",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "ridse",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "rig",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "rigsdansk",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "rille",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "ringe",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|vb"
+  },
+  {
+    "lemma": "rist",
+    "antal_ordklasser": 2,
+    "ordklasser": "iflerord|sb"
+  },
+  {
+    "lemma": "ritte",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "rive",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "ro",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "rode",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "rodfæste",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "rokke",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "rom",
+    "antal_ordklasser": 2,
+    "ordklasser": "prop|sb"
+  },
+  {
+    "lemma": "rose",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "rotte",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "ruf",
+    "antal_ordklasser": 2,
+    "ordklasser": "iflerord|sb"
+  },
+  {
+    "lemma": "rulle",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "rum",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "runde",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "rynke",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "række",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "rætoromansk",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "rødliste",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "rødme",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "rønne",
+    "antal_ordklasser": 2,
+    "ordklasser": "prop|sb"
+  },
+  {
+    "lemma": "rør",
+    "antal_ordklasser": 2,
+    "ordklasser": "iflerord|sb"
+  },
+  {
+    "lemma": "røre",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "rå",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "råhygge",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "salt",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "salve",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "samarbejde",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "sambo",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "sammenligne",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|vb"
+  },
+  {
+    "lemma": "sammentræde",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "sample",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "samsø",
+    "antal_ordklasser": 2,
+    "ordklasser": "prop|sb"
+  },
+  {
+    "lemma": "samtale",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "samtidig",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|adv"
+  },
+  {
+    "lemma": "samtykke",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "samvirke",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "sand",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "sankt",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|fork"
+  },
+  {
+    "lemma": "score",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "sedativ",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "sej",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "seksogtres",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|talord"
+  },
+  {
+    "lemma": "sekund",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "selvfølgelig",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|adv"
+  },
+  {
+    "lemma": "senior",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "september",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "sesam",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|udråbsord"
+  },
+  {
+    "lemma": "shit",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|udråbsord"
+  },
+  {
+    "lemma": "shortliste",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "si",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "side",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "sidst",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|konj"
+  },
+  {
+    "lemma": "sigende",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|iflerord"
+  },
+  {
+    "lemma": "sigte",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "sild",
+    "antal_ordklasser": 2,
+    "ordklasser": "prop|sb"
+  },
+  {
+    "lemma": "sinke",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "sinus",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "sippe",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "sjov",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "sjuske",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "sjællandsk",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "skade",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "skakmat",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "skalle",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "skam",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|sb"
+  },
+  {
+    "lemma": "skarp",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "ske",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "skide",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|vb"
+  },
+  {
+    "lemma": "skidt",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "skifte",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "skille",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "skindød",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "skinne",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "sko",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "skodde",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "skole",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "skolefritidsordning",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "skorpe",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "skose",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "skotte",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "skralde",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "skramme",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "skrifte",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "skrubbe",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "skrue",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "skræppe",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "skue",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "skuffe",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "skure",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "skygge",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "skylle",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "skæfte",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "skæg",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "skæppe",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "skær",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "skøde",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "skøjte",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "skøn",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "skål",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|udråbsord"
+  },
+  {
+    "lemma": "skåne",
+    "antal_ordklasser": 2,
+    "ordklasser": "prop|vb"
+  },
+  {
+    "lemma": "slagge",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "slange",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "slave",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "slem",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "slet",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|adv"
+  },
+  {
+    "lemma": "slette",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "slice",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "slide",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "slip",
+    "antal_ordklasser": 2,
+    "ordklasser": "iflerord|sb"
+  },
+  {
+    "lemma": "slippe",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "sluse",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "slut",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "slynge",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "slæde",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "sløjfe",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "slå",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "smerte",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "smig",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "sminke",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "smitte",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "smykke",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "smøge",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "smøre",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "snavs",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "sne",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "snerpe",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "snerre",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "snert",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|sb"
+  },
+  {
+    "lemma": "snip",
+    "antal_ordklasser": 2,
+    "ordklasser": "iflerord|sb"
+  },
+  {
+    "lemma": "snitte",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "snue",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "snurre",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "snøre",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "sollys",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "solo",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|sb"
+  },
+  {
+    "lemma": "solvent",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "sort",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "sortliste",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "spalte",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "spids",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "spire",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "spise",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "spole",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "spore",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "sprække",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "sprøjte",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "spy",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "spænde",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "spærre",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "stadig",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|adv"
+  },
+  {
+    "lemma": "stage",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "stamme",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "stampe",
+    "antal_ordklasser": 2,
+    "ordklasser": "iflerord|vb"
+  },
+  {
+    "lemma": "standard",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "standby",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "stanse",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "stave",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "staver",
+    "antal_ordklasser": 2,
+    "ordklasser": "iflerord|sb"
+  },
+  {
+    "lemma": "stege",
+    "antal_ordklasser": 2,
+    "ordklasser": "prop|vb"
+  },
+  {
+    "lemma": "stejle",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "stemme",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "steppe",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "stereotyp",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "stige",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "stik",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "stikken",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|iflerord"
+  },
+  {
+    "lemma": "stime",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "stolpe",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "stor",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|fork"
+  },
+  {
+    "lemma": "straffe",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "straks",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|konj"
+  },
+  {
+    "lemma": "strejke",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "streng",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "stribe",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "strid",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "strigle",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "strø",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "stråle",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "studentereksamen",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "studs",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "stue",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "stump",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "styk",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "stylte",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "styrbord",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|sb"
+  },
+  {
+    "lemma": "styre",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "styrke",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "stænge",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "stævne",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "støtte",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "støvle",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "stå",
+    "antal_ordklasser": 2,
+    "ordklasser": "iflerord|vb"
+  },
+  {
+    "lemma": "sukkulent",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "sultestrejke",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "sum",
+    "antal_ordklasser": 2,
+    "ordklasser": "lydord|sb"
+  },
+  {
+    "lemma": "sund",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "superlativ",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "suveræn",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "svale",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "svang",
+    "antal_ordklasser": 2,
+    "ordklasser": "iflerord|sb"
+  },
+  {
+    "lemma": "svar",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "svensk",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "svær",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "sværte",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "svøbe",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "swipe",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "sydost",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|sb"
+  },
+  {
+    "lemma": "sydsydost",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|sb"
+  },
+  {
+    "lemma": "sydsydvest",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|sb"
+  },
+  {
+    "lemma": "sydsydøst",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|sb"
+  },
+  {
+    "lemma": "sylespids",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "sylte",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "sympatistrejke",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "synd",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "synonym",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "syre",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "sæbe",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "sænke",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "særbo",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "særmærke",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "sæt",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|sb"
+  },
+  {
+    "lemma": "søle",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "sønderjysk",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "søndre",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|vb"
+  },
+  {
+    "lemma": "såre",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|vb"
+  },
+  {
+    "lemma": "tale",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "talje",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "tangens",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "tanke",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "tape",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "tapper",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "te",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "tekstil",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "telefon",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "terabyte",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "terminal",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "terne",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "thi",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|konj"
+  },
+  {
+    "lemma": "tidløs",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "tiende",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|talord"
+  },
+  {
+    "lemma": "tik",
+    "antal_ordklasser": 2,
+    "ordklasser": "iflerord|sb"
+  },
+  {
+    "lemma": "tilliggende",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "tiltale",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "tiltro",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "tinte",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "tit",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|sb"
+  },
+  {
+    "lemma": "tjekke",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "tjære",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "to",
+    "antal_ordklasser": 2,
+    "ordklasser": "talord|vb"
+  },
+  {
+    "lemma": "ton",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "tone",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "top",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|udråbsord"
+  },
+  {
+    "lemma": "tosse",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "total",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "totalskade",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "trampe",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "trang",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "transitiv",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "transparent",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "transversal",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "trappe",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "trave",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "trille",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "trisse",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "trods",
+    "antal_ordklasser": 2,
+    "ordklasser": "præp|sb"
+  },
+  {
+    "lemma": "tromle",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "tromme",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "trone",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "tryne",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "trætte",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "tuberkulose",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "tulle",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "tunge",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "turkis",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "tusind",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|talord"
+  },
+  {
+    "lemma": "tvinge",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "tylle",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "tynge",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "tysk",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "tække",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "tælle",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "tæppe",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "tæve",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "tø",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "tøjle",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "tømme",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "tønde",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "tønder",
+    "antal_ordklasser": 2,
+    "ordklasser": "prop|sb"
+  },
+  {
+    "lemma": "tørre",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "tåge",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "uagtet",
+    "antal_ordklasser": 2,
+    "ordklasser": "konj|præp"
+  },
+  {
+    "lemma": "udbytte",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "udenfor",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|præp"
+  },
+  {
+    "lemma": "udenom",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|præp"
+  },
+  {
+    "lemma": "udenover",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|præp"
+  },
+  {
+    "lemma": "udenpå",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|præp"
+  },
+  {
+    "lemma": "udestående",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "udkomme",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "udleje",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "udover",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|præp"
+  },
+  {
+    "lemma": "udrejse",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "udseende",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "udtale",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "udvortes",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "ugentlig",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|fork"
+  },
+  {
+    "lemma": "ugle",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "uhyre",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "ultimo",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|fork"
+  },
+  {
+    "lemma": "ultramarin",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "umbra",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "undtagen",
+    "antal_ordklasser": 2,
+    "ordklasser": "konj|præp"
+  },
+  {
+    "lemma": "uniform",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "uret",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "uro",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "v",
+    "antal_ordklasser": 2,
+    "ordklasser": "romertal|sb"
+  },
+  {
+    "lemma": "vade",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "valke",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "valse",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "van",
+    "antal_ordklasser": 2,
+    "ordklasser": "iflerord|sb"
+  },
+  {
+    "lemma": "vandskade",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "vandskræk",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "vant",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "vantro",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "vanære",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "varde",
+    "antal_ordklasser": 2,
+    "ordklasser": "prop|sb"
+  },
+  {
+    "lemma": "variabel",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "varme",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "varsko",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "ve",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|udråbsord"
+  },
+  {
+    "lemma": "vedlægge",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|vb"
+  },
+  {
+    "lemma": "vedrørende",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|præp"
+  },
+  {
+    "lemma": "vegne",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "vejle",
+    "antal_ordklasser": 2,
+    "ordklasser": "prop|sb"
+  },
+  {
+    "lemma": "vel",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|sb"
+  },
+  {
+    "lemma": "velkommen",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|udråbsord"
+  },
+  {
+    "lemma": "vente",
+    "antal_ordklasser": 2,
+    "ordklasser": "iflerord|vb"
+  },
+  {
+    "lemma": "verbal",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "verdensmesterskab",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "versus",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|præp"
+  },
+  {
+    "lemma": "vertikal",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "vesten",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|sb"
+  },
+  {
+    "lemma": "vestjysk",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "vestnordvest",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|sb"
+  },
+  {
+    "lemma": "vestsydvest",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|sb"
+  },
+  {
+    "lemma": "veterinær",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "vibrato",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|sb"
+  },
+  {
+    "lemma": "vid",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "viden",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|sb"
+  },
+  {
+    "lemma": "vidne",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "vifte",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "vikle",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "vinde",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "vindstille",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "vintergrøn",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "vippe",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "virke",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "virkelig",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|adv"
+  },
+  {
+    "lemma": "virtuos",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "vis",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "vise",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "visse",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "vokal",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "voksen",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "voksenuddannelsescenter",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "volfe",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "volt",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "volumen",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "vove",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "vrang",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "vrinsk",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "vugge",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "væde",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "vælde",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "værd",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "værelse",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "værge",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "væske",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "væver",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "våge",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "vånde",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "watt",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  },
+  {
+    "lemma": "wow",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|udråbsord"
+  },
+  {
+    "lemma": "x",
+    "antal_ordklasser": 2,
+    "ordklasser": "romertal|sb"
+  },
+  {
+    "lemma": "ydre",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "ynde",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "æde",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "ækvivalent",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "ælde",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "ælte",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "ære",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "øje",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "økse",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "ønske",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "øremærke",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "øse",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "østen",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|sb"
+  },
+  {
+    "lemma": "østjysk",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "østnordøst",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|sb"
+  },
+  {
+    "lemma": "østrogen",
+    "antal_ordklasser": 2,
+    "ordklasser": "adj|sb"
+  },
+  {
+    "lemma": "østsydøst",
+    "antal_ordklasser": 2,
+    "ordklasser": "adv|sb"
+  },
+  {
+    "lemma": "å",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|udråbsord"
+  },
+  {
+    "lemma": "ånde",
+    "antal_ordklasser": 2,
+    "ordklasser": "sb|vb"
+  },
+  {
+    "lemma": "århundred",
+    "antal_ordklasser": 2,
+    "ordklasser": "fork|sb"
+  }
+]

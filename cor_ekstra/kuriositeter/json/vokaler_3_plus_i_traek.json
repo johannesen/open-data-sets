@@ -1,0 +1,9198 @@
+[
+  {
+    "ord": "yoyoen",
+    "vokaler_i_traek": 5
+  },
+  {
+    "ord": "yoyoens",
+    "vokaler_i_traek": 5
+  },
+  {
+    "ord": "yoyoer",
+    "vokaler_i_traek": 5
+  },
+  {
+    "ord": "yoyoerne",
+    "vokaler_i_traek": 5
+  },
+  {
+    "ord": "yoyoernes",
+    "vokaler_i_traek": 5
+  },
+  {
+    "ord": "yoyoers",
+    "vokaler_i_traek": 5
+  },
+  {
+    "ord": "aktivitetsniveauer",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "aktivitetsniveauerne",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "aktivitetsniveauernes",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "aktivitetsniveauers",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "aktivitetsniveauet",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "aktivitetsniveauets",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "bookingbureauer",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "bookingbureauerne",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "bookingbureauernes",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "bookingbureauers",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "bookingbureauet",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "bookingbureauets",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "brugerniveauer",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "brugerniveauerne",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "brugerniveauernes",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "brugerniveauers",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "brugerniveauet",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "brugerniveauets",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "bundniveauer",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "bundniveauerne",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "bundniveauernes",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "bundniveauers",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "bundniveauet",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "bundniveauets",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "bureauer",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "bureauerne",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "bureauernes",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "bureauers",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "bureauet",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "bureauets",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "cadeauen",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "cadeauens",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "cadeauer",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "cadeauerne",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "cadeauernes",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "cadeauers",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "chateauer",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "chateauerne",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "chateauernes",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "chateauers",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "chateauet",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "chateauets",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "chevreauet",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "chevreauets",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "chopsueyen",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "chopsueyens",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "escortbureauer",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "escortbureauerne",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "escortbureauernes",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "escortbureauers",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "escortbureauet",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "escortbureauets",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "ferieøen",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "ferieøens",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "ferieøer",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "ferieøerne",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "ferieøernes",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "ferieøers",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "frikandeauen",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "frikandeauens",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "hawaiianer",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "hawaiianere",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "hawaiianeren",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "hawaiianerens",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "hawaiianeres",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "hawaiianerne",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "hawaiianernes",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "hawaiianers",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "hawaiiansk",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "hawaiianske",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "højniveauer",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "højniveauerne",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "højniveauernes",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "højniveauers",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "højniveauet",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "højniveauets",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "kabliauen",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "kabliauens",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "kabliauer",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "kabliauerne",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "kabliauernes",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "kabliauers",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "kanarieøerne",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "kanarieøernes",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "kursniveauer",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "kursniveauerne",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "kursniveauernes",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "kursniveauers",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "kursniveauet",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "kursniveauets",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "layout",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "layoute",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "layoutede",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "layoutedes",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "layoutende",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "layoutene",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "layoutenes",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "layouter",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "layoutere",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "layouteren",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "layouterens",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "layouteres",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "layouterne",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "layouternes",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "layouters",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "layoutes",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "layoutet",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "layoutets",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "layouts",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "mayaen",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "mayaens",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "mayaer",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "mayaerne",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "mayaernes",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "mayaers",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "mayaindianer",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "mayaindianere",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "mayaindianeren",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "mayaindianerens",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "mayaindianeres",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "mayaindianerne",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "mayaindianernes",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "mayaindianers",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "mellemniveauer",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "mellemniveauerne",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "mellemniveauernes",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "mellemniveauers",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "mellemniveauet",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "mellemniveauets",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "niveauer",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "niveauerne",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "niveauernes",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "niveauers",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "niveauet",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "niveauets",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "nyhedsbureauer",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "nyhedsbureauerne",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "nyhedsbureauernes",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "nyhedsbureauers",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "nyhedsbureauet",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "nyhedsbureauets",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "oplysningsbureauer",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "oplysningsbureauerne",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "oplysningsbureauernes",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "oplysningsbureauers",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "oplysningsbureauet",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "oplysningsbureauets",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "orkneyøerne",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "orkneyøernes",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "papayaen",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "papayaens",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "papayaer",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "papayaerne",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "papayaernes",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "papayaers",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "paraguayaner",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "paraguayanere",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "paraguayaneren",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "paraguayanerens",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "paraguayaneres",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "paraguayanerne",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "paraguayanernes",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "paraguayaners",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "paraguayansk",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "paraguayanske",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "paraguayer",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "paraguayere",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "paraguayeren",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "paraguayerens",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "paraguayeres",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "paraguayerne",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "paraguayernes",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "paraguayers",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "paranoiaen",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "paranoiaens",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "pirayaen",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "pirayaens",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "pirayaer",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "pirayaerne",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "pirayaernes",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "pirayaers",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "plateauer",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "plateauerne",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "plateauernes",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "plateauers",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "plateauet",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "plateauets",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "politbureauer",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "politbureauerne",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "politbureauernes",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "politbureauers",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "politbureauet",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "politbureauets",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "pressebureauer",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "pressebureauerne",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "pressebureauernes",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "pressebureauers",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "pressebureauet",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "pressebureauets",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "prisniveauer",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "prisniveauerne",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "prisniveauernes",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "prisniveauers",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "prisniveauet",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "prisniveauets",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "rejsebureauer",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "rejsebureauerne",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "rejsebureauernes",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "rejsebureauers",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "rejsebureauet",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "rejsebureauets",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "reklamebureauer",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "reklamebureauerne",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "reklamebureauernes",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "reklamebureauers",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "reklamebureauet",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "reklamebureauets",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "rouleauen",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "rouleauens",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "rouleauer",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "rouleauerne",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "rouleauernes",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "rouleauers",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "tableauer",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "tableauerne",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "tableauernes",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "tableauers",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "tableauet",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "tableauets",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "topniveauer",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "topniveauerne",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "topniveauernes",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "topniveauers",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "topniveauet",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "topniveauets",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "trusselniveauer",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "trusselniveauerne",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "trusselniveauernes",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "trusselniveauers",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "trusselniveauet",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "trusselniveauets",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "trusselsniveauer",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "trusselsniveauerne",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "trusselsniveauernes",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "trusselsniveauers",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "trusselsniveauet",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "trusselsniveauets",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "turistbureauer",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "turistbureauerne",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "turistbureauernes",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "turistbureauers",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "turistbureauet",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "turistbureauets",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "uruguayaner",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "uruguayanere",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "uruguayaneren",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "uruguayanerens",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "uruguayaneres",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "uruguayanerne",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "uruguayanernes",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "uruguayaners",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "uruguayansk",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "uruguayanske",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "uruguayer",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "uruguayere",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "uruguayeren",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "uruguayerens",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "uruguayeres",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "uruguayerne",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "uruguayernes",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "uruguayers",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "vikarbureauer",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "vikarbureauerne",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "vikarbureauernes",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "vikarbureauers",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "vikarbureauet",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "vikarbureauets",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "voyeur",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "voyeuren",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "voyeurens",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "voyeurer",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "voyeurerne",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "voyeurernes",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "voyeurers",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "voyeurisme",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "voyeurismen",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "voyeurismens",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "voyeurismes",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "voyeuristisk",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "voyeuristiske",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "voyeurs",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "yoyo",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "yoyos",
+    "vokaler_i_traek": 4
+  },
+  {
+    "ord": "aabenraaer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "aabenraaere",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "aabenraaeren",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "aabenraaerens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "aabenraaeres",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "aabenraaerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "aabenraaernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "aabenraaers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "adagioen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "adagioens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "adagioer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "adagioerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "adagioernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "adagioers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "adagioet",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "adagioets",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "afbureaukratiser",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "afbureaukratisere",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "afbureaukratiserede",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "afbureaukratiseredes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "afbureaukratiserende",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "afbureaukratiserer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "afbureaukratiseres",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "afbureaukratiseret",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "afbureaukratisering",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "afbureaukratiseringen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "afbureaukratiseringens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "afbureaukratiseringer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "afbureaukratiseringerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "afbureaukratiseringernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "afbureaukratiseringers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "afbureaukratiserings",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "agioen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "agioens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "aioli",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "aiolien",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "aioliens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "aiolier",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "aiolierne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "aioliernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "aioliers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "aiolis",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "aktieanalytiker",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "aktieanalytikere",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "aktieanalytikeren",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "aktieanalytikerens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "aktieanalytikeres",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "aktieanalytikerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "aktieanalytikernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "aktieanalytikers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "aktivitetsniveau",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "aktivitetsniveaus",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "alineaer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "alineaerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "alineaernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "alineaers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "alineaet",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "alineaets",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "ambrosiaen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "ambrosiaens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "annuaene",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "annuaenes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "ayatollah",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "ayatollahen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "ayatollahens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "ayatollaher",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "ayatollaherne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "ayatollahernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "ayatollahers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "ayatollahs",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "azaleaen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "azaleaens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "azaleaer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "azaleaerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "azaleaernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "azaleaers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bakkeøen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bakkeøens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bakkeøer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bakkeøerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bakkeøernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bakkeøers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bayern",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bayerns",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bayersk",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bayerske",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bayonneskinke",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bayonneskinken",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bayonneskinkens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bayonneskinker",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bayonneskinkerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bayonneskinkernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bayonneskinkers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bayonneskinkes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "beaujolais",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "beaujolaisen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "beaujolaisens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "beaujolaiser",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "beaujolaiserne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "beaujolaisernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "beaujolaisers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "beautyboks",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "beautybokse",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "beautyboksen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "beautyboksene",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "beautyboksenes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "beautyboksens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "beautybokses",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "begoniaen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "begoniaens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "begoniaer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "begoniaerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "begoniaernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "begoniaers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "belauer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "belauere",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "belaueren",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "belauerens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "belaueres",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "belauerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "belauernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "belauers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "belauisk",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "belauiske",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "beoen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "beoens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "beoer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "beoerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "beoernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "beoers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "biedermeier",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "biedermeiers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "biedermeierstil",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "biedermeierstilen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "biedermeierstilens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "biedermeierstils",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bilradioen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bilradioens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bilradioer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bilradioerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bilradioernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bilradioers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bioanalytiker",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bioanalytikere",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bioanalytikeren",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bioanalytikerens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bioanalytikeres",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bioanalytikerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bioanalytikernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bioanalytikers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bioen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bioenergi",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bioenergien",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bioenergiens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bioenergis",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bioens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bioer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bioerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bioernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bioers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bioetik",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bioetikken",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bioetikkens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bioetiks",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bioetisk",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bioetiske",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bioolie",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bioolien",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "biooliens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bioolier",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bioolierne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "biooliernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "biooliers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bioolies",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bioætanol",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bioætanolet",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bioætanolets",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bioætanols",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "biscayabugten",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "biscayabugtens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "biscayen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "biscayens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "biscayisk",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "biscayiske",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "boaen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "boaens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "boaer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "boaerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "boaernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "boaers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bogeyen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bogeyens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bogeyer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bogeyerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bogeyernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bogeyers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bonsaien",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bonsaiene",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bonsaienes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bonsaiens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bookingbureau",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bookingbureaus",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bordeaux",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bordeauxen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bordeauxens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bordeauxer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bordeauxerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bordeauxernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bordeauxers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bordeauxfarvede",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bordeauxfarvet",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bordeauxrød",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bordeauxrøde",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bordeauxrødt",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bordeauxvæske",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bordeauxvæsken",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bordeauxvæskens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bordeauxvæskes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "borreliaen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "borreliaens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bougainvilleaen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bougainvilleaens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bougainvilleaer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bougainvilleaerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bougainvilleaernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bougainvilleaers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bouillabaisse",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bouillabaissen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bouillabaissens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bouillabaisser",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bouillabaisserne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bouillabaissernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bouillabaissers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bouillabaisses",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bouillon",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bouillonen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bouillonens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bouilloner",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bouillonerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bouillonernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bouilloners",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bouillons",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bouillonterning",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bouillonterningen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bouillonterningens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bouillonterninger",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bouillonterningerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bouillonterningernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bouillonterningers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bouillonternings",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bourgeois",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bourgeoisen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bourgeoisens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bourgeoiser",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bourgeoiserne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bourgeoisernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bourgeoisers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bourgeoisi",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bourgeoisier",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bourgeoisierne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bourgeoisiernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bourgeoisiers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bourgeoisiet",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bourgeoisiets",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bourgeoisis",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "brilleetuier",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "brilleetuierne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "brilleetuiernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "brilleetuiers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "brilleetuiet",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "brilleetuiets",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "brugerniveau",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "brugerniveaus",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bruneier",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bruneiere",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bruneieren",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bruneierens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bruneieres",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bruneierne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bruneiernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bruneiers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bruyere",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bruyeren",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bruyerens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bruyeres",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bundniveau",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bundniveaus",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bureau",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bureaukrat",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bureaukraten",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bureaukratens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bureaukrater",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bureaukraterne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bureaukraternes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bureaukraters",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bureaukrati",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bureaukratier",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bureaukratierne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bureaukratiernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bureaukratiers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bureaukratiet",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bureaukratiets",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bureaukratis",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bureaukratiser",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bureaukratisere",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bureaukratiserede",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bureaukratiseredes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bureaukratiserende",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bureaukratiserer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bureaukratiseres",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bureaukratiseret",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bureaukratisering",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bureaukratiseringen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bureaukratiseringens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bureaukratiseringer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bureaukratiseringerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bureaukratiseringernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bureaukratiseringers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bureaukratiserings",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bureaukratisk",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bureaukratiske",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bureaukratisme",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bureaukratismen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bureaukratismens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bureaukratismes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bureaukrats",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "bureaus",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "børnezooen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "børnezooens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "børnezooer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "børnezooerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "børnezooernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "børnezooers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "cadeau",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "cadeaus",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "cafeteriaer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "cafeteriaerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "cafeteriaernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "cafeteriaers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "cafeteriaet",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "cafeteriaets",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "capoeira",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "capoeiraen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "capoeiraens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "capoeiras",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "capriccioen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "capriccioens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "capriccioer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "capriccioerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "capriccioernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "capriccioers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "carpaccioen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "carpaccioens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "cayennepeber",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "cayennepeberet",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "cayennepeberets",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "cayennepebers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "chaien",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "chaiens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "chardonnayen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "chardonnayens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "chardonnayer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "chardonnayerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "chardonnayernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "chardonnayers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "chateau",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "chateaubriand",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "chateaubrianden",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "chateaubriandens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "chateaubriander",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "chateaubrianderne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "chateaubriandernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "chateaubrianders",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "chateaubriands",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "chateaubriant",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "chateaubrianten",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "chateaubriantens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "chateaubrianter",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "chateaubrianterne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "chateaubrianternes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "chateaubrianters",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "chateaubriants",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "chateaus",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "chevreau",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "chevreaus",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "chihuahuaen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "chihuahuaens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "chihuahuaer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "chihuahuaerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "chihuahuaernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "chihuahuaers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "chopsuey",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "chopsueys",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "chutneyen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "chutneyens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "chutneyer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "chutneyerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "chutneyernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "chutneyers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "ciao",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "cigaretetuier",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "cigaretetuierne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "cigaretetuiernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "cigaretetuiers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "cigaretetuiet",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "cigaretetuiets",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "clairvoyance",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "clairvoyancen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "clairvoyancens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "clairvoyances",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "clairvoyant",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "clairvoyante",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "clairvoyanten",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "clairvoyantens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "clairvoyanter",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "clairvoyanterne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "clairvoyanternes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "clairvoyanters",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "clairvoyants",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "clockradioen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "clockradioens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "clockradioer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "clockradioerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "clockradioernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "clockradioers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "clouer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "clouerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "clouernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "clouers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "clouet",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "clouets",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "cochleaimplantat",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "cochleaimplantater",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "cochleaimplantaterne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "cochleaimplantaternes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "cochleaimplantaters",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "cochleaimplantatet",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "cochleaimplantatets",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "cochleaimplantats",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "cockneyen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "cockneyens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "cockneyer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "cockneyerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "cockneyernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "cockneyers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "cowboyen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "cowboyens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "cowboyer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "cowboyerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "cowboyernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "cowboyers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "curacaoen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "curacaoens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "curacaoer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "curacaoerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "curacaoernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "curacaoers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "dabradioen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "dabradioens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "dabradioer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "dabradioerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "dabradioernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "dabradioers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "dahliaen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "dahliaens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "dahliaer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "dahliaerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "dahliaernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "dahliaers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "daoisme",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "daoismen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "daoismens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "daoismes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "daoist",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "daoisten",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "daoistens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "daoister",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "daoisterne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "daoisternes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "daoisters",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "daoistisk",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "daoistiske",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "daoists",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "demiautomatisk",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "demiautomatiske",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "deoen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "deoens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "deoer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "deoerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "deoernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "deoers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "deosprayen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "deosprayene",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "deosprayenes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "deosprayens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "deosprayer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "deosprayerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "deosprayernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "deosprayers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "deployer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "deployere",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "deployerede",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "deployeredes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "deployerende",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "deployerer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "deployeres",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "deployeret",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "deployering",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "deployeringen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "deployeringens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "deployeringer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "deployeringerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "deployeringernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "deployeringers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "deployerings",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "desavouer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "desavouere",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "desavouerede",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "desavoueredes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "desavouerende",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "desavouerer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "desavoueres",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "desavoueret",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "desavouering",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "desavoueringen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "desavoueringens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "desavoueringer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "desavoueringerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "desavoueringernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "desavoueringers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "desavouerings",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "destroyer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "destroyere",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "destroyeren",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "destroyerens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "destroyeres",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "destroyerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "destroyernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "destroyers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "disagioen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "disagioens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "discjockeyen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "discjockeyens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "discjockeyer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "discjockeyerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "discjockeyernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "discjockeyers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "displayene",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "displayenes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "displayet",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "displayets",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "doyen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "doyenen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "doyenens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "doyener",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "doyenerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "doyenernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "doyeners",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "doyens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "dragqueen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "dragqueenen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "dragqueenens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "dragqueens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "dramaqueen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "dramaqueenen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "dramaqueenens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "dramaqueens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "drikkeautomat",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "drikkeautomaten",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "drikkeautomatens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "drikkeautomater",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "drikkeautomaterne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "drikkeautomaternes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "drikkeautomaters",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "drikkeautomats",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "drikkeyoghurt",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "drikkeyoghurten",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "drikkeyoghurtens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "drikkeyoghurter",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "drikkeyoghurterne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "drikkeyoghurternes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "drikkeyoghurters",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "drikkeyoghurts",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "drueagurk",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "drueagurken",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "drueagurkens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "drueagurker",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "drueagurkerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "drueagurkernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "drueagurkers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "drueagurks",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "drømmescenarioer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "drømmescenarioerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "drømmescenarioernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "drømmescenarioers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "drømmescenarioet",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "drømmescenarioets",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "dueurt",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "dueurten",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "dueurtene",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "dueurtenes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "dueurtens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "dueurter",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "dueurterne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "dueurternes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "dueurters",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "dueurts",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "duoen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "duoens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "duoer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "duoerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "duoernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "duoers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "efeuen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "efeuene",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "efeuenes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "efeuens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "efeuer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "efeuerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "efeuernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "efeuers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "embryoer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "embryoerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "embryoernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "embryoers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "embryoet",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "embryoets",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "escortbureau",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "escortbureaus",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "essayene",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "essayenes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "essayet",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "essayets",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "essayist",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "essayisten",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "essayistens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "essayister",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "essayisterne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "essayisternes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "essayisters",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "essayistik",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "essayistikken",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "essayistikkens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "essayistiks",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "essayistisk",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "essayistiske",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "essayists",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "etuier",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "etuierne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "etuiernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "etuiers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "etuiet",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "etuiets",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "eyeliner",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "eyelinere",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "eyelineren",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "eyelinerens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "eyelineres",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "eyelinerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "eyelinernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "eyeliners",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "fairwayen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "fairwayene",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "fairwayenes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "fairwayens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "familieejede",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "familieejet",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "familieoverhoved",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "familieoverhoveder",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "familieoverhovederne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "familieoverhovedernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "familieoverhoveders",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "familieoverhovedet",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "familieoverhovedets",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "familieoverhoveds",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "faraoen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "faraoens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "faraoer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "faraoerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "faraoernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "faraoers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "ferieafløser",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "ferieafløsere",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "ferieafløseren",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "ferieafløserens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "ferieafløseres",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "ferieafløserne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "ferieafløsernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "ferieafløsers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "ferieuge",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "ferieugen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "ferieugens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "ferieuger",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "ferieugerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "ferieugernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "ferieugers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "ferieuges",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "ferieø",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "ferieøs",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "fiskebouillon",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "fiskebouillonen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "fiskebouillonens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "fiskebouilloner",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "fiskebouillonerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "fiskebouillonernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "fiskebouilloners",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "fiskebouillons",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "fjerboaen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "fjerboaens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "fjerboaer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "fjerboaerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "fjerboaernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "fjerboaers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "flamboyant",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "flamboyante",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "flaskeautomat",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "flaskeautomaten",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "flaskeautomatens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "flaskeautomater",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "flaskeautomaterne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "flaskeautomaternes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "flaskeautomaters",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "flaskeautomats",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "forsytiaen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "forsytiaens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "forsytiaer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "forsytiaerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "forsytiaernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "forsytiaers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "foyer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "foyeren",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "foyerens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "foyerer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "foyererne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "foyerernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "foyerers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "foyers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "fresiaen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "fresiaens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "fresiaer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "fresiaerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "fresiaernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "fresiaers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "frikandeau",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "frikandeaus",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "fuchsiaen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "fuchsiaens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "fuchsiaer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "fuchsiaerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "fuchsiaernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "fuchsiaers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "gadeuorden",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "gadeuordenen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "gadeuordenens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "gadeuordens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "gardeniaen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "gardeniaens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "gardeniaer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "gardeniaerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "gardeniaernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "gardeniaers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "genuaen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "genuaens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "genuaer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "genuaerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "genuaernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "genuaers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "geoelektrik",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "geoelektrikken",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "geoelektrikkens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "geoelektriks",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "geoelektrisk",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "geoelektriske",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "geoide",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "geoiden",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "geoidens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "geoides",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "gouache",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "gouachen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "gouachens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "gouacher",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "gouacherne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "gouachernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "gouachers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "gouaches",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "grenaaenser",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "grenaaensere",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "grenaaenseren",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "grenaaenserens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "grenaaenseres",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "grenaaenserne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "grenaaensernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "grenaaensers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "gruyere",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "gruyeren",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "gruyerens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "gruyerer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "gruyererne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "gruyerernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "gruyerers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "gruyeres",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "guyana",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "guyanas",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "guyaner",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "guyanere",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "guyaneren",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "guyanerens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "guyaneres",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "guyanerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "guyanernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "guyaners",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "guyansk",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "guyanske",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "gymnasieelev",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "gymnasieeleven",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "gymnasieelevens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "gymnasieelever",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "gymnasieeleverne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "gymnasieelevernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "gymnasieelevers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "gymnasieelevs",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "hawaii",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "hawaiiblomst",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "hawaiiblomsten",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "hawaiiblomstens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "hawaiiblomster",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "hawaiiblomsterne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "hawaiiblomsternes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "hawaiiblomsters",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "hawaiiblomsts",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "hawaiiguitar",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "hawaiiguitaren",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "hawaiiguitarens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "hawaiiguitarer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "hawaiiguitarerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "hawaiiguitarernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "hawaiiguitarers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "hawaiiguitars",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "hawaiis",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "hawaiiskjorte",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "hawaiiskjorten",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "hawaiiskjortens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "hawaiiskjorter",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "hawaiiskjorterne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "hawaiiskjorternes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "hawaiiskjorters",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "hawaiiskjortes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "hockeyen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "hockeyens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "hortensiaen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "hortensiaens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "hortensiaer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "hortensiaerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "hortensiaernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "hortensiaers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "hæveautomat",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "hæveautomaten",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "hæveautomatens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "hæveautomater",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "hæveautomaterne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "hæveautomaternes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "hæveautomaters",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "hæveautomats",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "højniveau",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "højniveaufag",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "højniveaufagene",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "højniveaufagenes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "højniveaufaget",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "højniveaufagets",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "højniveaufags",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "højniveaus",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "højradioaktiv",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "højradioaktive",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "højradioaktivt",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "hønsebouillon",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "hønsebouillonen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "hønsebouillonens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "hønsebouilloner",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "hønsebouillonerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "hønsebouillonernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "hønsebouilloners",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "hønsebouillons",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "hårshampooen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "hårshampooens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "hårshampooer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "hårshampooerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "hårshampooernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "hårshampooers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "hårsprayen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "hårsprayene",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "hårsprayenes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "hårsprayens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "hårsprayer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "hårsprayerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "hårsprayernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "hårsprayers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "illoyal",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "illoyale",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "illoyalitet",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "illoyaliteten",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "illoyalitetens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "illoyaliteter",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "illoyaliteterne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "illoyaliteternes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "illoyaliteters",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "illoyalitets",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "illoyalt",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "impresarioen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "impresarioens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "impresarioer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "impresarioerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "impresarioernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "impresarioers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "indoeuropæer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "indoeuropæere",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "indoeuropæeren",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "indoeuropæerens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "indoeuropæeres",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "indoeuropæerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "indoeuropæernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "indoeuropæers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "indoeuropæisk",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "indoeuropæiske",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "infoteriaer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "infoteriaerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "infoteriaernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "infoteriaers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "infoteriaet",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "infoteriaets",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "ingridmarieæble",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "ingridmarieæbler",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "ingridmarieæblerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "ingridmarieæblernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "ingridmarieæblers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "ingridmarieæbles",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "ingridmarieæblet",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "ingridmarieæblets",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "intarsiaen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "intarsiaens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "intelligentsiaen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "intelligentsiaens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "intelligentsiaer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "intelligentsiaerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "intelligentsiaernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "intelligentsiaers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "ishockeyen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "ishockeyens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "jockeyen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "jockeyens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "jockeyer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "jockeyerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "jockeyernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "jockeyers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "jomfruøerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "jomfruøernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "juleøen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "juleøens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "kabliau",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "kabliaus",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "kakaoen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "kakaoens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "kameliaen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "kameliaens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "kameliaer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "kameliaerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "kameliaernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "kameliaers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "karavanseraier",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "karavanseraierne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "karavanseraiernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "karavanseraiers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "karavanseraiet",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "karavanseraiets",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "kazooen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "kazooens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "kazooer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "kazooerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "kazooernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "kazooers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "kemikalieaffald",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "kemikalieaffaldet",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "kemikalieaffaldets",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "kemikalieaffalds",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "keyaccountmanager",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "keyaccountmanagere",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "keyaccountmanageren",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "keyaccountmanagerens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "keyaccountmanageres",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "keyaccountmanagerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "keyaccountmanagernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "keyaccountmanagers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "klokradioen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "klokradioens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "klokradioer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "klokradioerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "klokradioernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "klokradioers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "knoldbegoniaen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "knoldbegoniaens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "knoldbegoniaer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "knoldbegoniaerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "knoldbegoniaernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "knoldbegoniaers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "kogeøen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "kogeøens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "kogeøer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "kogeøerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "kogeøernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "kogeøers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "kontinuaene",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "kontinuaenes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "kursniveau",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "kursniveaus",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "kvieøjede",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "kvieøjet",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "laboratorieundersøgelse",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "laboratorieundersøgelsen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "laboratorieundersøgelsens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "laboratorieundersøgelser",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "laboratorieundersøgelserne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "laboratorieundersøgelsernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "laboratorieundersøgelsers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "laboratorieundersøgelses",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "landauer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "landauere",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "landaueren",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "landauerens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "landaueres",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "landauerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "landauernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "landauers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "latakiaen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "latakiaens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "lavradioaktiv",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "lavradioaktive",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "lavradioaktivt",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "leiene",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "leienes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "leuen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "leuens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "listeriaen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "listeriaens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "litauen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "litauens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "litauer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "litauere",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "litaueren",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "litauerens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "litaueres",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "litauerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "litauernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "litauers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "litauisk",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "litauiske",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "lobeliaen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "lobeliaens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "lobeliaer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "lobeliaerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "lobeliaernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "lobeliaers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "loggiaen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "loggiaens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "loggiaer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "loggiaerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "loggiaernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "loggiaers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "lokalradioen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "lokalradioens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "lokalradioer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "lokalradioerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "lokalradioernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "lokalradioers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "loyal",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "loyale",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "loyalist",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "loyalisten",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "loyalistens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "loyalister",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "loyalisterne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "loyalisternes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "loyalisters",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "loyalistisk",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "loyalistiske",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "loyalists",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "loyalitet",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "loyaliteten",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "loyalitetens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "loyaliteter",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "loyaliteterne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "loyaliteternes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "loyaliteters",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "loyalitets",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "loyalt",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "luciaoptog",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "luciaoptogene",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "luciaoptogenes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "luciaoptoget",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "luciaoptogets",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "luciaoptogs",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "luseshampooen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "luseshampooens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "luseshampooer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "luseshampooerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "luseshampooernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "luseshampooers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "mafiaen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "mafiaens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "mafiaer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "mafiaerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "mafiaernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "mafiaers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "magnesiaen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "magnesiaens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "magnoliaen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "magnoliaens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "magnoliaer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "magnoliaerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "magnoliaernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "magnoliaers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "mahoniaen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "mahoniaens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "mahoniaer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "mahoniaerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "mahoniaernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "mahoniaers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "malariaen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "malariaens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "malaya",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "malayas",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "mangochutneyen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "mangochutneyens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "mangochutneyer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "mangochutneyerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "mangochutneyernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "mangochutneyers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "maoisme",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "maoismen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "maoismens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "maoismes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "maoist",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "maoisten",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "maoistens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "maoister",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "maoisterne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "maoisternes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "maoisters",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "maoistisk",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "maoistiske",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "maoists",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "masaien",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "masaiens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "masaier",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "masaierne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "masaiernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "masaiers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "maya",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "mayakultur",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "mayakulturen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "mayakulturens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "mayakulturer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "mayakulturerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "mayakulturernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "mayakulturers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "mayakulturs",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "mayas",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "mayonnaise",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "mayonnaisen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "mayonnaisens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "mayonnaiser",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "mayonnaiserne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "mayonnaisernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "mayonnaisers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "mayonnaises",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "mediaanalyse",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "mediaanalysen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "mediaanalysens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "mediaanalyser",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "mediaanalyserne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "mediaanalysernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "mediaanalysers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "mediaanalyses",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "medieanalyse",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "medieanalysen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "medieanalysens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "medieanalyser",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "medieanalyserne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "medieanalysernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "medieanalysers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "medieanalyses",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "medieansvar",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "medieansvaret",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "medieansvarets",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "medieansvars",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "medleyen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "medleyens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "medleyer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "medleyerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "medleyernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "medleyers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "medleyet",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "medleyets",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "mellemniveau",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "mellemniveaus",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "mouiller",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "mouillere",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "mouillerede",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "mouilleredes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "mouillerende",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "mouillerer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "mouilleres",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "mouilleret",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "mouillering",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "mouilleringen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "mouilleringens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "mouilleringer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "mouilleringerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "mouilleringernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "mouilleringers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "mouillerings",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "musikvideoen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "musikvideoens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "musikvideoer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "musikvideoerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "musikvideoernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "musikvideoers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "narkorazziaen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "narkorazziaens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "narkorazziaer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "narkorazziaerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "narkorazziaernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "narkorazziaers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "natradioen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "natradioens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "natradioer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "natradioerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "natradioernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "natradioers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "naturalieydelse",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "naturalieydelsen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "naturalieydelsens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "naturalieydelser",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "naturalieydelserne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "naturalieydelsernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "naturalieydelsers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "naturalieydelses",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "naturalieøkonomi",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "naturalieøkonomien",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "naturalieøkonomiens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "naturalieøkonomier",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "naturalieøkonomierne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "naturalieøkonomiernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "naturalieøkonomiers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "naturalieøkonomis",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "netradioen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "netradioens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "netradioer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "netradioerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "netradioernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "netradioers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "niveau",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "niveaudel",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "niveaudele",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "niveaudelende",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "niveaudeler",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "niveaudeles",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "niveaudeling",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "niveaudelingen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "niveaudelingens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "niveaudelinger",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "niveaudelingerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "niveaudelingernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "niveaudelingers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "niveaudelings",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "niveaudelt",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "niveaudelte",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "niveaudeltes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "niveaus",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "noaord",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "noaordene",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "noaordenes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "noaordet",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "noaordets",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "noaords",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "nyhedsbureau",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "nyhedsbureaus",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "nærradioen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "nærradioens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "nærradioer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "nærradioerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "nærradioernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "nærradioers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "næsesprayen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "næsesprayene",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "næsesprayenes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "næsesprayens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "næsesprayer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "næsesprayerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "næsesprayernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "næsesprayers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "onomatopoietika",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "onomatopoietikaene",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "onomatopoietikaenes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "onomatopoietikas",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "onomatopoietikon",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "onomatopoietikonet",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "onomatopoietikonets",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "onomatopoietikons",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "onomatopoietisk",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "onomatopoietiske",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "oplysningsbureau",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "oplysningsbureaus",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "palauer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "palauere",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "palaueren",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "palauerens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "palaueres",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "palauerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "palauernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "palauers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "papaya",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "papayas",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "paraguay",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "paraguays",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "paraguaysk",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "paraguayske",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "paranoia",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "paranoias",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "pariaen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "pariaens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "pariaer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "pariaerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "pariaernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "pariaers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "passacagliaen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "passacagliaens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "passacagliaer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "passacagliaerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "passacagliaernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "passacagliaers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "patioen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "patioens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "patioer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "patioerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "patioernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "patioers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "payoff",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "payoffen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "payoffene",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "payoffenes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "payoffens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "payoffet",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "payoffets",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "payoffs",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "payoffsene",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "payoffsenes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "pebersprayen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "pebersprayene",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "pebersprayenes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "pebersprayens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "pebersprayer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "pebersprayerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "pebersprayernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "pebersprayers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "pengeautomat",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "pengeautomaten",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "pengeautomatens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "pengeautomater",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "pengeautomaterne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "pengeautomaternes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "pengeautomaters",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "pengeautomats",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "personaliaene",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "personaliaenes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "petuniaen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "petuniaene",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "petuniaenes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "petuniaens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "petuniaer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "petuniaerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "petuniaernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "petuniaers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "piqueer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "piqueerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "piqueernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "piqueers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "piqueet",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "piqueets",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "piraya",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "pirayas",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "pizzeriaer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "pizzeriaerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "pizzeriaernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "pizzeriaers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "pizzeriaet",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "pizzeriaets",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "plateau",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "plateauhæl",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "plateauhæle",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "plateauhælen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "plateauhælene",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "plateauhælenes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "plateauhælens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "plateauhæles",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "plateauhæls",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "plateaus",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "plateausko",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "plateauskoen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "plateauskoene",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "plateauskoenes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "plateauskoens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "plateauskos",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "plateausål",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "plateausålen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "plateausålens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "plateausåler",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "plateausålerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "plateausålernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "plateausålers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "plateausåls",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "playboyen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "playboyene",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "playboyenes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "playboyens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "playoffkamp",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "playoffkampe",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "playoffkampen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "playoffkampene",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "playoffkampenes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "playoffkampens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "playoffkampes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "playoffkamps",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "polioen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "polioens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "politbureau",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "politbureaus",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "politirazziaen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "politirazziaens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "politirazziaer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "politirazziaerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "politirazziaernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "politirazziaers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "portfolioen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "portfolioens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "portfolioer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "portfolioerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "portfolioernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "portfolioers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "powerplayene",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "powerplayenes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "powerplayet",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "powerplayets",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "pressebureau",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "pressebureaus",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "prisniveau",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "prisniveaus",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "præmieobligation",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "præmieobligationen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "præmieobligationens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "præmieobligationer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "præmieobligationerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "præmieobligationernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "præmieobligationers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "præmieobligations",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "præmieoverrækkelse",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "præmieoverrækkelsen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "præmieoverrækkelsens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "præmieoverrækkelser",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "præmieoverrækkelserne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "præmieoverrækkelsernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "præmieoverrækkelsers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "præmieoverrækkelses",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "prærieulv",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "prærieulve",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "prærieulven",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "prærieulvene",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "prærieulvenes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "prærieulvens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "prærieulves",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "prærieulvs",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "påskeøen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "påskeøens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "queer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "quinoaen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "quinoaens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "radioaktiv",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "radioaktive",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "radioaktivitet",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "radioaktiviteten",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "radioaktivitetens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "radioaktivitets",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "radioaktivt",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "radioavis",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "radioavisen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "radioavisens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "radioaviser",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "radioaviserne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "radioavisernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "radioavisers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "radioen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "radioens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "radioer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "radioerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "radioernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "radioers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "radioudsendelse",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "radioudsendelsen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "radioudsendelsens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "radioudsendelser",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "radioudsendelserne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "radioudsendelsernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "radioudsendelsers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "radioudsendelses",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "ratatouille",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "ratatouillen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "ratatouillens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "ratatouiller",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "ratatouillerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "ratatouillernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "ratatouillers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "ratatouilles",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "ratioen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "ratioens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "ratioer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "ratioerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "ratioernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "ratioers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "rayon",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "rayonen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "rayonens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "rayoner",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "rayonerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "rayonernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "rayoners",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "rayonet",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "rayonets",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "rayons",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "razziaen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "razziaens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "razziaer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "razziaerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "razziaernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "razziaers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "reaumur",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "reaumurs",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "regionalradioen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "regionalradioens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "regionalradioer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "regionalradioerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "regionalradioernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "regionalradioers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "regnbueørred",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "regnbueørreden",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "regnbueørredens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "regnbueørreder",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "regnbueørrederne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "regnbueørredernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "regnbueørreders",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "regnbueørreds",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "rejsebureau",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "rejsebureaus",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "reklamebureau",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "reklamebureaus",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "ribeye",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "ribeyen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "ribeyens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "ribeyes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "rockvideoen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "rockvideoens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "rockvideoer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "rockvideoerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "rockvideoernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "rockvideoers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "rodeoen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "rodeoens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "rodeoer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "rodeoerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "rodeoernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "rodeoers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "roeoptager",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "roeoptagere",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "roeoptageren",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "roeoptagerens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "roeoptageres",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "roeoptagerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "roeoptagernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "roeoptagers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "rohingyaen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "rohingyaens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "rohingyaer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "rohingyaerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "rohingyaernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "rohingyaers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "rouleau",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "rouleaus",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "royal",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "royale",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "royalisme",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "royalismen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "royalismens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "royalismes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "royalist",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "royalisten",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "royalistens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "royalister",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "royalisterne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "royalisternes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "royalisters",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "royalistisk",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "royalistiske",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "royalists",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "royalt",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "royalties",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "royalty",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "royaltyen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "royaltyens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "royaltyer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "royaltyerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "royaltyernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "royaltyers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "royaltys",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "ryaen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "ryaens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "ryaer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "ryaerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "ryaernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "ryaers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "samuraien",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "samuraiens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "samuraier",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "samuraierne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "samuraiernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "samuraiers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "sangriaen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "sangriaens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "sangriaer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "sangriaerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "sangriaernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "sangriaers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "sauerkraut",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "sauerkrauten",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "sauerkrautens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "sauerkrauts",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "scenarioer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "scenarioerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "scenarioernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "scenarioers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "scenarioet",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "scenarioets",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "semiautomatisk",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "semiautomatiske",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "seminarieadjunkt",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "seminarieadjunkten",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "seminarieadjunktens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "seminarieadjunkter",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "seminarieadjunkterne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "seminarieadjunkternes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "seminarieadjunkters",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "seminarieadjunkts",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "sepiaen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "sepiaens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "sepiaer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "sepiaerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "sepiaernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "sepiaers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "shampooen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "shampooens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "shampooer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "shampooerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "shampooernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "shampooers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "shariaen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "shariaens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "sightseeing",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "sightseeingen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "sightseeingens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "sightseeings",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "sioux",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "siouxen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "siouxens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "siouxer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "siouxerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "siouxernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "siouxers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "siouxindianer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "siouxindianere",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "siouxindianeren",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "siouxindianerens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "siouxindianeres",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "siouxindianerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "siouxindianernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "siouxindianers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "skrueaksel",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "skrueaksels",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "skrueakslen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "skrueakslens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "skrueaksler",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "skrueakslerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "skrueakslernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "skrueakslers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "skrueis",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "skrueisen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "skrueisens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "skrækscenarioer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "skrækscenarioerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "skrækscenarioernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "skrækscenarioers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "skrækscenarioet",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "skrækscenarioets",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "smileyen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "smileyens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "smileyer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "smileyerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "smileyernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "smileyers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "småøen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "småøens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "småøer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "småøerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "småøernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "småøers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "spandauer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "spandauere",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "spandaueren",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "spandauerens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "spandaueres",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "spandauerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "spandauernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "spandauers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "speedwayen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "speedwayene",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "speedwayenes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "speedwayens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "spilleautomat",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "spilleautomaten",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "spilleautomatens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "spilleautomater",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "spilleautomaterne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "spilleautomaternes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "spilleautomaters",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "spilleautomats",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "spiræaen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "spiræaene",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "spiræaenes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "spiræaens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "spiræaer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "spiræaerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "spiræaernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "spiræaers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "spraye",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "sprayede",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "sprayedes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "sprayen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "sprayende",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "sprayene",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "sprayenes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "sprayens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "sprayer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "sprayerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "sprayernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "sprayers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "sprayes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "sprayet",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "stereoanlæg",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "stereoanlæggene",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "stereoanlæggenes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "stereoanlægget",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "stereoanlæggets",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "stereoanlægs",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "stereoen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "stereoens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "stereoer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "stereoerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "stereoernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "stereoers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "studieafgift",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "studieafgiften",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "studieafgiftens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "studieafgifter",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "studieafgifterne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "studieafgifternes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "studieafgifters",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "studieafgifts",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "studieegnede",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "studieegnet",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "studieophold",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "studieopholdene",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "studieopholdenes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "studieopholdet",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "studieopholdets",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "studieopholds",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "stuearrest",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "stuearresten",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "stuearrestens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "stuearrester",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "stuearresterne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "stuearresternes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "stuearresters",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "stuearrests",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "stueetage",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "stueetagen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "stueetagens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "stueetager",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "stueetagerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "stueetagernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "stueetagers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "stueetages",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "stueorgel",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "stueorgelet",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "stueorgelets",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "stueorgels",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "stueorgler",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "stueorglerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "stueorglernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "stueorglers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "stueorglet",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "stueorglets",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "surveyen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "surveyene",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "surveyenes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "surveyens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "tableau",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "tableaus",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "takeawayen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "takeawayene",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "takeawayenes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "takeawayens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "taleradioen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "taleradioens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "taleradioer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "taleradioerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "taleradioernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "taleradioers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "taoisme",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "taoismen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "taoismens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "taoismes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "taoist",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "taoisten",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "taoistens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "taoister",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "taoisterne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "taoisternes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "taoisters",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "taoistisk",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "taoistiske",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "taoists",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "tattooer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "tattooerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "tattooernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "tattooers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "tattooet",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "tattooets",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "tauer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "tauerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "tauernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "tauers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "tauet",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "tauets",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "teriyaki",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "teriyakien",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "teriyakiens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "teriyakis",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "thaien",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "thaiens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "thaier",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "thaierne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "thaiernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "thaiers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "timeout",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "timeouten",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "timeoutens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "timeouter",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "timeouterne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "timeouternes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "timeouters",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "timeouts",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "tokayer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "tokayere",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "tokayeren",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "tokayerens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "tokayeres",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "tokayerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "tokayernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "tokayers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "topniveau",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "topniveaus",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "tradescantiaen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "tradescantiaens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "tradescantiaer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "tradescantiaerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "tradescantiaernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "tradescantiaers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "transistorradioen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "transistorradioens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "transistorradioer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "transistorradioerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "transistorradioernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "transistorradioers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "trioen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "trioens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "trioer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "trioerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "trioernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "trioers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "trolleyen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "trolleyens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "trolleyer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "trolleyerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "trolleyernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "trolleyers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "trusselniveau",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "trusselniveaus",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "trusselsniveau",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "trusselsniveaus",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "turistbureau",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "turistbureaus",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "tørshampooen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "tørshampooens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "tørshampooer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "tørshampooerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "tørshampooernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "tørshampooers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "uautoriserede",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "uautoriseret",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "uruguay",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "uruguays",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "uruguaysk",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "uruguayske",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "videoen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "videoens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "videoer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "videoerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "videoernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "videoers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "videooptagelse",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "videooptagelsen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "videooptagelsens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "videooptagelser",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "videooptagelserne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "videooptagelsernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "videooptagelsers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "videooptagelses",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "videooptager",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "videooptagere",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "videooptageren",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "videooptagerens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "videooptageres",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "videooptagerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "videooptagernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "videooptagers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "videoovervåg",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "videoovervåge",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "videoovervågede",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "videoovervågedes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "videoovervågende",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "videoovervåger",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "videoovervåges",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "videoovervåget",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "videoovervågning",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "videoovervågningen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "videoovervågningens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "videoovervågninger",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "videoovervågningerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "videoovervågningernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "videoovervågningers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "videoovervågnings",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "vikarbureau",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "vikarbureaus",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "youtuber",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "youtubere",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "youtuberen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "youtuberens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "youtuberes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "youtuberne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "youtubernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "youtubers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "yuan",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "yuanen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "yuanene",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "yuanenes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "yuanens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "yuans",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "zinniaen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "zinniaens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "zinniaer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "zinniaerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "zinniaernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "zinniaers",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "zittauerløg",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "zittauerløgene",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "zittauerløgenes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "zittauerløget",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "zittauerløgets",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "zittauerløgs",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "zooen",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "zooens",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "zooer",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "zooerne",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "zooernes",
+    "vokaler_i_traek": 3
+  },
+  {
+    "ord": "zooers",
+    "vokaler_i_traek": 3
+  }
+]

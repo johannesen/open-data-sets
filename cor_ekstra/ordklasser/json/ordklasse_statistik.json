@@ -1,0 +1,62 @@
+[
+  {
+    "ordklasse_kode": "sb",
+    "beskrivelse": "substantiver_navneord",
+    "antal_grundformer": 42493,
+    "antal_boejede_former": 309229
+  },
+  {
+    "ordklasse_kode": "adj",
+    "beskrivelse": "adjektiver_tillaegsord",
+    "antal_grundformer": 10646,
+    "antal_boejede_former": 25697
+  },
+  {
+    "ordklasse_kode": "vb",
+    "beskrivelse": "verber_udsnagnsord",
+    "antal_grundformer": 7018,
+    "antal_boejede_former": 56461
+  },
+  {
+    "ordklasse_kode": "adv",
+    "beskrivelse": "adverbier_biord",
+    "antal_grundformer": 784,
+    "antal_boejede_former": 820
+  },
+  {
+    "ordklasse_kode": "udråbsord",
+    "beskrivelse": "udraabsord_interjektioner",
+    "antal_grundformer": 129,
+    "antal_boejede_former": 141
+  },
+  {
+    "ordklasse_kode": "talord",
+    "beskrivelse": "talord_numeralier",
+    "antal_grundformer": 113,
+    "antal_boejede_former": 222
+  },
+  {
+    "ordklasse_kode": "præp",
+    "beskrivelse": "praepositioner_forholdsord",
+    "antal_grundformer": 93,
+    "antal_boejede_former": 93
+  },
+  {
+    "ordklasse_kode": "konj",
+    "beskrivelse": "konjunktioner_bindeord",
+    "antal_grundformer": 60,
+    "antal_boejede_former": 64
+  },
+  {
+    "ordklasse_kode": "pron",
+    "beskrivelse": "pronominer_stedord",
+    "antal_grundformer": 36,
+    "antal_boejede_former": 89
+  },
+  {
+    "ordklasse_kode": "lydord",
+    "beskrivelse": "lydord_onomatopoietika",
+    "antal_grundformer": 34,
+    "antal_boejede_former": 35
+  }
+]
